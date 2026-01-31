@@ -1,0 +1,1454 @@
+[
+  {
+    "scenario_number": 1,
+    "vital_signs": {
+      "heart_rate_bpm": 120,
+      "respiratory_rate_bpm": 26,
+      "blood_pressure_systolic_mmHg": 128,
+      "blood_pressure_diastolic_mmHg": 78,
+      "temperature": null,
+      "oxygen_saturation_percent": null
+    }
+  },
+  {
+    "scenario_number": 2,
+    "vital_signs": {
+      "heart_rate_bpm": null,
+      "respiratory_rate_bpm": null,
+      "blood_pressure_systolic_mmHg": null,
+      "blood_pressure_diastolic_mmHg": null,
+      "temperature": null,
+      "oxygen_saturation_percent": null
+    }
+  },
+  {
+    "scenario_number": 3,
+    "vital_signs": {
+      "heart_rate_bpm": null,
+      "respiratory_rate_bpm": null,
+      "blood_pressure_systolic_mmHg": null,
+      "blood_pressure_diastolic_mmHg": null,
+      "temperature": null,
+      "oxygen_saturation_percent": null
+    }
+  },
+  {
+    "scenario_number": 4,
+    "vital_signs": {
+      "heart_rate_bpm": 88,
+      "respiratory_rate_bpm": 20,
+      "blood_pressure_systolic_mmHg": 150,
+      "blood_pressure_diastolic_mmHg": 90,
+      "temperature": null,
+      "oxygen_saturation_percent": null
+    }
+  },
+  {
+    "scenario_number": 5,
+    "vital_signs": {
+      "heart_rate_bpm": 78,
+      "respiratory_rate_bpm": 16,
+      "blood_pressure_systolic_mmHg": 132,
+      "blood_pressure_diastolic_mmHg": 78,
+      "temperature": null,
+      "oxygen_saturation_percent": null
+    }
+  },
+  {
+    "scenario_number": 6,
+    "vital_signs": {
+      "heart_rate_bpm": 112,
+      "respiratory_rate_bpm": 24,
+      "blood_pressure_systolic_mmHg": null,
+      "blood_pressure_diastolic_mmHg": null,
+      "temperature": "37.6 °C",
+      "oxygen_saturation_percent": null
+    }
+  },
+  {
+    "scenario_number": 7,
+    "vital_signs": {
+      "heart_rate_bpm": 98,
+      "respiratory_rate_bpm": 22,
+      "blood_pressure_systolic_mmHg": null,
+      "blood_pressure_diastolic_mmHg": null,
+      "temperature": null,
+      "oxygen_saturation_percent": null
+    }
+  },
+  {
+    "scenario_number": 8,
+    "vital_signs": {
+      "heart_rate_bpm": 130,
+      "respiratory_rate_bpm": 32,
+      "blood_pressure_systolic_mmHg": null,
+      "blood_pressure_diastolic_mmHg": null,
+      "temperature": "38.8 °C",
+      "oxygen_saturation_percent": 90
+    }
+  },
+  {
+    "scenario_number": 9,
+    "vital_signs": {
+      "heart_rate_bpm": 153,
+      "respiratory_rate_bpm": 36,
+      "blood_pressure_systolic_mmHg": null,
+      "blood_pressure_diastolic_mmHg": null,
+      "temperature": "38.6 °C",
+      "oxygen_saturation_percent": null
+    }
+  },
+  {
+    "scenario_number": 10,
+    "vital_signs": {
+      "heart_rate_bpm": 102,
+      "respiratory_rate_bpm": 20,
+      "blood_pressure_systolic_mmHg": 155,
+      "blood_pressure_diastolic_mmHg": 100,
+      "temperature": null,
+      "oxygen_saturation_percent": null
+    }
+  },
+  {
+    "scenario_number": 11,
+    "vital_signs": {
+      "heart_rate_bpm": 82,
+      "respiratory_rate_bpm": 18,
+      "blood_pressure_systolic_mmHg": 112,
+      "blood_pressure_diastolic_mmHg": 64,
+      "temperature": null,
+      "oxygen_saturation_percent": null
+    }
+  },
+  {
+    "scenario_number": 12,
+    "vital_signs": {
+      "heart_rate_bpm": 72,
+      "respiratory_rate_bpm": null,
+      "blood_pressure_systolic_mmHg": null,
+      "blood_pressure_diastolic_mmHg": null,
+      "temperature": null,
+      "oxygen_saturation_percent": null
+    }
+  },
+  {
+    "scenario_number": 13,
+    "vital_signs": {
+      "heart_rate_bpm": null,
+      "respiratory_rate_bpm": null,
+      "blood_pressure_systolic_mmHg": null,
+      "blood_pressure_diastolic_mmHg": null,
+      "temperature": null,
+      "oxygen_saturation_percent": null
+    }
+  },
+  {
+    "scenario_number": 14,
+    "vital_signs": {
+      "heart_rate_bpm": 112,
+      "respiratory_rate_bpm": 22,
+      "blood_pressure_systolic_mmHg": 102,
+      "blood_pressure_diastolic_mmHg": 60,
+      "temperature": null,
+      "oxygen_saturation_percent": null
+    }
+  },
+  {
+    "scenario_number": 15,
+    "vital_signs": {
+      "heart_rate_bpm": 110,
+      "respiratory_rate_bpm": 24,
+      "blood_pressure_systolic_mmHg": null,
+      "blood_pressure_diastolic_mmHg": null,
+      "temperature": null,
+      "oxygen_saturation_percent": null
+    }
+  },
+  {
+    "scenario_number": 16,
+    "vital_signs": {
+      "heart_rate_bpm": null,
+      "respiratory_rate_bpm": null,
+      "blood_pressure_systolic_mmHg": null,
+      "blood_pressure_diastolic_mmHg": null,
+      "temperature": null,
+      "oxygen_saturation_percent": null
+    }
+  },
+  {
+    "scenario_number": 17,
+    "vital_signs": {
+      "heart_rate_bpm": null,
+      "respiratory_rate_bpm": null,
+      "blood_pressure_systolic_mmHg": null,
+      "blood_pressure_diastolic_mmHg": null,
+      "temperature": null,
+      "oxygen_saturation_percent": null
+    }
+  },
+  {
+    "scenario_number": 18,
+    "vital_signs": {
+      "heart_rate_bpm": null,
+      "respiratory_rate_bpm": null,
+      "blood_pressure_systolic_mmHg": null,
+      "blood_pressure_diastolic_mmHg": null,
+      "temperature": null,
+      "oxygen_saturation_percent": null
+    }
+  },
+  {
+    "scenario_number": 19,
+    "vital_signs": {
+      "heart_rate_bpm": 142,
+      "respiratory_rate_bpm": 26,
+      "blood_pressure_systolic_mmHg": null,
+      "blood_pressure_diastolic_mmHg": null,
+      "temperature": null,
+      "oxygen_saturation_percent": null
+    }
+  },
+  {
+    "scenario_number": 20,
+    "vital_signs": {
+      "heart_rate_bpm": 172,
+      "respiratory_rate_bpm": null,
+      "blood_pressure_systolic_mmHg": null,
+      "blood_pressure_diastolic_mmHg": null,
+      "temperature": null,
+      "oxygen_saturation_percent": null
+    }
+  },
+  {
+    "scenario_number": 21,
+    "vital_signs": {
+      "heart_rate_bpm": 92,
+      "respiratory_rate_bpm": 18,
+      "blood_pressure_systolic_mmHg": 130,
+      "blood_pressure_diastolic_mmHg": 86,
+      "temperature": null,
+      "oxygen_saturation_percent": null
+    }
+  },
+  {
+    "scenario_number": 22,
+    "vital_signs": {
+      "heart_rate_bpm": null,
+      "respiratory_rate_bpm": null,
+      "blood_pressure_systolic_mmHg": null,
+      "blood_pressure_diastolic_mmHg": null,
+      "temperature": null,
+      "oxygen_saturation_percent": null
+    }
+  },
+  {
+    "scenario_number": 23,
+    "vital_signs": {
+      "heart_rate_bpm": 92,
+      "respiratory_rate_bpm": 24,
+      "blood_pressure_systolic_mmHg": 128,
+      "blood_pressure_diastolic_mmHg": 72,
+      "temperature": "38.2 °C",
+      "oxygen_saturation_percent": null
+    }
+  },
+  {
+    "scenario_number": 24,
+    "vital_signs": {
+      "heart_rate_bpm": 118,
+      "respiratory_rate_bpm": 24,
+      "blood_pressure_systolic_mmHg": null,
+      "blood_pressure_diastolic_mmHg": null,
+      "temperature": null,
+      "oxygen_saturation_percent": null
+    }
+  },
+  {
+    "scenario_number": 25,
+    "vital_signs": {
+      "heart_rate_bpm": null,
+      "respiratory_rate_bpm": null,
+      "blood_pressure_systolic_mmHg": null,
+      "blood_pressure_diastolic_mmHg": null,
+      "temperature": null,
+      "oxygen_saturation_percent": null
+    }
+  },
+  {
+    "scenario_number": 26,
+    "vital_signs": {
+      "heart_rate_bpm": null,
+      "respiratory_rate_bpm": 26,
+      "blood_pressure_systolic_mmHg": null,
+      "blood_pressure_diastolic_mmHg": null,
+      "temperature": null,
+      "oxygen_saturation_percent": 91
+    }
+  },
+  {
+    "scenario_number": 27,
+    "vital_signs": {
+      "heart_rate_bpm": 92,
+      "respiratory_rate_bpm": null,
+      "blood_pressure_systolic_mmHg": null,
+      "blood_pressure_diastolic_mmHg": null,
+      "temperature": null,
+      "oxygen_saturation_percent": null
+    }
+  },
+  {
+    "scenario_number": 28,
+    "vital_signs": {
+      "heart_rate_bpm": 66,
+      "respiratory_rate_bpm": 20,
+      "blood_pressure_systolic_mmHg": null,
+      "blood_pressure_diastolic_mmHg": null,
+      "temperature": null,
+      "oxygen_saturation_percent": null
+    }
+  },
+  {
+    "scenario_number": 29,
+    "vital_signs": {
+      "heart_rate_bpm": null,
+      "respiratory_rate_bpm": null,
+      "blood_pressure_systolic_mmHg": null,
+      "blood_pressure_diastolic_mmHg": null,
+      "temperature": null,
+      "oxygen_saturation_percent": null
+    }
+  },
+  {
+    "scenario_number": 30,
+    "vital_signs": {
+      "heart_rate_bpm": 80,
+      "respiratory_rate_bpm": 20,
+      "blood_pressure_systolic_mmHg": 116,
+      "blood_pressure_diastolic_mmHg": 68,
+      "temperature": null,
+      "oxygen_saturation_percent": null
+    }
+  },
+  {
+    "scenario_number": 31,
+    "vital_signs": {
+      "heart_rate_bpm": null,
+      "respiratory_rate_bpm": null,
+      "blood_pressure_systolic_mmHg": null,
+      "blood_pressure_diastolic_mmHg": null,
+      "temperature": null,
+      "oxygen_saturation_percent": null
+    }
+  },
+  {
+    "scenario_number": 32,
+    "vital_signs": {
+      "heart_rate_bpm": 130,
+      "respiratory_rate_bpm": 10,
+      "blood_pressure_systolic_mmHg": 190,
+      "blood_pressure_diastolic_mmHg": 110,
+      "temperature": "36.3 °C",
+      "oxygen_saturation_percent": 93
+    }
+  },
+  {
+    "scenario_number": 33,
+    "vital_signs": {
+      "heart_rate_bpm": null,
+      "respiratory_rate_bpm": null,
+      "blood_pressure_systolic_mmHg": null,
+      "blood_pressure_diastolic_mmHg": null,
+      "temperature": null,
+      "oxygen_saturation_percent": null
+    }
+  },
+  {
+    "scenario_number": 34,
+    "vital_signs": {
+      "heart_rate_bpm": 112,
+      "respiratory_rate_bpm": 30,
+      "blood_pressure_systolic_mmHg": 180,
+      "blood_pressure_diastolic_mmHg": 100,
+      "temperature": null,
+      "oxygen_saturation_percent": 89
+    }
+  },
+  {
+    "scenario_number": 35,
+    "vital_signs": {
+      "heart_rate_bpm": 128,
+      "respiratory_rate_bpm": null,
+      "blood_pressure_systolic_mmHg": null,
+      "blood_pressure_diastolic_mmHg": null,
+      "temperature": null,
+      "oxygen_saturation_percent": null
+    }
+  },
+  {
+    "scenario_number": 36,
+    "vital_signs": {
+      "heart_rate_bpm": null,
+      "respiratory_rate_bpm": null,
+      "blood_pressure_systolic_mmHg": null,
+      "blood_pressure_diastolic_mmHg": null,
+      "temperature": null,
+      "oxygen_saturation_percent": null
+    }
+  },
+  {
+    "scenario_number": 37,
+    "vital_signs": {
+      "heart_rate_bpm": 72,
+      "respiratory_rate_bpm": 24,
+      "blood_pressure_systolic_mmHg": null,
+      "blood_pressure_diastolic_mmHg": null,
+      "temperature": null,
+      "oxygen_saturation_percent": null
+    }
+  },
+  {
+    "scenario_number": 38,
+    "vital_signs": {
+      "heart_rate_bpm": null,
+      "respiratory_rate_bpm": null,
+      "blood_pressure_systolic_mmHg": null,
+      "blood_pressure_diastolic_mmHg": null,
+      "temperature": null,
+      "oxygen_saturation_percent": null
+    }
+  },
+  {
+    "scenario_number": 39,
+    "vital_signs": {
+      "heart_rate_bpm": null,
+      "respiratory_rate_bpm": null,
+      "blood_pressure_systolic_mmHg": null,
+      "blood_pressure_diastolic_mmHg": null,
+      "temperature": null,
+      "oxygen_saturation_percent": null
+    }
+  },
+  {
+    "scenario_number": 40,
+    "vital_signs": {
+      "heart_rate_bpm": null,
+      "respiratory_rate_bpm": null,
+      "blood_pressure_systolic_mmHg": null,
+      "blood_pressure_diastolic_mmHg": null,
+      "temperature": null,
+      "oxygen_saturation_percent": null
+    }
+  },
+  {
+    "scenario_number": 41,
+    "vital_signs": {
+      "heart_rate_bpm": null,
+      "respiratory_rate_bpm": null,
+      "blood_pressure_systolic_mmHg": null,
+      "blood_pressure_diastolic_mmHg": null,
+      "temperature": null,
+      "oxygen_saturation_percent": null
+    }
+  },
+  {
+    "scenario_number": 42,
+    "vital_signs": {
+      "heart_rate_bpm": null,
+      "respiratory_rate_bpm": null,
+      "blood_pressure_systolic_mmHg": null,
+      "blood_pressure_diastolic_mmHg": null,
+      "temperature": null,
+      "oxygen_saturation_percent": null
+    }
+  },
+  {
+    "scenario_number": 43,
+    "vital_signs": {
+      "heart_rate_bpm": 98,
+      "respiratory_rate_bpm": 20,
+      "blood_pressure_systolic_mmHg": null,
+      "blood_pressure_diastolic_mmHg": null,
+      "temperature": "37.8 °C",
+      "oxygen_saturation_percent": 98
+    }
+  },
+  {
+    "scenario_number": 44,
+    "vital_signs": {
+      "heart_rate_bpm": null,
+      "respiratory_rate_bpm": null,
+      "blood_pressure_systolic_mmHg": null,
+      "blood_pressure_diastolic_mmHg": null,
+      "temperature": null,
+      "oxygen_saturation_percent": null
+    }
+  },
+  {
+    "scenario_number": 45,
+    "vital_signs": {
+      "heart_rate_bpm": null,
+      "respiratory_rate_bpm": null,
+      "blood_pressure_systolic_mmHg": null,
+      "blood_pressure_diastolic_mmHg": null,
+      "temperature": null,
+      "oxygen_saturation_percent": null
+    }
+  },
+  {
+    "scenario_number": 46,
+    "vital_signs": {
+      "heart_rate_bpm": 122,
+      "respiratory_rate_bpm": 24,
+      "blood_pressure_systolic_mmHg": 110,
+      "blood_pressure_diastolic_mmHg": 70,
+      "temperature": null,
+      "oxygen_saturation_percent": null
+    }
+  },
+  {
+    "scenario_number": 47,
+    "vital_signs": {
+      "heart_rate_bpm": null,
+      "respiratory_rate_bpm": null,
+      "blood_pressure_systolic_mmHg": null,
+      "blood_pressure_diastolic_mmHg": null,
+      "temperature": null,
+      "oxygen_saturation_percent": null
+    }
+  },
+  {
+    "scenario_number": 48,
+    "vital_signs": {
+      "heart_rate_bpm": null,
+      "respiratory_rate_bpm": null,
+      "blood_pressure_systolic_mmHg": null,
+      "blood_pressure_diastolic_mmHg": null,
+      "temperature": null,
+      "oxygen_saturation_percent": null
+    }
+  },
+  {
+    "scenario_number": 49,
+    "vital_signs": {
+      "heart_rate_bpm": 120,
+      "respiratory_rate_bpm": null,
+      "blood_pressure_systolic_mmHg": 90,
+      "blood_pressure_diastolic_mmHg": 60,
+      "temperature": null,
+      "oxygen_saturation_percent": null
+    }
+  },
+  {
+    "scenario_number": 50,
+    "vital_signs": {
+      "heart_rate_bpm": null,
+      "respiratory_rate_bpm": 32,
+      "blood_pressure_systolic_mmHg": null,
+      "blood_pressure_diastolic_mmHg": null,
+      "temperature": null,
+      "oxygen_saturation_percent": null
+    }
+  },
+  {
+    "scenario_number": 51,
+    "vital_signs": {
+      "heart_rate_bpm": null,
+      "respiratory_rate_bpm": null,
+      "blood_pressure_systolic_mmHg": null,
+      "blood_pressure_diastolic_mmHg": null,
+      "temperature": null,
+      "oxygen_saturation_percent": null
+    }
+  },
+  {
+    "scenario_number": 52,
+    "vital_signs": {
+      "heart_rate_bpm": null,
+      "respiratory_rate_bpm": null,
+      "blood_pressure_systolic_mmHg": null,
+      "blood_pressure_diastolic_mmHg": null,
+      "temperature": null,
+      "oxygen_saturation_percent": null
+    }
+  },
+  {
+    "scenario_number": 53,
+    "vital_signs": {
+      "heart_rate_bpm": null,
+      "respiratory_rate_bpm": null,
+      "blood_pressure_systolic_mmHg": null,
+      "blood_pressure_diastolic_mmHg": null,
+      "temperature": null,
+      "oxygen_saturation_percent": null
+    }
+  },
+  {
+    "scenario_number": 54,
+    "vital_signs": {
+      "heart_rate_bpm": null,
+      "respiratory_rate_bpm": null,
+      "blood_pressure_systolic_mmHg": null,
+      "blood_pressure_diastolic_mmHg": null,
+      "temperature": null,
+      "oxygen_saturation_percent": null
+    }
+  },
+  {
+    "scenario_number": 55,
+    "vital_signs": {
+      "heart_rate_bpm": 116,
+      "respiratory_rate_bpm": 32,
+      "blood_pressure_systolic_mmHg": 170,
+      "blood_pressure_diastolic_mmHg": 90,
+      "temperature": null,
+      "oxygen_saturation_percent": null
+    }
+  },
+  {
+    "scenario_number": 56,
+    "vital_signs": {
+      "heart_rate_bpm": null,
+      "respiratory_rate_bpm": null,
+      "blood_pressure_systolic_mmHg": null,
+      "blood_pressure_diastolic_mmHg": null,
+      "temperature": null,
+      "oxygen_saturation_percent": null
+    }
+  },
+  {
+    "scenario_number": 57,
+    "vital_signs": {
+      "heart_rate_bpm": 76,
+      "respiratory_rate_bpm": 22,
+      "blood_pressure_systolic_mmHg": null,
+      "blood_pressure_diastolic_mmHg": null,
+      "temperature": null,
+      "oxygen_saturation_percent": null
+    }
+  },
+  {
+    "scenario_number": 58,
+    "vital_signs": {
+      "heart_rate_bpm": null,
+      "respiratory_rate_bpm": null,
+      "blood_pressure_systolic_mmHg": null,
+      "blood_pressure_diastolic_mmHg": null,
+      "temperature": null,
+      "oxygen_saturation_percent": null
+    }
+  },
+  {
+    "scenario_number": 59,
+    "vital_signs": {
+      "heart_rate_bpm": null,
+      "respiratory_rate_bpm": null,
+      "blood_pressure_systolic_mmHg": null,
+      "blood_pressure_diastolic_mmHg": null,
+      "temperature": null,
+      "oxygen_saturation_percent": null
+    }
+  },
+  {
+    "scenario_number": 60,
+    "vital_signs": {
+      "heart_rate_bpm": 94,
+      "respiratory_rate_bpm": 16,
+      "blood_pressure_systolic_mmHg": null,
+      "blood_pressure_diastolic_mmHg": null,
+      "temperature": "37.8 °C",
+      "oxygen_saturation_percent": 98
+    }
+  },
+  {
+    "scenario_number": 61,
+    "vital_signs": {
+      "heart_rate_bpm": 118,
+      "respiratory_rate_bpm": 24,
+      "blood_pressure_systolic_mmHg": null,
+      "blood_pressure_diastolic_mmHg": null,
+      "temperature": "36.8 °C",
+      "oxygen_saturation_percent": 95
+    }
+  },
+  {
+    "scenario_number": 62,
+    "vital_signs": {
+      "heart_rate_bpm": 125,
+      "respiratory_rate_bpm": 24,
+      "blood_pressure_systolic_mmHg": 100,
+      "blood_pressure_diastolic_mmHg": null,
+      "temperature": "36.8 °C",
+      "oxygen_saturation_percent": 98
+    }
+  },
+  {
+    "scenario_number": 63,
+    "vital_signs": {
+      "heart_rate_bpm": 106,
+      "respiratory_rate_bpm": 22,
+      "blood_pressure_systolic_mmHg": null,
+      "blood_pressure_diastolic_mmHg": null,
+      "temperature": "37.8 °C",
+      "oxygen_saturation_percent": 98
+    }
+  },
+  {
+    "scenario_number": 64,
+    "vital_signs": {
+      "heart_rate_bpm": null,
+      "respiratory_rate_bpm": null,
+      "blood_pressure_systolic_mmHg": null,
+      "blood_pressure_diastolic_mmHg": null,
+      "temperature": null,
+      "oxygen_saturation_percent": null
+    }
+  },
+  {
+    "scenario_number": 65,
+    "vital_signs": {
+      "heart_rate_bpm": null,
+      "respiratory_rate_bpm": null,
+      "blood_pressure_systolic_mmHg": null,
+      "blood_pressure_diastolic_mmHg": null,
+      "temperature": null,
+      "oxygen_saturation_percent": null
+    }
+  },
+  {
+    "scenario_number": 66,
+    "vital_signs": {
+      "heart_rate_bpm": 92,
+      "respiratory_rate_bpm": 24,
+      "blood_pressure_systolic_mmHg": 160,
+      "blood_pressure_diastolic_mmHg": 90,
+      "temperature": null,
+      "oxygen_saturation_percent": null
+    }
+  },
+  {
+    "scenario_number": 67,
+    "vital_signs": {
+      "heart_rate_bpm": 108,
+      "respiratory_rate_bpm": 20,
+      "blood_pressure_systolic_mmHg": 120,
+      "blood_pressure_diastolic_mmHg": 80,
+      "temperature": null,
+      "oxygen_saturation_percent": 98
+    }
+  },
+  {
+    "scenario_number": 68,
+    "vital_signs": {
+      "heart_rate_bpm": null,
+      "respiratory_rate_bpm": null,
+      "blood_pressure_systolic_mmHg": null,
+      "blood_pressure_diastolic_mmHg": null,
+      "temperature": null,
+      "oxygen_saturation_percent": null
+    }
+  },
+  {
+    "scenario_number": 69,
+    "vital_signs": {
+      "heart_rate_bpm": 68,
+      "respiratory_rate_bpm": 16,
+      "blood_pressure_systolic_mmHg": 110,
+      "blood_pressure_diastolic_mmHg": 68,
+      "temperature": null,
+      "oxygen_saturation_percent": null
+    }
+  },
+  {
+    "scenario_number": 70,
+    "vital_signs": {
+      "heart_rate_bpm": 76,
+      "respiratory_rate_bpm": 18,
+      "blood_pressure_systolic_mmHg": null,
+      "blood_pressure_diastolic_mmHg": null,
+      "temperature": "36.8 °C",
+      "oxygen_saturation_percent": 99
+    }
+  },
+  {
+    "scenario_number": 71,
+    "vital_signs": {
+      "heart_rate_bpm": null,
+      "respiratory_rate_bpm": null,
+      "blood_pressure_systolic_mmHg": null,
+      "blood_pressure_diastolic_mmHg": null,
+      "temperature": null,
+      "oxygen_saturation_percent": null
+    }
+  },
+  {
+    "scenario_number": 72,
+    "vital_signs": {
+      "heart_rate_bpm": null,
+      "respiratory_rate_bpm": null,
+      "blood_pressure_systolic_mmHg": null,
+      "blood_pressure_diastolic_mmHg": null,
+      "temperature": null,
+      "oxygen_saturation_percent": null
+    }
+  },
+  {
+    "scenario_number": 73,
+    "vital_signs": {
+      "heart_rate_bpm": 96,
+      "respiratory_rate_bpm": 18,
+      "blood_pressure_systolic_mmHg": 145,
+      "blood_pressure_diastolic_mmHg": 84,
+      "temperature": "36.4 °C",
+      "oxygen_saturation_percent": null
+    }
+  },
+  {
+    "scenario_number": 74,
+    "vital_signs": {
+      "heart_rate_bpm": 142,
+      "respiratory_rate_bpm": 26,
+      "blood_pressure_systolic_mmHg": null,
+      "blood_pressure_diastolic_mmHg": null,
+      "temperature": null,
+      "oxygen_saturation_percent": null
+    }
+  },
+  {
+    "scenario_number": 75,
+    "vital_signs": {
+      "heart_rate_bpm": 124,
+      "respiratory_rate_bpm": 26,
+      "blood_pressure_systolic_mmHg": null,
+      "blood_pressure_diastolic_mmHg": null,
+      "temperature": "36.6 °C",
+      "oxygen_saturation_percent": null
+    }
+  },
+  {
+    "scenario_number": 76,
+    "vital_signs": {
+      "heart_rate_bpm": null,
+      "respiratory_rate_bpm": null,
+      "blood_pressure_systolic_mmHg": null,
+      "blood_pressure_diastolic_mmHg": null,
+      "temperature": null,
+      "oxygen_saturation_percent": null
+    }
+  },
+  {
+    "scenario_number": 77,
+    "vital_signs": {
+      "heart_rate_bpm": null,
+      "respiratory_rate_bpm": null,
+      "blood_pressure_systolic_mmHg": null,
+      "blood_pressure_diastolic_mmHg": null,
+      "temperature": null,
+      "oxygen_saturation_percent": null
+    }
+  },
+  {
+    "scenario_number": 78,
+    "vital_signs": {
+      "heart_rate_bpm": 140,
+      "respiratory_rate_bpm": 14,
+      "blood_pressure_systolic_mmHg": null,
+      "blood_pressure_diastolic_mmHg": null,
+      "temperature": null,
+      "oxygen_saturation_percent": null
+    }
+  },
+  {
+    "scenario_number": 79,
+    "vital_signs": {
+      "heart_rate_bpm": null,
+      "respiratory_rate_bpm": null,
+      "blood_pressure_systolic_mmHg": null,
+      "blood_pressure_diastolic_mmHg": null,
+      "temperature": null,
+      "oxygen_saturation_percent": null
+    }
+  },
+  {
+    "scenario_number": 80,
+    "vital_signs": {
+      "heart_rate_bpm": null,
+      "respiratory_rate_bpm": null,
+      "blood_pressure_systolic_mmHg": null,
+      "blood_pressure_diastolic_mmHg": null,
+      "temperature": null,
+      "oxygen_saturation_percent": null
+    }
+  },
+  {
+    "scenario_number": 81,
+    "vital_signs": {
+      "heart_rate_bpm": 86,
+      "respiratory_rate_bpm": 22,
+      "blood_pressure_systolic_mmHg": 142,
+      "blood_pressure_diastolic_mmHg": 82,
+      "temperature": "37.8 °C",
+      "oxygen_saturation_percent": null
+    }
+  },
+  {
+    "scenario_number": 82,
+    "vital_signs": {
+      "heart_rate_bpm": 92,
+      "respiratory_rate_bpm": 20,
+      "blood_pressure_systolic_mmHg": null,
+      "blood_pressure_diastolic_mmHg": null,
+      "temperature": "37.6 °C",
+      "oxygen_saturation_percent": null
+    }
+  },
+  {
+    "scenario_number": 83,
+    "vital_signs": {
+      "heart_rate_bpm": 128,
+      "respiratory_rate_bpm": 26,
+      "blood_pressure_systolic_mmHg": null,
+      "blood_pressure_diastolic_mmHg": null,
+      "temperature": null,
+      "oxygen_saturation_percent": null
+    }
+  },
+  {
+    "scenario_number": 84,
+    "vital_signs": {
+      "heart_rate_bpm": null,
+      "respiratory_rate_bpm": null,
+      "blood_pressure_systolic_mmHg": null,
+      "blood_pressure_diastolic_mmHg": null,
+      "temperature": null,
+      "oxygen_saturation_percent": null
+    }
+  },
+  {
+    "scenario_number": 85,
+    "vital_signs": {
+      "heart_rate_bpm": null,
+      "respiratory_rate_bpm": null,
+      "blood_pressure_systolic_mmHg": null,
+      "blood_pressure_diastolic_mmHg": null,
+      "temperature": null,
+      "oxygen_saturation_percent": null
+    }
+  },
+  {
+    "scenario_number": 86,
+    "vital_signs": {
+      "heart_rate_bpm": null,
+      "respiratory_rate_bpm": null,
+      "blood_pressure_systolic_mmHg": null,
+      "blood_pressure_diastolic_mmHg": null,
+      "temperature": null,
+      "oxygen_saturation_percent": null
+    }
+  },
+  {
+    "scenario_number": 87,
+    "vital_signs": {
+      "heart_rate_bpm": 92,
+      "respiratory_rate_bpm": 16,
+      "blood_pressure_systolic_mmHg": 105,
+      "blood_pressure_diastolic_mmHg": 60,
+      "temperature": "36.8 °C",
+      "oxygen_saturation_percent": null
+    }
+  },
+  {
+    "scenario_number": 88,
+    "vital_signs": {
+      "heart_rate_bpm": null,
+      "respiratory_rate_bpm": null,
+      "blood_pressure_systolic_mmHg": null,
+      "blood_pressure_diastolic_mmHg": null,
+      "temperature": null,
+      "oxygen_saturation_percent": null
+    }
+  },
+  {
+    "scenario_number": 89,
+    "vital_signs": {
+      "heart_rate_bpm": 68,
+      "respiratory_rate_bpm": 16,
+      "blood_pressure_systolic_mmHg": null,
+      "blood_pressure_diastolic_mmHg": null,
+      "temperature": null,
+      "oxygen_saturation_percent": 97
+    }
+  },
+  {
+    "scenario_number": 90,
+    "vital_signs": {
+      "heart_rate_bpm": null,
+      "respiratory_rate_bpm": null,
+      "blood_pressure_systolic_mmHg": null,
+      "blood_pressure_diastolic_mmHg": null,
+      "temperature": null,
+      "oxygen_saturation_percent": null
+    }
+  },
+  {
+    "scenario_number": 91,
+    "vital_signs": {
+      "heart_rate_bpm": 102,
+      "respiratory_rate_bpm": 26,
+      "blood_pressure_systolic_mmHg": null,
+      "blood_pressure_diastolic_mmHg": null,
+      "temperature": "38.4 °C",
+      "oxygen_saturation_percent": null
+    }
+  },
+  {
+    "scenario_number": 92,
+    "vital_signs": {
+      "heart_rate_bpm": null,
+      "respiratory_rate_bpm": null,
+      "blood_pressure_systolic_mmHg": null,
+      "blood_pressure_diastolic_mmHg": null,
+      "temperature": null,
+      "oxygen_saturation_percent": null
+    }
+  },
+  {
+    "scenario_number": 93,
+    "vital_signs": {
+      "heart_rate_bpm": null,
+      "respiratory_rate_bpm": null,
+      "blood_pressure_systolic_mmHg": null,
+      "blood_pressure_diastolic_mmHg": null,
+      "temperature": null,
+      "oxygen_saturation_percent": null
+    }
+  },
+  {
+    "scenario_number": 94,
+    "vital_signs": {
+      "heart_rate_bpm": 67,
+      "respiratory_rate_bpm": 22,
+      "blood_pressure_systolic_mmHg": null,
+      "blood_pressure_diastolic_mmHg": null,
+      "temperature": "37.6 °C",
+      "oxygen_saturation_percent": null
+    }
+  },
+  {
+    "scenario_number": 95,
+    "vital_signs": {
+      "heart_rate_bpm": 74,
+      "respiratory_rate_bpm": 18,
+      "blood_pressure_systolic_mmHg": 126,
+      "blood_pressure_diastolic_mmHg": 72,
+      "temperature": "37.8 °C",
+      "oxygen_saturation_percent": null
+    }
+  },
+  {
+    "scenario_number": 96,
+    "vital_signs": {
+      "heart_rate_bpm": 102,
+      "respiratory_rate_bpm": 20,
+      "blood_pressure_systolic_mmHg": null,
+      "blood_pressure_diastolic_mmHg": null,
+      "temperature": null,
+      "oxygen_saturation_percent": null
+    }
+  },
+  {
+    "scenario_number": 97,
+    "vital_signs": {
+      "heart_rate_bpm": 62,
+      "respiratory_rate_bpm": 24,
+      "blood_pressure_systolic_mmHg": null,
+      "blood_pressure_diastolic_mmHg": null,
+      "temperature": null,
+      "oxygen_saturation_percent": null
+    }
+  },
+  {
+    "scenario_number": 98,
+    "vital_signs": {
+      "heart_rate_bpm": null,
+      "respiratory_rate_bpm": null,
+      "blood_pressure_systolic_mmHg": null,
+      "blood_pressure_diastolic_mmHg": null,
+      "temperature": null,
+      "oxygen_saturation_percent": null
+    }
+  },
+  {
+    "scenario_number": 99,
+    "vital_signs": {
+      "heart_rate_bpm": 92,
+      "respiratory_rate_bpm": 16,
+      "blood_pressure_systolic_mmHg": 116,
+      "blood_pressure_diastolic_mmHg": 68,
+      "temperature": "37.2 °C",
+      "oxygen_saturation_percent": null
+    }
+  },
+  {
+    "scenario_number": 100,
+    "vital_signs": {
+      "heart_rate_bpm": null,
+      "respiratory_rate_bpm": null,
+      "blood_pressure_systolic_mmHg": null,
+      "blood_pressure_diastolic_mmHg": null,
+      "temperature": null,
+      "oxygen_saturation_percent": null
+    }
+  },
+  {
+    "scenario_number": 101,
+    "vital_signs": {
+      "heart_rate_bpm": null,
+      "respiratory_rate_bpm": null,
+      "blood_pressure_systolic_mmHg": null,
+      "blood_pressure_diastolic_mmHg": null,
+      "temperature": null,
+      "oxygen_saturation_percent": null
+    }
+  },
+  {
+    "scenario_number": 102,
+    "vital_signs": {
+      "heart_rate_bpm": 62,
+      "respiratory_rate_bpm": 14,
+      "blood_pressure_systolic_mmHg": 106,
+      "blood_pressure_diastolic_mmHg": 58,
+      "temperature": null,
+      "oxygen_saturation_percent": null
+    }
+  },
+  {
+    "scenario_number": 103,
+    "vital_signs": {
+      "heart_rate_bpm": null,
+      "respiratory_rate_bpm": null,
+      "blood_pressure_systolic_mmHg": null,
+      "blood_pressure_diastolic_mmHg": null,
+      "temperature": null,
+      "oxygen_saturation_percent": null
+    }
+  },
+  {
+    "scenario_number": 104,
+    "vital_signs": {
+      "heart_rate_bpm": 122,
+      "respiratory_rate_bpm": 28,
+      "blood_pressure_systolic_mmHg": null,
+      "blood_pressure_diastolic_mmHg": null,
+      "temperature": null,
+      "oxygen_saturation_percent": null
+    }
+  },
+  {
+    "scenario_number": 105,
+    "vital_signs": {
+      "heart_rate_bpm": null,
+      "respiratory_rate_bpm": null,
+      "blood_pressure_systolic_mmHg": null,
+      "blood_pressure_diastolic_mmHg": null,
+      "temperature": null,
+      "oxygen_saturation_percent": null
+    }
+  },
+  {
+    "scenario_number": 106,
+    "vital_signs": {
+      "heart_rate_bpm": 72,
+      "respiratory_rate_bpm": 16,
+      "blood_pressure_systolic_mmHg": null,
+      "blood_pressure_diastolic_mmHg": null,
+      "temperature": "36.2 °C",
+      "oxygen_saturation_percent": null
+    }
+  },
+  {
+    "scenario_number": 107,
+    "vital_signs": {
+      "heart_rate_bpm": 108,
+      "respiratory_rate_bpm": 26,
+      "blood_pressure_systolic_mmHg": null,
+      "blood_pressure_diastolic_mmHg": null,
+      "temperature": null,
+      "oxygen_saturation_percent": null
+    }
+  },
+  {
+    "scenario_number": 108,
+    "vital_signs": {
+      "heart_rate_bpm": 162,
+      "respiratory_rate_bpm": 24,
+      "blood_pressure_systolic_mmHg": 90,
+      "blood_pressure_diastolic_mmHg": null,
+      "temperature": "36.3 °C",
+      "oxygen_saturation_percent": 98
+    }
+  },
+  {
+    "scenario_number": 109,
+    "vital_signs": {
+      "heart_rate_bpm": 124,
+      "respiratory_rate_bpm": 20,
+      "blood_pressure_systolic_mmHg": 160,
+      "blood_pressure_diastolic_mmHg": 100,
+      "temperature": "36.3 °C",
+      "oxygen_saturation_percent": 98
+    }
+  },
+  {
+    "scenario_number": 110,
+    "vital_signs": {
+      "heart_rate_bpm": 168,
+      "respiratory_rate_bpm": 32,
+      "blood_pressure_systolic_mmHg": null,
+      "blood_pressure_diastolic_mmHg": null,
+      "temperature": null,
+      "oxygen_saturation_percent": 92
+    }
+  },
+  {
+    "scenario_number": 111,
+    "vital_signs": {
+      "heart_rate_bpm": 74,
+      "respiratory_rate_bpm": 18,
+      "blood_pressure_systolic_mmHg": null,
+      "blood_pressure_diastolic_mmHg": null,
+      "temperature": "36.7 °C",
+      "oxygen_saturation_percent": null
+    }
+  },
+  {
+    "scenario_number": 112,
+    "vital_signs": {
+      "heart_rate_bpm": 102,
+      "respiratory_rate_bpm": 16,
+      "blood_pressure_systolic_mmHg": null,
+      "blood_pressure_diastolic_mmHg": null,
+      "temperature": "37.2 °C",
+      "oxygen_saturation_percent": null
+    }
+  },
+  {
+    "scenario_number": 113,
+    "vital_signs": {
+      "heart_rate_bpm": 82,
+      "respiratory_rate_bpm": 16,
+      "blood_pressure_systolic_mmHg": null,
+      "blood_pressure_diastolic_mmHg": null,
+      "temperature": "37.2 °C",
+      "oxygen_saturation_percent": null
+    }
+  },
+  {
+    "scenario_number": 114,
+    "vital_signs": {
+      "heart_rate_bpm": null,
+      "respiratory_rate_bpm": null,
+      "blood_pressure_systolic_mmHg": null,
+      "blood_pressure_diastolic_mmHg": null,
+      "temperature": null,
+      "oxygen_saturation_percent": null
+    }
+  },
+  {
+    "scenario_number": 115,
+    "vital_signs": {
+      "heart_rate_bpm": 128,
+      "respiratory_rate_bpm": null,
+      "blood_pressure_systolic_mmHg": 130,
+      "blood_pressure_diastolic_mmHg": 70,
+      "temperature": null,
+      "oxygen_saturation_percent": null
+    }
+  },
+  {
+    "scenario_number": 116,
+    "vital_signs": {
+      "heart_rate_bpm": 98,
+      "respiratory_rate_bpm": 22,
+      "blood_pressure_systolic_mmHg": 116,
+      "blood_pressure_diastolic_mmHg": 78,
+      "temperature": "38.4 °C",
+      "oxygen_saturation_percent": null
+    }
+  },
+  {
+    "scenario_number": 117,
+    "vital_signs": {
+      "heart_rate_bpm": 98,
+      "respiratory_rate_bpm": 28,
+      "blood_pressure_systolic_mmHg": null,
+      "blood_pressure_diastolic_mmHg": null,
+      "temperature": "38.7 °C",
+      "oxygen_saturation_percent": null
+    }
+  },
+  {
+    "scenario_number": 118,
+    "vital_signs": {
+      "heart_rate_bpm": 96,
+      "respiratory_rate_bpm": 28,
+      "blood_pressure_systolic_mmHg": null,
+      "blood_pressure_diastolic_mmHg": null,
+      "temperature": null,
+      "oxygen_saturation_percent": null
+    }
+  },
+  {
+    "scenario_number": 119,
+    "vital_signs": {
+      "heart_rate_bpm": null,
+      "respiratory_rate_bpm": null,
+      "blood_pressure_systolic_mmHg": null,
+      "blood_pressure_diastolic_mmHg": null,
+      "temperature": null,
+      "oxygen_saturation_percent": null
+    }
+  },
+  {
+    "scenario_number": 120,
+    "vital_signs": {
+      "heart_rate_bpm": null,
+      "respiratory_rate_bpm": null,
+      "blood_pressure_systolic_mmHg": null,
+      "blood_pressure_diastolic_mmHg": null,
+      "temperature": null,
+      "oxygen_saturation_percent": null
+    }
+  },
+  {
+    "scenario_number": 121,
+    "vital_signs": {
+      "heart_rate_bpm": 108,
+      "respiratory_rate_bpm": 20,
+      "blood_pressure_systolic_mmHg": 106,
+      "blood_pressure_diastolic_mmHg": 68,
+      "temperature": null,
+      "oxygen_saturation_percent": null
+    }
+  },
+  {
+    "scenario_number": 122,
+    "vital_signs": {
+      "heart_rate_bpm": null,
+      "respiratory_rate_bpm": null,
+      "blood_pressure_systolic_mmHg": null,
+      "blood_pressure_diastolic_mmHg": null,
+      "temperature": null,
+      "oxygen_saturation_percent": null
+    }
+  },
+  {
+    "scenario_number": 123,
+    "vital_signs": {
+      "heart_rate_bpm": null,
+      "respiratory_rate_bpm": 6,
+      "blood_pressure_systolic_mmHg": null,
+      "blood_pressure_diastolic_mmHg": null,
+      "temperature": null,
+      "oxygen_saturation_percent": null
+    }
+  },
+  {
+    "scenario_number": 124,
+    "vital_signs": {
+      "heart_rate_bpm": null,
+      "respiratory_rate_bpm": null,
+      "blood_pressure_systolic_mmHg": null,
+      "blood_pressure_diastolic_mmHg": null,
+      "temperature": null,
+      "oxygen_saturation_percent": null
+    }
+  },
+  {
+    "scenario_number": 125,
+    "vital_signs": {
+      "heart_rate_bpm": null,
+      "respiratory_rate_bpm": null,
+      "blood_pressure_systolic_mmHg": null,
+      "blood_pressure_diastolic_mmHg": null,
+      "temperature": null,
+      "oxygen_saturation_percent": null
+    }
+  },
+  {
+    "scenario_number": 126,
+    "vital_signs": {
+      "heart_rate_bpm": 88,
+      "respiratory_rate_bpm": 16,
+      "blood_pressure_systolic_mmHg": 132,
+      "blood_pressure_diastolic_mmHg": 78,
+      "temperature": null,
+      "oxygen_saturation_percent": null
+    }
+  },
+  {
+    "scenario_number": 127,
+    "vital_signs": {
+      "heart_rate_bpm": 98,
+      "respiratory_rate_bpm": 26,
+      "blood_pressure_systolic_mmHg": null,
+      "blood_pressure_diastolic_mmHg": null,
+      "temperature": "37.8 °C",
+      "oxygen_saturation_percent": null
+    }
+  },
+  {
+    "scenario_number": 128,
+    "vital_signs": {
+      "heart_rate_bpm": null,
+      "respiratory_rate_bpm": null,
+      "blood_pressure_systolic_mmHg": null,
+      "blood_pressure_diastolic_mmHg": null,
+      "temperature": null,
+      "oxygen_saturation_percent": null
+    }
+  },
+  {
+    "scenario_number": 129,
+    "vital_signs": {
+      "heart_rate_bpm": null,
+      "respiratory_rate_bpm": null,
+      "blood_pressure_systolic_mmHg": null,
+      "blood_pressure_diastolic_mmHg": null,
+      "temperature": null,
+      "oxygen_saturation_percent": null
+    }
+  },
+  {
+    "scenario_number": 130,
+    "vital_signs": {
+      "heart_rate_bpm": null,
+      "respiratory_rate_bpm": null,
+      "blood_pressure_systolic_mmHg": null,
+      "blood_pressure_diastolic_mmHg": null,
+      "temperature": null,
+      "oxygen_saturation_percent": null
+    }
+  },
+  {
+    "scenario_number": 131,
+    "vital_signs": {
+      "heart_rate_bpm": 86,
+      "respiratory_rate_bpm": 20,
+      "blood_pressure_systolic_mmHg": null,
+      "blood_pressure_diastolic_mmHg": null,
+      "temperature": "37.6 °C",
+      "oxygen_saturation_percent": null
+    }
+  },
+  {
+    "scenario_number": 132,
+    "vital_signs": {
+      "heart_rate_bpm": null,
+      "respiratory_rate_bpm": null,
+      "blood_pressure_systolic_mmHg": null,
+      "blood_pressure_diastolic_mmHg": null,
+      "temperature": null,
+      "oxygen_saturation_percent": null
+    }
+  }
+]

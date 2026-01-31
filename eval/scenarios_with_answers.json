@@ -1,0 +1,794 @@
+[
+  {
+    "scenario_number": 1,
+    "description": "Joe is 47 years of age; he presents to the ED with a letter of referral from his local doctor. He has left flank pain radiating to his groin. His local doctor has given him oxycodone 5 mg with little effect. He has a history of left renal colic. His respiratory rate is 26 breaths per minute, his heart rate is 120 beats per minute and his blood pressure is 128/78 mmHg. His skin is cool and clammy. He rates his pain as 8/10.",
+    "category": 2,
+    "rationale": "Airway and breathing are intact. The patient is cool and clammy and reporting very severe pain post-analgesia."
+  },
+  {
+    "scenario_number": 2,
+    "description": "Albert, 44 years, was on his tractor this morning when a foreign body flicked into his eye. His eye is tearing, and he still has the sensation that \u2018something is there\u2019. He says he has \u2018no pain\u2019, but the eye is \u2018uncomfortable\u2019. His visual acuity is normal. There are no visible injuries to the eye.",
+    "category": 3,
+    "rationale": "Airway, breathing and circulation are intact. Foreign body in the eye with no change to visual acuity and no pain."
+  },
+  {
+    "scenario_number": 3,
+    "description": "Shane is a 30-year-old man who presents to the ED reporting a frontal headache increasing in severity over the past few days. The patient states he has been thinking of harming himself, wants to \u2018get help\u2019 and is cooperative and does not seem agitated. If he cannot sort out his problems, he says he will \u2018go and jump off a bridge\u2019. He has no previous neurological history and no previous suicide attempts.",
+    "category": 3,
+    "rationale": "Airway, breathing and circulation are intact. The underlying problem is the pain, and this must be investigated thoroughly. Suicidal ideation is expressed but it should be noted that Shane is seeking help. This patient should be under close observation."
+  },
+  {
+    "scenario_number": 4,
+    "description": "Dima is a 91-year-old woman of non-English speaking background. She is brought to the ED in her son\u2019s car after seeing her local doctor. You are called to assist her to get out of the car. Her son tells you she is \u2018very sick\u2019. You note that she can transfer to a wheelchair with minimal assistance. According to her son, Dima tripped and fell three days earlier and has \u2018bruised her right hip\u2019. She does not have any other injuries, she is able to walk, and her hip is very painful. She is not distressed when seated. Her respiratory rate is 20 breaths per minute, heart rate is 88 beats per minute and her blood pressure is 150/90 mmHg. You are unable to ascertain her exact level of pain, though she tells you she is \u2018alright\u2019. The neurovascular status of her right foot is normal.",
+    "category": 4,
+    "rationale": "Airway, breathing and circulation are intact. Her hip is causing pain on movement, but she can weight-bear. She will require assessment within one hour."
+  },
+  {
+    "scenario_number": 5,
+    "description": "Glen, 52 years, presents to the ED with \u2018bleeding haemorrhoids\u2019. He has had this problem \u2018on and off for the past few months\u2019, but now it is \u2018getting worse\u2019. He says he has considerable pain when he opens his bowels, normally every second day, and bleeds \u2018quite a bit\u2019 (about a spoonful at a time of bright blood for the last two days). He states that he needs to be seen by a doctor \u2018as soon as possible\u2019 as he considers his problem is \u2018an emergency\u2019. His respiratory rate is 16 breaths per minute, heart rate is 78 beats per minute and his blood pressure is 132/78 mmHg.",
+    "category": 4,
+    "rationale": "Airway, breathing and circulation are intact. He has a mild haemorrhage. Pain only occurs when bowels are opened. This patient should be assessed within one hour."
+  },
+  {
+    "scenario_number": 6,
+    "description": "Rebecca is a 17-year-old girl who is brought to the ED by her friends following an all -night party, where she took two tablets of ecstasy. She cannot stop crying, and says she wants to die. She has had two previous attempted overdoses in the past year. Her heart rate is 112 beats per minute, respiratory rate is 24 breaths per minute and her temperature 37.6 \u00b0C.",
+    "category": 3,
+    "rationale": "Airway, breathing and circulation are intact. She has severe symptoms of depression. Rebecca should also be under close observation and should wait no longer than 30 minutes for a medical assessment."
+  },
+  {
+    "scenario_number": 7,
+    "description": "Laura is a 10-year-old girl who is brought to the ED at 11pm by her adult sibling saying that she has had abdominal pain for the last few hours. She indicates that the pain is across the centre of her stomach and that paracetamol has not helped. She complains of nausea and says that she has vomited once since the onset of pain. When asked, she states that she has had normal bowel motions. She is giving her own history while leaning over onto the desk, holding her abdomen, and moving very little. Her skin is pink, and she is not short of breath. Her respiratory rate is 22 breaths per minute and her heart rate is 98 beats per minute.",
+    "category": 3,
+    "rationale": "There is no compromise to the primary survey. Pain has not been relieved by oral analgesia and there is a moderate level of distress associated with the pain."
+  },
+  {
+    "scenario_number": 8,
+    "description": "Kylie, a 28-year-old woman, presents to triage with three days of fever and increasing shortness of breath. She is 28 weeks pregnant (G2P1) and has no medical history of note. She says she saw her local doctor yesterday and commenced oral antibiotics. Today she tells you she is having \u2018difficulty walking around the house\u2019 because of \u2018shortness of breath\u2019. She has a productive cough with green sputum and is speaking in phrases. Her respiratory rate is 32 breaths per minute and SpO 2 is 90%. Her heart rate is 130 beats per minute; her skin is pale, hot, and moist to touch. Her GCS is 15/15, her temperature is 38.8 \u00b0C.",
+    "category": 2,
+    "rationale": "Airway is intact. There is severe respiratory distress with potential risk to the foetus (SpO2 90%). Sepsis is suspected. Kylie should be medically assessed within 10 minutes."
+  },
+  {
+    "scenario_number": 9,
+    "description": "Charlie is a 15-month-old boy who presents to the ED via ambulance at 2am following an episode of \u2018shaking and jerking\u2019 with loss of consciousness. The episode lasted approximately four minutes. The paramedics state that he had stopped fitting when they arrived, but he has been \u2018very drowsy\u2019 during transport. His mother states that he has never had an episode like this before. During the night, he had a fever and a runny nose. He has been sleeping poorly and is a little irritable. The child is flushed, his skin is warm, and his capillary refill is about 2 seconds. His heart rate is 153 beats per minute and his respiratory rate is 36 breaths per minute, his temperature is 38.6 \u00b0C. He has no use of accessory muscles or retraction. He is alert, crying and clinging to his mother. His mother says that he seems more alert now than before.",
+    "category": 3,
+    "rationale": "Airway, breathing and circulation are intact. History of fever and possible febrile convulsion. This child should wait no longer than 30 minutes."
+  },
+  {
+    "scenario_number": 10,
+    "description": "Graham is a 55 -year-old man who presents to the ED accompanied by his partner. He states that he has been \u2018bleeding from the back-passage\u2019 since the previous night. He is very anxious about the bleeding and reports that it was \u2018bright\u2019 in colour and \u2018filled the toilet bowl\u2019 on two occasions. His blood pressure is 155/100 mmHg, heart rate is 102 beats per minute and his respiratory rate is 20 breaths per minute.",
+    "category": 3,
+    "rationale": "There is no compromise to airway or breathing. From the history it appears that the blood loss is moderate. The heart rate is mildly elevated but there is no haemodynamic instability."
+  },
+  {
+    "scenario_number": 11,
+    "description": "Louisa is a 24 -year-old woman who presents to the ED with her friend after \u2018fainting\u2019 in the toilet at home. She is reporting left sided abdominal pain, which she has had \u2018on and off\u2019 for several months. She previously attended the ED two weeks ago for the same problem. An abdominal ultrasound was performed at that time but identified no abnormalities. She rates her pain as 6/10. Her respiratory rate is 18 breaths per minute, heart rate is 82 beats per minute and her blood pressure is 112/64 mmHg. Her skin is cool and dry. She looks pale and uncomfortable.",
+    "category": 3,
+    "rationale": "There is no compromise to airway, breathing or circulation. She is pale. Her pain is moderate to severe and is causing distress."
+  },
+  {
+    "scenario_number": 12,
+    "description": "Nisha is a 67 -year-old woman who was out shopping with her daughter when she slipped and fell on her outstretched hand, injuring her left wrist. She is not distressed by the pain and rates it as 3/10. Her wrist is tender, but not deformed. Radial pulse is present at 72 beats per minute. The neurovascular status of her left hand is normal. There are no other injuries.",
+    "category": 4,
+    "rationale": "Airway, breathing and circulation are intact. Mild pain with no circulatory compromise. This patient should wait no longer than one hour for medical assessment."
+  },
+  {
+    "scenario_number": 13,
+    "description": "Kate is 18 years old. She attends triage at 12.30pm with a work colleague. Her hand is wrapped in a tea towel, and she appears pale and anxious. She tells you she has cut her hand with a carving knife. On examination you see a four -centimetre laceration across her left palm. Tendons are on view and the wound is bleeding slowly. Kate tells you she is feeling quite nauseous and her pain is 7/10. Movement and sensation to her fingers are intact.",
+    "category": 3,
+    "rationale": "Airway, breathing and circulation are intact. Blood loss is mild, but pain is severe. Kate should wait no longer than 30 minutes for assessment of her wound."
+  },
+  {
+    "scenario_number": 14,
+    "description": "Denise is a 34 -year-old woman who is transferred to the ED on a 40 \u00b0C day via ambulance. According to bystanders she was attending an outdoor barbeque and \u2018collapsed in the heat\u2019. Witnesses helped her to an upright position and she was then observed to have a \u2018fit\u2019 that lasted approximately two minutes. She was not incontinent, has no evidence of tongue trauma and regained consciousness when she was placed in the supine position. Her respiratory rate is 22 breaths per minute, heart rate is 112 beats per minute, blood pressure is 102/60 mmHg and her GCS is 15/15. Her skin is hot and moist.",
+    "category": 3,
+    "rationale": "Airway, breathing and circulation are intact. History suggests heat stroke and seizure. Patient has normal neurological functioning now. This patient should be medically assessed within 30 minutes."
+  },
+  {
+    "scenario_number": 15,
+    "description": "Kimberly is 32 years of age. She was sent to the ED following an accident at work. She was carrying a pot of hot oil and slipped, spilling it on her upper legs. She immediately removed her clothing and stood under a cool shower for fifteen minutes. On arrival in the ED, Kimberly is in considerable pain (9/10). You estimate she has approximately 8% burns to her anterior thighs. Her heart rate is 110 beats per minute and her respiratory rate is 24 breaths per minute.",
+    "category": 2,
+    "rationale": "Airway and breathing are intact and circulation is stable with slight tachycardia. Burns of this nature cause severe pain. Analgesia should be given and treatment should commence within 10 minutes of arrival."
+  },
+  {
+    "scenario_number": 16,
+    "description": "Tom is a four -year-old boy who presents to the ED with his mother. She states that he fell from a tree. His older brother was the only witness to the fall and claims that Tom fell from about 2 m. Tom\u2019s mum found him lying on the ground and a little \u2018dazed\u2019. Since the fall she says he seems \u2018drowsy\u2019 and he has vomited twice, once several minutes ago. Tom is now conscious and looking at you, but he is very quiet. His skin is pale and warm. He has no obvious injuries, is moving his neck and is not distressed.",
+    "category": 2,
+    "rationale": "Airway and beathing are intact. His skin is pale and he is drowsy post a fall of significant height. Reported change to conscious state with some neurological symptoms. He should not wait more than 10 minutes to be seen."
+  },
+  {
+    "scenario_number": 17,
+    "description": "Justin is a 22 -year-old man who comes to the ED concerned about a mole on his back. He says that his girlfriend advised he see a doctor and he is \u2018worried that it might be a melanoma\u2019. The mole is large and irregular in shape; he says it is sometimes itchy.",
+    "category": 5,
+    "rationale": "Airway, breathing and circulation are intact. This is not an urgent problem; however, the lesion does needs to be checked. This patient should be seen within two hours."
+  },
+  {
+    "scenario_number": 18,
+    "description": "A young man is brought into the ED by ambulance after having been dragged unconscious and not breathing from the sea. He arrives with CPR in progress, and on arrival is noted to have red welts across his chest.",
+    "category": 1,
+    "rationale": "Cardiopulmonary arrest. Possible jelly fish envenomation. Immediate assessment and resuscitation is required."
+  },
+  {
+    "scenario_number": 19,
+    "description": "Fred, an 84-year-old man, presents to triage reporting palpitations and central chest pain. He has a history of ischemic heart disease, coronary artery by -pass grafts and atrial fibrillation. He takes his anti-arrhythmic medications regularly and normally manages well at home. Today his skin is pale, cool and moist. His respiratory rate is 26 breaths per minute, heart rate is 142 beats per minute and irregular and he reports chest pain of 4/10.",
+    "category": 2,
+    "rationale": "Airway is intact with tachypnoea. Chest pain is potentially cardiac in nature. This patient should be assessed and treated within 10 minutes."
+  },
+  {
+    "scenario_number": 20,
+    "description": "Michaela is a 3 -week-old infant who is brought to the ED by her parents. She has been referred by her local doctor. The parents state that Michaela has been feeding poorly for several days and sleeping more than usual. The parents have not noticed a fever or other symptoms. The infant is sleeping in the mother\u2019s arms and her skin is pale. She is peripherally cool. Her capillary refill is 2\u20133 seconds and her heart rate is 172 beats per minute. Painful stimulus is required to wake the infant, who then wriggles and cries vigorously.",
+    "category": 2,
+    "rationale": "The airway is clear and there is no compromise to breathing. The child shows signs of circulatory compromise including lethargy and drowsiness and should therefore be assessed within 10 minutes of arrival."
+  },
+  {
+    "scenario_number": 21,
+    "description": "Fabio is a 56 -year-old man who was working in his vineyard when he encountered a snake, which reared up and struck him on the inner right thigh. He immediately summoned help and his wife, a nurse, applied a pressure -immobilisation bandage and splinted both legs. He was transferred to the ED in the back of a utility. On arrival he appears calm and states he has \u2018no pain\u2019. His heart rate is 92 beats per minute, blood pressure is 130/86 mmHg, respiratory rate is 18 breaths per minute and his skin is cool and dry. He has no headache, and he is alert and orientated to time, place and person.",
+    "category": 2,
+    "rationale": "Primary survey is intact. Known snake bite with effective first aid; however, this is a significant/dangerous envenomation. Assessment and treatment should commence within 10 minutes."
+  },
+  {
+    "scenario_number": 22,
+    "description": "Toby is an 18-month-old boy who presents to triage at 6pm with his parents. They state that he has been \u2018unwell\u2019 for two days. He started vomiting 48 hours ago, developed diarrhoea yesterday and has had seven loose stools today. He has had episodes of \u2018crying and drawing up his legs\u2019. He is drinking small amounts. He appears lethargic and disinterested in his surroundings. He is pale and his capillary refill is approximately 3\u20134 seconds.",
+    "category": 2,
+    "rationale": "Airway and breathing are not compromised. Multiple signs and symptoms of dehydration are evident, including lethargy and poor capillary refill. The child also appears to be in pain and very distressed with his illness. He needs to be assessed and commence treatment within 10 minutes of arrival."
+  },
+  {
+    "scenario_number": 23,
+    "description": "Rae, a 24 -year-old university student, comes to the ED with a friend. She has a four -hour history of generalised abdominal pain, now localised to the right iliac fossa. She has vomited twice and had one episode of diarrhoea about two hours ago. Her respiratory rate is 24 breaths per minute, heart rate is 92 beats per minute, blood pressure is 128/72 mmHg and her temperature is 38.2 \u00b0C. She rates her pain as 6/10.",
+    "category": 3,
+    "rationale": "Airway, breathing and circulation are not compromised. She has pain and likely intra-abdominal pathology as evident by localising pain, fever and vomiting. Rae should wait no more than 30 minutes for assessment and treatment."
+  },
+  {
+    "scenario_number": 24,
+    "description": "A father presents to the ED at 8pm with his three-and-a-half- year-old daughter, Savannah, stating that she has had a sore throat for \u2018a day or two\u2019. It started with a runny nose and fever and then yesterday she began complaining of a sore throat. She is not eating as much but continues to drink and has normal urine output. She has no cough or stridor, demonstrates no shortness of breath and her skin is pink and warm. Her heart rate is 118 beats per minute and her respiratory rate is 24 breaths per minute. She is watching videos on her father\u2019s phone.",
+    "category": 4,
+    "rationale": "Airway, breathing and circulation are intact. Savannah is experiencing some discomfort from her condition and should therefore be assessed and commence treatment within an hour."
+  },
+  {
+    "scenario_number": 25,
+    "description": "A man states that his 3 -week-old baby grandson, Kyle, is \u2018not breathing properly\u2019. The baby is wrapped in a bunny rug in the grandfather\u2019s arms. On closer examination, the baby\u2019s eyes open and his face is noted to be white/grey. Respiratory effort is poor.",
+    "category": 1,
+    "rationale": "Neonate with potential airway compromise and abnormal breathing. Kyle requires resuscitation and immediate medical assessment."
+  },
+  {
+    "scenario_number": 26,
+    "description": "Sarai is a 38-year-old woman with a history of asthma. She has required two admissions to the intensive care unit for her asthma in the past 18 months. She presents to triage at 8.30pm following a 22 -hour history of wheeze and shortness of breath. She has been self -administering salbutamol at home but has had a minimal response to this despite three nebulisers in the past hour. On arrival her respiratory rate is 26 breaths per minute, she is speaking in three -word sentences and has an audible wheeze. Her oxygen saturation is 91% on room air.",
+    "category": 2,
+    "rationale": "Airway is intact. Significant level of respiratory distress in the context of history of previous severe asthma requiring ICU admissions. This patient should be assessed and treated within 10 minutes."
+  },
+  {
+    "scenario_number": 27,
+    "description": "Neil is a 74 -year-old man who presents to triage following trauma to his left arm after slipping on a wet floor. He describes tenderness at his wrist, elbow, and shoulder. He rates his pain as 3/10. No obvious deformity of the wrist is noted, but he has a decreased range of movement. His heart rate is 92 beats per minute. The neurovascular status of his left hand is normal.",
+    "category": 4,
+    "rationale": "Airway, breathing and circulation are intact. No circulatory compromise to the injured limb. Pain is reported to be mild."
+  },
+  {
+    "scenario_number": 28,
+    "description": "Harry is a 48-year-old man who regularly attends your ED for various complications associated with his poorly controlled type 2 diabetes. He has no GP, lives in supported accommodation and frequently sleeps out in a local park. Today he presents to triage complaining of a two -hour history of intermittent left sided chest pain that is \u2018heavy\u2019 in nature. On further questioning you establish that his pain came on at rest and radiates down both arms. His heart rate is 66 beats per minute and respiratory rate is 20 breaths per minute. His skin is cool and dry.",
+    "category": 2,
+    "rationale": "Airway, breathing and circulation are intact. Chest pain of likely cardiac nature. Diabetes is a co-morbid factor. The patient should receive assessment and treatment within 10 minutes."
+  },
+  {
+    "scenario_number": 29,
+    "description": "Ernesto, 57 years, works for an energy company reading gas meters. On his rounds today he was attacked by a dog. He was bitten on the upper left leg. On inspection you note 6\u20137 cm2 of skin loss. The wound is irregular, fat tissue is exposed, and it looks dirty; there is a small amount of blood loss. Ernesto says the injury is \u2018a bit painful\u2019 but he is not overtly distressed.",
+    "category": 4,
+    "rationale": "Airway, breathing and circulation are intact. Blood loss is mild. Pain is reported as mild. This patient needs to receive treatment for his injury within one hour."
+  },
+  {
+    "scenario_number": 30,
+    "description": "Baz, 34 years, was installing a ceiling fan with the assistance of a mate in his own home. He received a 240-volt charge to his right hand. He was thrown back against the roof. His mate immediately switched the power off and called an ambulance. Baz was noted to have a brief period of loss of consciousness, but was alert when the paramedics arrived. His respirations are 20 breaths per minute, heart rate is 80 beats per minute and irregular, and his blood pressure is 116/68 mmHg. He states his chest aches. He has a 5 cm blackened area to his right hand. No exit wound is seen.",
+    "category": 2,
+    "rationale": "Airway, breathing and circulation are intact. Likely full thickness burn from electrocution indicates severe localised trauma, with possible systemic involvement. This patient should wait no more than 10 minutes to commence treatment."
+  },
+  {
+    "scenario_number": 31,
+    "description": "Patrick is a 30-year-old man who is brought to ED by his parents, who found him hanging by his feet in the garage trying to \u2018drain the rays\u2019 from his brain. His parents describe a recent history of increasingly \u2018odd behaviour\u2019 in the context of long -term marijuana abuse. The patient believes that \u2018aliens\u2019 have landed a \u2018spaceship\u2019 in a tree in the neighbour\u2019s backyard, and that they are \u2018transmitting rays\u2019 to his brain. Although concerned about this, the patient is not overly distressed or agitated, is not expressing ideas of self -harm and is happy to wait to be seen. His observations are normal.",
+    "category": 3,
+    "rationale": "Primary survey is intact. The patient demonstrates signs of acute thought disorder and requires assessment within 30 minutes."
+  },
+  {
+    "scenario_number": 32,
+    "description": "Hannah is a 41-year-old woman who presents via ambulance with an altered conscious state following collapse. She is 30 weeks pregnant (G3P1) and is normally well. She was out shopping with a friend when she collapsed. Paramedics report a fluctuating conscious state. At the scene she tolerated an oropharyngeal airway but spat it out enroute. She is in a lateral position on the ambulance trolley with supplemental oxygen via a mask. Her respiratory rate is 10 breaths per minute. Her SpO 2 is 93% and her heart rate is 130 beats per minute. Her skin is pale, cool and moist. Her blood pressure is 190/110 mmHg. Her GCS is 10/15. Her temperature is 36.3 \u00b0C.",
+    "category": 1,
+    "rationale": "Immediate risk to airway, breathing and circulation. Hannah requires immediate assessment and resuscitation."
+  },
+  {
+    "scenario_number": 33,
+    "description": "Kira is a seven -year-old girl who presents with a schoolteacher, having fallen from play equipment onto tan bark. The teacher estimates the height of the fall as about 1 m. Her mother is on her way to the ED. She fell onto her right arm and has been complaining of pain around her wrist since. She \u2018did not hit her head\u2019 and does not complain of pain elsewhere. Her arm has been placed in a sling, but she has not received any analgesics. Kira is tearful but states that her arm is only \u2018a little bit sore\u2019. There is a small amount of swelling around her distal forearm but no deformity and no neurovascular impairment. She demonstrates tenderness over her distal radius and has a limited range of movement of her wrist. She has no other signs of injury and is providing the details of her fall.",
+    "category": 4,
+    "rationale": "Airway, breathing and circulation are intact. Injured wrist/forearm with no circulatory impairment. Pain is mild. This child should commence treatment within one hour."
+  },
+  {
+    "scenario_number": 34,
+    "description": "Vinh is a 74 -year-old man who is brought to the ED by paramedics at 5.10am. He has acute shortness of breath and a history of left ventricular failure. His respiratory rate is 30 breaths per minute, with accessory muscle use. His SpO 2 is 89%, but the pulse oximetry display is giving a poor trace. Oxygen is being administered at 100% via bag-valve-mask. His heart rate is 112 beats per minute and irregular, and his blood pressure is 180/100 mmHg. Vinh is trying to remove the oxygen mask and is very agitated.",
+    "category": 2,
+    "rationale": "Airway is currently clear; however, there is severe respiratory distress. There is acute shortness of breath and a mild tachycardia. These signs and symptoms are possibly due to acute left ventricular failure. Vinh should be assessed and commence treatment within 10 minutes."
+  },
+  {
+    "scenario_number": 35,
+    "description": "Luka is a nine -year-old boy who presents to triage with his father at 3pm. He has an injured elbow due to a fall playing football. He is distressed and clutching his arm, which is in a sling. He tells you that his pain is 10/10. His left elbow is markedly swollen and deformed. He has a strong radial pulse and sensation distal to the injury is intact. He is pale, slightly diaphoretic and tachycardic (heart rate is 128 beats per minute). He has no other injuries.",
+    "category": 2,
+    "rationale": "Airway, breathing and circulation are intact. There is severe pain, and the child should wait no more than 10 minutes to commence treatment."
+  },
+  {
+    "scenario_number": 36,
+    "description": "A mother presents at midday with her 9-month-old son, Connor. She describes three days of fever and poor oral intake. On the first evening he vomited once and has had two loose stools overnight, but has not had any since. He also has a \u2018runny nose\u2019. He is bottle -fed and has had 180 mL of fluid this morning (his usual intake is about 320 mL), He has had a normal number of wet nappies. He was previously well and he is fully immunised. He has signs of a runny nose; no cough is heard, and he has no signs of increased work of breathing. His skin is slightly pale but warm and his mucus membranes are not dry. He is quiet, but looking around at his surroundings.",
+    "category": 4,
+    "rationale": "Airway, breathing and circulation are intact. He is alert with mildly decreased oral intake. This child should receive treatment within one hour."
+  },
+  {
+    "scenario_number": 37,
+    "description": "Mr Brown, a 43 -year-old man, presents to triage reporting generalised abdominal pains and vomiting. The pain commenced approximately four hours ago and has not been relieved by antacids. He has vomited three times and has no diarrhoea. He is a smoker and has a history of ischemic heart disease. His normal medications include metoprolol, aspirin, and glyceryl trinitrate skin patches. His skin is pale, cool, and moist. He is doubled up in pain and says it is \u2018the worst pain I have ever had\u2019. His respiratory rate is 24 breaths per minute and his heart rate is 72 beats per minute.",
+    "category": 2,
+    "rationale": "His airway is intact, his respiratory rate is elevated and he is pale. His pain is severe. He should wait no longer than 10 minutes to commence treatment"
+  },
+  {
+    "scenario_number": 38,
+    "description": "Iryn is a ten -week-old infant who presents with her parents. She has a two-day history of increasing lethargy and poor feeding. Her mother describes her becoming unsettled and less keen to feed over the last two days. She developed a fever yesterday and has had to be woken for feeds overnight, which is unusual. She was born at term, has had her first immunisation and has no other health problems. She does not demonstrate increased work of breathing but is slightly tachypnoeic. Her skin is pale and her legs are mottled to the knees. She is a little cool and demonstrates a capillary refill of 3\u20134 seconds. She is lethargic but responds to painful stimuli.",
+    "category": 1,
+    "rationale": "Tachypnoea, pale and mottled skin with delayed capillary refill are signs of severe shock. The patient responds to pain only. She requires immediate simultaneous assessment and treatment."
+  },
+  {
+    "scenario_number": 39,
+    "description": "Sebastian is a 16-year-old boy who is brought to the ED by a passer -by, who found him crying and banging his head against the footpath in a small laneway. After bringing Sebastian to triage the accompanying adult left the ED. He has superficial lacerations to both wrists, is dishevelled and unkempt. He is upset about having been brought to the ED, and is saying \u2018just leave me alone, why don\u2019t you just piss off\u2019. He admits to trying to hurt himself and says that he will again as soon as he can. He appears agitated and has limited eye contact.",
+    "category": 2,
+    "rationale": "Airway, breathing and circulation are intact. The patient has attempted self-harm. His comments indicate that he may be at high risk of absconding. He should commence treatment within 10 minutes of arrival in the ED."
+  },
+  {
+    "scenario_number": 40,
+    "description": "Anne -Marie is a 22 -year-old woman who is brought to the ED by her flatmates, who are concerned about her bizarre behaviour. She had been talking to herself for several days, turning the television off and on because it is sending her messages, yelling out at night, and not sleeping. Her flat mates are concerned that she will come to some harm without help. Anne -Marie does not make eye contact and answers questions with one -word answers. Her flatmates think she may take medication for a mental health diagnosis, but are unsure what it is.",
+    "category": 3,
+    "rationale": "Airway, breathing and circulation are intact. There are signs of acute thought disorder as well as bizarre and agitated behaviour. Anne-Marie requires assessment within 30 minutes."
+  },
+  {
+    "scenario_number": 41,
+    "description": "Roberto is a 50-year-old man who self presents to triage stating he \u2018cannot cope\u2019 since losing his job and feels like he is \u2018losing his mind\u2019. He states that he has \u2018come to the end of his tether\u2019, cannot stand being alone, can\u2019t function properly, is tremulous, and is \u2018on the razors edge all the time\u2019. He presents as tearful, anxious, wringing his hands and hyperventilating. He has no thoughts of self harm and states he wants help.",
+    "category": 3,
+    "rationale": "Airway, breathing and circulation are intact. The patient is very distressed and has a situational crisis. He should wait no longer than 30 minutes to be seen."
+  },
+  {
+    "scenario_number": 42,
+    "description": "Mohammed is a 24 -year-old man who is brought to the ED by police. He is crying and lying rocking on the floor. He smells of alcohol and police say he is a refugee who has recently been released from a detention centre. He has committed no crime, but was apprehended \u2018directing traffic\u2019 in the middle of a busy city highway. He has had no previous contact with mental health services. Mohammed has very limited English and gives limited responses to questioning. His observations are within normal limits.",
+    "category": 3,
+    "rationale": "Primary survey is intact. The patient is experiencing a situational crisis and should wait no longer than 30 minutes for medical assessment."
+  },
+  {
+    "scenario_number": 43,
+    "description": "Liz is a 40-year-old woman who presents to triage with mild fever and productive cough. She says she is not short of breath and does not complain of any pain. She is 18 weeks pregnant (G4P3) and is normally well. Her respiratory rate is 20 breaths per minute, her SpO 2 is 98% and her heart rate is 98 beats per minute; her skin is noted to be pale, warm and dry. Her GCS is 15/15. Her temperature is 37.8 \u00b0C.",
+    "category": 4,
+    "rationale": "Airway, breathing and circulation are intact. The patient is febrile and is likely to have an infection. She should wait no longer than one hour."
+  },
+  {
+    "scenario_number": 44,
+    "description": "Damien is a 36 -year-old man who is brought to the ED by his friend. The patient has had a recent marriage break -up, which has involved a lengthy custody and property court case. He has had symptoms of depression for several weeks, such as low mood, ruminations, poor sleep and appetite, feelings of hopelessness and agitation. Since receiving the outcome of the family court hearing three days ago, the patient has been using the amphetamine ice, and is now \u2018obsessed with plotting revenge\u2019 on his former spouse. The patient has been awake for more than 48 hours and presents as angry, rambling in speech, volatile and disordered in his thinking.",
+    "category": 2,
+    "rationale": "Airway, breathing and circulation are intact. There is extreme agitation and possible threats of harm to others. This patient should commence treatment within 10 minutes."
+  },
+  {
+    "scenario_number": 45,
+    "description": "David is a 40-year-old man who presents to triage reporting severe chest pain. David has difficulty with his speech and uses a communication board to tell you he thinks he is having a \u2018heart attack\u2019. He says he has no history of cardiac problems, and his observations are within normal range. He appears highly anxious and is hyperventilating. Currently he says his pain is 10/10. His skin is warm and moist.",
+    "category": 2,
+    "rationale": "Airway is intact. This patient reports severe pain and has some risk factors for heart disease. Investigations must be conducted to rule out cardiac causes for his pain and he should wait no longer than 10 minutes before treatment is commenced."
+  },
+  {
+    "scenario_number": 46,
+    "description": "Lionel, 68 years, is transferred to your ED from a nursing home. He has Alzheimer\u2019s disease and for the past two days has refused fluids. This morning his carer found him lying on the floor next to his bed. The cot -sides were up, but she thought that he had probably fallen because the blankets were also on the floor, and he had been incontinent of urine. Last week he was able to mobilise with a frame and take himself to the toilet, but for the past two days he has not had the energy to move at all and has needed assistance going to the toilet. Since the fall he cannot stand up and he seems to be guarding his right hip. On arrival, he is lying on the trolley groaning. His respiratory rate is 24 breaths per minute, heart rate is 122 beats per minute and his blood pressure is 110/70 mmHg.",
+    "category": 3,
+    "rationale": "Airway is intact; heart rate and respiratory rate are elevated. There is a possibility of a fractured hip and given his cognitive impairment, pain is difficult to assess. This patient is likely to be in pain and discomfort from the injury. He should wait no longer than 30 minutes for treatment."
+  },
+  {
+    "scenario_number": 47,
+    "description": "Marco is a 25 -year-old man who is brought to the ED for assessment by ambulance after he was found by police sitting in his truck with the engine running and a hose connected to the exhaust pipe. An empty pack of temazepam (25 \u00d7 10 mg) was in the vehicle along with a half empty bottle of scotch (500 mL bottle). His wife and infant daughter are reported to have left him two weeks before. On arrival he is drowsy and smells of alcohol. When asked what he has taken Marco says \u2018nothing, I\u2019ll be OK\u2019. His vital signs are within normal limits.",
+    "category": 2,
+    "rationale": "Significant sedative ingestion and potential exposure to toxic fumes. Risk of self-harm. This patient requires monitoring of airway, breathing and circulation and should be medically assessed within 10 minutes."
+  },
+  {
+    "scenario_number": 48,
+    "description": "Nicholas is a three -year-old boy who presents with increasing wheeze and shortness of breath. His mother indicates that he has a history of asthma and has been in hospital before. He developed a cold two days ago and he became increasingly wheezy yesterday. His mother gave him prednisolone this morning and he has had hourly salbutamol at home. In the last two hours he has had three doses of salbutamol and the last dose was 15 minutes ago. He has a tight cough and increased work of breathing. His skin is pale but warm. He is distressed and restless.",
+    "category": 2,
+    "rationale": "Airway is clear, though there is marked increased work of breathing. The child is distressed and restless. He should wait no longer than 10 minutes."
+  },
+  {
+    "scenario_number": 49,
+    "description": "Harry, an 81-year-old man, presents to triage having been transported via ambulance from a smaller country hospital. He has type 2 diabetes and a two -day history of reduced oral intake, fever and lethargy. He has had 1000 mL of 0.9% saline. He is tachycardic (120 beats per minute) and hypotensive (90/60 mmHg). He has a provisional diagnosis of \u2018sepsis of unknown origin\u2019.",
+    "category": 2,
+    "rationale": "Airway and breathing are intact. His tachycardia with hypotension demonstrates circulatory compromise and the patient has indictors to meet suspected sepsis. He should wait no longer than 10 minutes."
+  },
+  {
+    "scenario_number": 50,
+    "description": "Frankie is a 21-month-old boy who presents to the ED with his mother by ambulance at 6.30am. He has a barking cough. His mother describes a recent cold. He woke this morning at 5am with the cough and seemed distressed. His mother says that his breathing was \u2018fast and noisy\u2019. He does not have a stridor but does have a barking (croup -like) cough and mild increase in work of breathing. His respiratory rate is 32 breaths per minute. His skin is pink and warm, and he is settled on the ambulance trolley watching something on a phone.",
+    "category": 3,
+    "rationale": "Airway is clear, though there is increased work of breathing. This child should wait no longer than 30 minutes for treatment."
+  },
+  {
+    "scenario_number": 51,
+    "description": "A mother presents with her five -month -old baby boy, Jon. She is concerned about a rash that has appeared this morning all over his body. She states that he has had a fever and was \u2018a bit unsettled\u2019 for several days but he seemed \u2018better last night and this morning, except for this rash\u2019. He is otherwise well, immunised and has no allergies. He is not showing signs of respiratory distress and is not coughing and has no stridor. His skin is pink and warm, and he is smiling. He has a fine red macular rash which blanches over his torso and limbs.",
+    "category": 4,
+    "rationale": "Primary survey is intact. He should wait no longer than one hour."
+  },
+  {
+    "scenario_number": 52,
+    "description": "Parents present with a 13-month-old child, Oliver, who has a history of diarrhoea and vomiting. They state that he has been unwell for \u2018about 6 days\u2019. It started with vomiting which persisted for 2\u20133 days but has since stopped. He developed diarrhoea on the second day and that continues. He is willing to drink and has had about his usual amount to drink today. He has passed two loose stools today. He shows no shortness of breath, his skin is pink and warm and his mucus membranes are not dry. He is grabbing at your ID badge.",
+    "category": 4,
+    "rationale": "Airway, breathing and circulation are intact. The child is alert and active. He should wait no more than one hour."
+  },
+  {
+    "scenario_number": 53,
+    "description": "A restless 24 -year-old man is shouting in the ED waiting area. He says, \u2018God says everyone here is a sinner\u2019. He stands up and kicks the seats, his fists are clenched, he is red in the face and breathing hard. He turns to face the waiting patients with his fists raised aggressively.",
+    "category": 1,
+    "rationale": "Severe behavioural disorder with imminent threat of dangerous violence. This patient requires immediate assessment and simultaneous management."
+  },
+  {
+    "scenario_number": 54,
+    "description": "Wei is a 30-year-old woman who presents to the ED accompanied by her husband and four -month -old baby. She has suddenly stopped eating, has insomnia, and has been very withdrawn in the past \u2018two weeks\u2019. According to her husband she is \u2018neglecting the care of her baby\u2019. She avoids making eye contact and does not want to hold the baby.",
+    "category": 3,
+    "rationale": "The primary survey is intact. The patient shows signs of distress and being withdrawn and is post-partum."
+  },
+  {
+    "scenario_number": 55,
+    "description": "Mr Carver, an 87-year-old man, was brought to your ED in the early hours of the morning with acute shortness of breath. He is sitting upright on the ambulance trolley with a simple face mask in situ. He is receiving 8 L of oxygen per minute. His respiratory rate is 32 breaths per minute, heart rate is 116 beats per minute and irregular, and blood pressure is 170/90 mmHg. His jugular veins are visible and elevated. Skin is moist and pale. He is unable to talk, but he nods when asked if he has pain in his chest.",
+    "category": 2,
+    "rationale": "Airway is clear. The patient has severe respiratory distress and shows signs of acute left ventricular failure. He also has pain in the chest. He should wait no more than 10 minutes for treatment."
+  },
+  {
+    "scenario_number": 56,
+    "description": "A father presents at 6.30pm with his 22-month-old son, Jackson, who has cut his forehead about 90 minutes ago. He was playing at home and tripped and fell against the coffee table. He cried straight away but has a large cut on his forehead. The child is not distressed and squirms away when attempts are made to examine his wound. He has a haematoma on the left side of his forehead and a full thickness laceration of 1\u20132 cm on the left side of his forehead over his eye. His skin is pink and warm and there are no signs of other injuries.",
+    "category": 4,
+    "rationale": "Airway, breathing and circulation are intact. The child is not distressed and he did not lose consciousness. He should wait no longer than one hour for treatment."
+  },
+  {
+    "scenario_number": 57,
+    "description": "Mr Smith, an 86-year-old man, is brought to your ED following a fall in which he sustained a five -minute loss of consciousness. He was transported from a residential aged care facility to your hospital via ambulance. He has a past medical history including dementia and ethanol misuse. Since the fall he has become restless and agitated and is trying to get off the ambulance trolley. His respiratory rate is 22 breaths per minute, heart rate is 76 beats per minute and his GCS is 12/15. His blood glucose level is 6.6 mmol/L.",
+    "category": 2,
+    "rationale": "Airway, breathing, and circulation are intact. He has had a loss of consciousness and his GCS is less than 13. He should wait no longer than 10 minutes."
+  },
+  {
+    "scenario_number": 58,
+    "description": "Ranjit, a seven -year-old boy, is brought into the ED by his dad. About three hours ago the child fell from his bike, striking his head on the pavement. He was not wearing a helmet. The incident was observed by an older sibling (9 years old) who reported that the boy lay on the ground for some time following the fall and did not move (for \u2018maybe five minutes\u2019). The child then got up and since the event has vomited twice. He is quiet and closes his eyes while sitting but opens them and responds slowly with one -word answers when asked a question. His GCS is 14/15.",
+    "category": 2,
+    "rationale": "The primary survey is intact. Significant head injury and possible other trauma with ongoing changes to cognition. He should wait no longer than 10 minutes."
+  },
+  {
+    "scenario_number": 59,
+    "description": "Sunil, a 56 -year-old man, was opening a tin of paint stripper with a knife. Some of the chemical splashed up into his right eye. He put his eye under the tap for 15 minutes, before his partner drove him to the ED. At triage he appears very uncomfortable. The eye is closed and there is blistering to the skin surrounding the right orbit.",
+    "category": 2,
+    "rationale": "Airway, breathing and circulation are clear. He has a chemical burn to the eye with changed visual acuity. This patient should receive treatment within 10 minutes."
+  },
+  {
+    "scenario_number": 60,
+    "description": "Rachael is an 18-year-old woman who presents to triage reporting one day of right leg pain. She is 24 weeks pregnant (G1P1) and is normally well. She tells you that she woke up with calf pain and that her pain is worse when she walks. Her calf appears slightly swollen, although she tells you that both legs often swell since she became pregnant. She has no other symptoms. Her respiratory rate is 16 breaths per minute and SpO 2 is 98%. Her heart rate is 94 beats per minute. Her skin is pink, warm, and dry. Her GCS is 15/15. Her temperature is 37.8 \u00b0C. She says her pain is about 4/10.",
+    "category": 4,
+    "rationale": "Primary survey is intact. There is moderate pain with some risk features. She should wait no longer than one hour."
+  },
+  {
+    "scenario_number": 61,
+    "description": "Wendy is a 24 -year-old woman who presents to triage reporting chest pain. She tells you she has had pain for two days, but it is \u2018worse today\u2019 and she feels \u2018dizzy\u2019. She is 24 weeks pregnant (G1P0) and is normally well. Her respiratory rate is 24 breaths per minute and her SpO 2 is 95%. Her heart rate is 118 beats per minute. Her skin is pale, cool and dry. Her GCS is 15/15. Her temperature is 36.8 \u00b0C. She rates her pain as 7/10.",
+    "category": 2,
+    "rationale": "Airway is intact, slight elevation in respiratory rate and heart rate with chest pain. This patient should wait no longer than 10 min to be medically assessed."
+  },
+  {
+    "scenario_number": 62,
+    "description": "Stephanie is a 36 -year-old woman who presents to triage via ambulance with collapse and abdominal pain. Paramedics tell you she has had intermittent left upper quadrant pain for four days, but today \u2018the pain became worse\u2019 and is now \u2018constant\u2019. She is 33 weeks pregnant (G2P0) and is normally well. Her respiratory rate is 24 breaths per minute. Her SpO 2 is 98%. Her heart rate is 125 beats per minute. You note her skin is pale, cool and dry. Her blood pressure is 100/R. Her GCS is 15/15 and her temperature is 36.8 \u00b0C. When questioned she rates the pain as 8/10.",
+    "category": 2,
+    "rationale": "Airway is intact, increase respiratory rate and early signs of circulatory compromise. She also has very severe pain. Pregnancy is a complicating factor. She should wait no more than 10 minutes"
+  },
+  {
+    "scenario_number": 63,
+    "description": "Rosemary is a 40-year-old woman who presents to triage reporting abdominal pain. She is 36 weeks pregnant (G5P3) and is normally well. She tells you she has had pain \u2018on and off\u2019 for a week but it has become more severe in the last day. The pain seems to be in the right upper quadrant but is it difficult for the patient to be precise about the location. She says, \u2018it is worse after eating\u2019 and today she has vomited twice. She says this pain \u2018does not feel like labour pains\u2019. Her respiratory rate is 22 breaths per minute, SpO 2 is 98% and heart rate is106 beats per minute. Her skin is pale, warm, and dry. Her GCS is 15/15. Temperature is measured at 37.8 \u00b0C. She rates her pain as 7/10. She tells you that she has had no PV loss.",
+    "category": 3,
+    "rationale": "Airway, breathing and circulation are intact. The patient has moderate to severe pain and should wait no longer than 30 minutes for treatment."
+  },
+  {
+    "scenario_number": 64,
+    "description": "Paul is a 47 -year-old man. He has a painful left shoulder. He received treatment in ED for the same problem two days ago. There is no history of injury but Paul tells you his shoulder is stiff and keeps \u2018seizing up\u2019. He tells you that he was prescribed some pain killers that worked initially but the pain is back and is \u2018much worse now\u2019. He is crying in pain. His left hand is pale and cool; a week radial pulse is noted. His right hand is pink and warm.",
+    "category": 2,
+    "rationale": "Airway, breathing, and circulation are intact. Neurovascular assessment indicates a limb-threatening condition. The patient is experiencing severe pain and so should wait no longer than 10 minutes to commence treatment."
+  },
+  {
+    "scenario_number": 65,
+    "description": "Hyojin is a 22 -year-old woman who is brought to the ED from a nearby netball stadium. She reports that she fell and twisted her ankle. She is unable to weight bear and is in a wheelchair. At a glance, you note that her ankle is obviously deformed, and she is crying with the pain. You are not able to assess her pedal pulse due to the ice pack and bandaging that are in place, but her friend tells you that the \u2018bone is sticking out\u2019.",
+    "category": 2,
+    "rationale": "Airway, breathing and circulation are intact. The patient is in very severe pain and the description of the injury suggests severe localised trauma. Hyojin should be assessed and commence treatment within 10 minutes of arrival."
+  },
+  {
+    "scenario_number": 66,
+    "description": "Ted, a 78-year-old man, is brought to the ED via ambulance. Ted attended the ED last night with a vague story of feeling dizzy and unwell \u2013 he was diagnosed with a viral illness and sent home. Throughout the night he was woken by heavy chest pains that \u2018came and went\u2019. He used his glyceryl trinitrate spray, which did not relieve the pain. Now he is short of breath. His respiratory rate 24 breaths per minute, heart rate is 92 beats per minute and his blood pressure is 160/90 mmHg.",
+    "category": 2,
+    "rationale": "His airway is clear and he is short of breath. Chest pain of likely cardiac nature. Ted should be assessed and commence treatment within 10 minutes of arrival."
+  },
+  {
+    "scenario_number": 67,
+    "description": "Gillian is a 26 -year-old woman who presents via ambulance with palpitations. She is 34 weeks pregnant (G1P0) and is normally well. She tells you that she was out shopping when her palpitations started. She does not have any associated chest pain or shortness of breath. Her respiratory rate is 20 breaths per minute. Her SpO 2 is 98%. Her heart rate is 108 beats per minute and regular, and her blood pressure is 120/80 mmHg. Her skin is pale, warm, and dry. Her GCS is 15/15.",
+    "category": 3,
+    "rationale": "Airway, breathing and circulation are intact. The heart rate is mildly elevated and the patient is experiencing palpitations. She should wait no longer than 30 minutes to commence treatment."
+  },
+  {
+    "scenario_number": 68,
+    "description": "Macey is a 38-year-old woman who presents to the ED with an injured right leg. She is brought to the triage desk in a wheelchair by her father who tells you she has multiple sclerosis. Today she was found by her father after tripping and falling four steps at the front of her home. Normally she can walk with a walking stick, but since the fall she has not been able to walk at all. On examination you note her right ankle is swollen; a right pedal pulse is palpable. She tells you that she has \u2018no pain\u2019 now and is happy to wait to see the doctor. Her vital signs are within normal limits.",
+    "category": 4,
+    "rationale": "Airway, breathing and circulation are intact. There is an injury to the ankle and possible fracture. The patient should wait no longer than one hour for assessment and treatment."
+  },
+  {
+    "scenario_number": 69,
+    "description": "Thuy, a 44 -year-old woman, presents to the ED with back pain. She has had the problem on and off for many years. This current episode was brought on after lifting a light shopping bag from her car four hours ago. She has taken ibuprofen with little improvement. Currently she has no GP as he moved to a different practice and so she \u2018didn\u2019t know where else to go when the pain happened\u2019. Her vital signs are within normal limits (respiratory rate 16 breaths per minute, blood pressure 110/68 mmHg, heart rate 68 beats per minute) and she is not sure how to rate her pain but says it is \u2018very bad\u2019. She has normal movement and sensation in her legs and feet. She is moving tentatively and appears to be in pain.",
+    "category": 3,
+    "rationale": "Airway, breathing and circulation are intact. The patient has moderate pain and should wait no longer than 30 minutes to be assessed and commence treatment."
+  },
+  {
+    "scenario_number": 70,
+    "description": "Lilly is a 15-year-old female who presents to triage with her friend following a paracetamol overdose. She is six weeks pregnant (G1P0) and has not been able to tell her parents. Her boyfriend does not want anything to do with her or the baby and she tells you she wants to die. Her friend tells you she took 24 tablets one hour ago. Her respiratory rate is 18 breaths per minute, SpO 2 is 99%, and her heart rate is 76 beats per minute. Her skin is pink, warm, and dry. Her temperature is 36.8 \u00b0C. She is alert and orientated.",
+    "category": 2,
+    "rationale": "Primary survey is intact. The patient presents with a significant toxic ingestion compounded by pregnancy. She is also experiencing a significant situational crisis and verbalising suicidal thoughts. Assessment and treatment should commence within 10 minutes of arrival."
+  },
+  {
+    "scenario_number": 71,
+    "description": "A solidly built man of about 40 years and smelling strongly of alcohol starts shouting at another patient in the waiting room. He says he wants to see a doctor but before you can establish what is wrong he stands up and begins to threaten the other patients who are waiting with a knife.",
+    "category": 1,
+    "rationale": "Immediate threat of physical violence using a weapon. Simultaneous security and clinical response to aggression is required."
+  },
+  {
+    "scenario_number": 72,
+    "description": "Rae is a 22 -year-old woman who presents to the ED. You have received notification about her via a referral from the local mental health clinic. She is brought into ED by her parents. The patient is currently detoxing from amphetamines and is visibly restless. The clinic referral letter states that the patient is \u2018actively suicidal\u2019. She states she has no plans to harm herself and she is asking for help.",
+    "category": 3,
+    "rationale": "Primary survey is intact. The patient is agitated and should wait no longer than 30 minutes to be seen."
+  },
+  {
+    "scenario_number": 73,
+    "description": "Patty is a 53 -year-old woman who presents to triage reporting right -sided abdominal pain. She states that the pain has been constant for two days. She has not had any nausea or vomiting. She tells you that the pain is worse when she is sitting still. She states that she has had this pain before and her local doctor thought it might be gall stones. Prior to coming to the ED, she took two paracetamol tablets with minimal effect. She rates the pain as 5/10. Her respiratory rate is 18 breaths per minute, heart rate is 96 beats per minute and her blood pressure is 145/84 mmHg. Her temperature is 36.4 \u00b0C.",
+    "category": 4,
+    "rationale": "Airway, breathing and circulation are intact. The patient has abdominal pain with no associated nausea or vomiting. Symptoms are moderate, and treatment should commence within one hour."
+  },
+  {
+    "scenario_number": 74,
+    "description": "Galen is a 9-year-old boy who presents to the ED with his father. He has a past history of asthma. Today he developed wheezing while playing soccer, which has only been partially relieved by salbutamol. He is able to speak in short sentences, but sits in the tripod position on a chair while you assess him and he shows severe increase in work of breathing. The onset of the attack occurred four hours ago and since then he has taken three doses of salbutamol. He also takes a preventer for his asthma and his father states that he normally manages well. His heart rate is 142 beats per minute and his respiratory rate is 26 breaths per minute.",
+    "category": 2,
+    "rationale": "Airway is intact. There is severe respiratory distress and the patient should wait no longer than 10 minutes."
+  },
+  {
+    "scenario_number": 75,
+    "description": "Emil is a 5 -year-old boy with a 5 -day history of diarrhoea and vomiting. He presents to the ED with his mother, and she says that he has been unable to keep anything down today. He has not eaten since becoming sick but was having sips of water yesterday. He is pale and quiet but alert. His heart rate is 124 beats per minute and his respiratory rate is 26 breaths per minute. His urine is darker in colour and his capillary refill is less than 3 seconds. His mother is unsure if he has had a fever at home and his temperature is 36.6 \u00b0C.",
+    "category": 3,
+    "rationale": "Airway is intact and there is no respiratory distress. The patient is mildly tachycardic. He should wait no longer than 30 minutes for treatment."
+  },
+  {
+    "scenario_number": 76,
+    "description": "Lee is a 20-year-old woman who presents to the ED with her mum. Her mother reports that she has had paranoid ideas that her food has been poisoned and since yesterday has not had anything to eat or drink. She states that the reason for not drinking is because she believes that there are \u2018spiders and poison around\u2019. This has never happened before.",
+    "category": 3,
+    "rationale": "Airway, breathing and circulation are intact. The presence of psychotic symptoms (paranoid ideas) indicates that treatment should commence within 30 minutes."
+  },
+  {
+    "scenario_number": 77,
+    "description": "Tomas, an 8-year-old boy, presents to the ED with his mother. Mum was called to the school to pick up Tomas today. While playing at recess he was involved in a fight which resulted in him being hit in the face with a plastic cricket bat. Mum says the school called her because he was inconsolable after the event, and he didn\u2019t want to go back to the classroom. There was no loss of consciousness reported and he has not vomited, felt dizzy or complained of headache since, but he has a 3 cm laceration to his left cheek.",
+    "category": 4,
+    "rationale": "Airway, breathing and circulation are intact. There has been no loss of consciousness, nonetheless the child is distressed and should receive treatment within one hour."
+  },
+  {
+    "scenario_number": 78,
+    "description": "Harley is an 18-month-old boy who was brought to the ED via ambulance. He was found face down in a swimming pool. His parents administered cardio-pulmonary resuscitation at the scene and called the ambulance. On arrival the child is breathing spontaneously and receiving 100% oxygen via bag-valve-mask. His heart rate is 140 beats per minute and his respiratory rate is 14 breaths per minute. The child has his eyes closed and is lying still on the trolley. He is responding to painful stimuli.",
+    "category": 1,
+    "rationale": "Near drowning with respiratory arrest. Respiration and circulation are now re-established. The child should be assessed and commence treatment immediately."
+  },
+  {
+    "scenario_number": 79,
+    "description": "Candy, a 3 -month -old girl, presents to the ED with her mother. She has been referred by the maternal child and health nurse. She has been \u2018crying a lot\u2019 according to her Mum and she has \u2018bad colic\u2019. The baby was born prematurely at 36 weeks and delivered by emergency caesarean section due to pre -eclampsia. Since birth, the baby has gained weight and mum says other than the colic \u2018is doing OK\u2019. When you go to examine the baby you note green/ yellow bruising and some red welts on the upper arms. The infant is alert, shows no increase in work of breathing and her skin is pink and warm.",
+    "category": 3,
+    "rationale": "Airway, breathing and circulation are intact. A number of risk factors suggest this child is at risk of abuse; accordingly, the child should wait no longer than 30 minutes for assessment."
+  },
+  {
+    "scenario_number": 80,
+    "description": "Ahmad is a 39-year-old man who walks to the triage desk. He slipped and fell onto his shoulder in his driveway and now has left shoulder pain. On examination the shoulder is very swollen and painful on movement. His arm is already in a sling. His left hand is warm, and a radial pulse is present. He rates his pain as 2/10 when not moving.",
+    "category": 4,
+    "rationale": "Airway, breathing and circulation are intact. There is an acute injury causing mild pain, but there is no circulatory compromise to the affected limb. The patient should wait no longer than one hour before commencing treatment."
+  },
+  {
+    "scenario_number": 81,
+    "description": "Laurie, a 66 -year-old man, has been referred to the ED from his local doctor on a Monday morning. He complains of increasing upper abdominal pains, associated nausea and constipation over the weekend. He had a loose bowel action this morning. His appetite is normal, his pain is sharp in nature, and he rates it as 8/10. His respiratory rate is 22 breaths per minute, heart rate is 86 beats per minute, blood pressure is 142/82 mmHg and his temperature is 37.8 \u00b0C.",
+    "category": 2,
+    "rationale": "Airway, breathing and circulation are intact. The patient has severe pain and abdominal symptoms and is over the age of 65. He should commence treatment within 10 minutes."
+  },
+  {
+    "scenario_number": 82,
+    "description": "Bianca is 24 years old. She has a history of a perianal abscess that underwent drainage two days ago. She continues to have pain (4/10) and was seen by her local doctor today. She has taken paracetamol with no relief and is on oral antibiotics. Her respiratory rate is 20 per minute, heart rate is 92 beats per minute and her temperature 37.6 \u00b0C.",
+    "category": 4,
+    "rationale": "Airway, breathing and circulation are intact. Pain is due to an acute infection which is being treated. The patient has taken analgesia but continues to experience a mild level of pain. The patient should wait no longer than one hour."
+  },
+  {
+    "scenario_number": 83,
+    "description": "Ned, a 28-year-old jockey, attends the ED after being kicked in the abdomen by a horse. He was assisting a colleague to guide the animal into a float when it reared up and then kicked him. Ned was thrown some 2 m and fell to the ground. He did not lose consciousness but was \u2018winded from the kick\u2019. At triage, Ned appears pale and distressed. He tells you that he has pain and points to his left upper quadrant. His respiratory rate is 26 breaths per minute, his heart rate is 128 beats per minute and his skin is cool and moist.",
+    "category": 2,
+    "rationale": "Airway is clear and the patient is tachypnoeic and tachycardic. Significant blunt trauma to the abdomen (possible liver injury) and the patient is showing signs of shock. This patient should commence treatment within 10 minutes."
+  },
+  {
+    "scenario_number": 84,
+    "description": "Homer, 21 years, twisted his right knee playing basketball. His knee is very swollen, and he is unable to weight bear. The injury occurred about two hours prior to his arrival in the ED and an ice pack has been applied. The neurovascular status of his right foot is normal. He rates his pain as 2/10 if he doesn\u2019t try to walk on it.",
+    "category": 4,
+    "rationale": "Airway, breathing and circulation are intact. The patient has mild pain due to an acute limb injury. He should wait no more than one hour for treatment."
+  },
+  {
+    "scenario_number": 85,
+    "description": "A 52 -year-old man presents to triage. He has a diagnosis of schizophrenia. He is currently on medications for this, but cannot recall the name of the medication or the name of his case manager. He says that he has been having suicidal thoughts and that \u2018there are voices\u2019 urging him to \u2018step in front of a train\u2019. He has lost his medication and is asking for help; he makes eye contact and is not agitated.",
+    "category": 3,
+    "rationale": "Airway, breathing and circulation are intact. There is evidence of psychotic symptoms (command hallucinations) and suicidal ideation. The patient should be under close observation in the ED waiting room and should receive treatment within 30 minutes."
+  },
+  {
+    "scenario_number": 86,
+    "description": "A 29-year-old woman presents to the ED with a friend. She states that she is depressed and feels like harming herself. She has superficial lacerations on her forearm that look to be 4\u20137 days old. When asked if she would be able to wait a short time, she says that she feels safe to wait and finds her friend supportive. She has a history of depression and self -harm, but is not currently on any medications.",
+    "category": 4,
+    "rationale": "Primary survey is intact. The patient has support and is willing to wait. She should wait no longer than one hour for assessment."
+  },
+  {
+    "scenario_number": 87,
+    "description": "Ranju presents to the ED with generalised abdominal pain. She has been brought in by a work colleague. When questioned she complains of six days of constipation. She is booked in for a colonoscopy at a private clinic tomorrow. She is on no medication but is bent over and crying in pain. Her respiratory rate is 16 breaths per minute. Her heart rate is 92 beats per minute and blood pressure is 105/60 mmHg. Her temperature is 36.8 \u00b0C. She rates her pain as 6/10.",
+    "category": 3,
+    "rationale": "Airway, breathing and circulation are intact. Abdominal pain is causing moderate discomfort. This patient should wait no longer than 30 minutes to commence treatment."
+  },
+  {
+    "scenario_number": 88,
+    "description": "While playing volleyball, Gary, a 47 -year-old, hurt his left wrist. He has a good range of movement although he has pain when you ask him to rotate his left hand. The neurovascular status of his hand is normal, and his pain is 1/10 when not moving.",
+    "category": 5,
+    "rationale": "Airway, breathing and circulation are intact. The main problem is pain - the patient is experiencing mild to moderate pain and minor limb trauma. The patient should receive treatment within two hours."
+  },
+  {
+    "scenario_number": 89,
+    "description": "Marcia, a 48-year-old woman with a history of epilepsy, comes to the ED because she has occasional pain radiating up her leg and chest causing tightness. On arrival she is pain -free but complains of nausea and lethargy. She is short of breath, her respiratory rate is 16 breaths per minute, SpO 2 is 97% and her heart rate is 68 beats per minute. She is afebrile.",
+    "category": 3,
+    "rationale": "Airway, breathing and circulation are intact. Pain currently resolved but needs investigation as it could be cardiac in nature. The patient should wait no longer than 30 minutes."
+  },
+  {
+    "scenario_number": 90,
+    "description": "Bryan, 23 years, attends the ED because he has noticed a sore on his penis. He tells you the sore is about 3 cm and is oozing clear fluid. He says he feels \u2018embarrassed\u2019, and that he has \u2018never had this problem before\u2019, but he had to get help because it is \u2018painful\u2019. He rates the pain as 5/10. He is afebrile.",
+    "category": 4,
+    "rationale": "Airway, breathing and circulation are intact. The patient reports mild to moderate pain with some risk features. He should wait no longer than one hour."
+  },
+  {
+    "scenario_number": 91,
+    "description": "Liam is a 23 -year-old man who presents to triage after being seen by a locum doctor. He is currently back -packing around Australia and has been staying in a boarding house a few doors down from the hospital. His partner has brought him to the ED. He has a six-hour history of fever and lethargy. He has been vomiting and complains of a headache. The doctor gave him an ondansetron wafer, with some effect. His temperature is 38.4 \u00b0C; his partner points out a fine petechial looking rash on his torso. He is drowsy but orientated to time, place and person. His respiratory rate is 26 breaths per minute and his heart rate is 102 beats per minute.",
+    "category": 2,
+    "rationale": "Airway, breathing and circulation are intact. The patient has suspected sepsis and signs of meningococcaemia and needs to commence treatment within 10 minutes."
+  },
+  {
+    "scenario_number": 92,
+    "description": "Ashley, a 23 -year-old university student, fell off her push bike two days ago and was seen in another ED. She is reporting stiffness and pain to her left wrist. Her left hand is swollen but she has full range of movement, the left hand is pink and warm. She rates her pain as 2/10.",
+    "category": 5,
+    "rationale": "Airway, breathing and circulation are intact. This injury occurred 48 hours ago and was treated at that time. Function of the limb is not impaired and there are no high-risk features in this presentation. Pain is mild. This patient should receive treatment within two hours."
+  },
+  {
+    "scenario_number": 93,
+    "description": "Hamish is an 18-year-old man who is sent to the ED from his local doctor with a sudden onset of right testicular pain. He has a history of partial testicular torsion two weeks ago and states that the pain is the same as it was then. He is doubled over in pain at the triage desk.",
+    "category": 2,
+    "rationale": "Airway, breathing and circulation are intact. The patient has severe pain with possible torsion of testes. He should receive treatment within 10 minutes."
+  },
+  {
+    "scenario_number": 94,
+    "description": "Remo is a 43 -year-old man who presents with a two -week history of right renal stones. He now has pain, which he describes as colicky in nature. He rates the pain as 4/10. He has had no pain relief today. His respiratory rate is 22 breaths per minute, heart rate is 67 beats per minute and temperature is 37.6 \u00b0C.",
+    "category": 4,
+    "rationale": "Airway, breathing and circulation are intact. The pain is likely to be due to renal calculi. Pain is mild to moderate and there are no high-risk factors. This patient should be seen within one hour."
+  },
+  {
+    "scenario_number": 95,
+    "description": "Linda is a 35 -year-old woman with a history of hepatitis B. Today she presents with right-sided abdominal pain. The pain has been getting worse over the past week and is currently 4/10. She has no vomiting and her skin is pink and warm. Her respiratory rate is 18 breaths per minute and her heart rate is 74 beats per minute. Her blood pressure is 126/72 mmHg and her temperature is 37.8 \u00b0C.",
+    "category": 4,
+    "rationale": "Airway, breathing and circulation are intact. Mild pain is the main problem for this patient, and she should commence treatment within one hour."
+  },
+  {
+    "scenario_number": 96,
+    "description": "Thiam, a 29-year-old, was painting a roof. He lost his footing and fell approximately 2 m, landing on his feet. His work mate was able to assist him into a car and transported him to hospital and is interpreting for him now as Thiam\u2019s English is limited. On arrival he is unable to weight bear at all. He has pain, which he says is 8/10. Both feet and ankles are swollen. His respiratory rate is 20 breaths per minute and his heart rate is 102 beats per minute. He has pins and needles in both feet and pulses are present.",
+    "category": 2,
+    "rationale": "Airway and breathing are intact. He has an elevated heart rate and significant mechanism with changes to limb function and sensation. He has severe pain. He should wait no longer than 10 minutes for treatment."
+  },
+  {
+    "scenario_number": 97,
+    "description": "Cassandra, a 15-year-old, was riding her horse in the bush some 60 km away from town when the animal was startled and threw her about 3 m. She was wearing a helmet, but her head struck a tree, and the helmet broke in half. Her companions noted an initial loss of consciousness, after which she was drowsy and vomiting. She did not appear to have any injuries elsewhere and did not complain of neck pain when asked. She was transferred to your ED in the back of a utility. On arrival she has a GCS of 8/15. Her respiratory rate is 24 breaths per minute and her heart rate is 62 beats per minute.",
+    "category": 1,
+    "rationale": "GCS 8/15 is an immediate airway risk. Patient responding only to pain. Requires immediate assessment and emergency treatment."
+  },
+  {
+    "scenario_number": 98,
+    "description": "Luke, a 27 -year-old, wants to travel to India next week. He attends the ED for advice about the sorts of vaccinations he might need.",
+    "category": 5,
+    "rationale": "This is a non-urgent problem; however, the patient still requires advice about vaccinations given he is travelling overseas in the next week. He can wait for up to two hours for assessment and treatment."
+  },
+  {
+    "scenario_number": 99,
+    "description": "Mrs Y is a 49-year-old lady who complains of pain in the upper abdomen and states that she has been vomiting. She hands you a local doctor\u2019s letter that reads: \u2018Dear Dr, Herewith Mrs Y a 49-year-old woman 12/12 past history of hypertension and back pain. Early this morning she developed epigastric pain, described as coming in waves and vomiting, no diarrhoea. Yours Sincerely, Dr A.\u2019 Her respiratory rate is 16 breaths per minute and her heart rate is 92 beats per minute. Her blood pressure is 116/68 mmHg, temperature is 37.2 \u00b0C and her skin is warm and dry. She rates her pain as 6/10.",
+    "category": 3,
+    "rationale": "Primary survey is intact. Moderately severe abdominal pain without high-risk features. This patient should be seen within 30 minutes."
+  },
+  {
+    "scenario_number": 100,
+    "description": "Pete, aged 28 years, presents to the ED at 9pm on a Sunday night requesting a workers\u2019 compensation certificate for a day off work the previous week. He was seen at the hospital five days ago with a sprained wrist and had been given the certificate for one day off work. He has lost the certificate. He tells you that he is \u2018prepared to wait\u2019 as his boss has told him to get a new certificate by Monday morning or he would be \u2018in big trouble\u2019. His wrist is no longer painful, and he says he \u2018feels fine\u2019.",
+    "category": 5,
+    "rationale": "This is a non-urgent problem and the patient can wait up to two hours for assessment and treatment."
+  },
+  {
+    "scenario_number": 101,
+    "description": "Jane is in her 20s and presents to the triage desk with her friend. The friend states Jane has taken 15 \u00d7 50 mg sertraline tablets and some diazepam tablets (unsure how many) and some wine. As you begin talking to her friend, Jane begins to vomit, appears confused, falls to the floor and becomes unresponsive. You summon help and staff arrive, they lift her onto a trolley and take her into the ED.",
+    "category": 1,
+    "rationale": "Immediate risk to airway, requires immediate assessment and intervention."
+  },
+  {
+    "scenario_number": 102,
+    "description": "Jane is a 17-year-old girl who was sent to the ED by her local doctor. On her way home from school her boyfriend noticed her to be drowsy, \u2018she kept asking where she was and appeared disoriented\u2019. She was seen by her local doctor who told her to \u2018go straight to the ED\u2019. He did not provide her with a letter of referral. Her respiratory rate is 14 breaths per minute, heart rate is 62 beats per minute and her blood pressure is 106/58 mmHg. Her skin is pink, warm, and dry. Her GCS is 14/15.",
+    "category": 3,
+    "rationale": "Airway, breathing and circulation are intact. The history is unclear and there is an altered conscious state. The patient should wait no longer than 30 minutes for treatment."
+  },
+  {
+    "scenario_number": 103,
+    "description": "Djawa, 34 years of age, has an abscess under his tooth. He presents to the ED at 1.30am. He is in pain (6/10) despite taking regular paracetamol and ibuprofen. He has an appointment with his dentist tomorrow but has not been able to sleep because of the pain. He is afebrile.",
+    "category": 4,
+    "rationale": "Airway, breathing and circulation are intact. The main problem is pain, possibly due to infection. Pain is at a moderate level and treatment should commence within one hour."
+  },
+  {
+    "scenario_number": 104,
+    "description": "Mario, a 67 -year-old man, was putting some pesticides on his vegetable patch and he accidentally spilt it on his clothing. He had a shower at home immediately after the accident but has come to the ED some two hours later because he is nauseous, vomiting and has developed excessive sweating. His respiratory rate is 28 breaths per minute and his heart rate is 122 beats per minute. He says he is not sure of the name of the chemical he was exposed to as he has had it in his shed for \u2018many years\u2019.",
+    "category": 2,
+    "rationale": "Airway intact, tachypnoeic with tachycardia and excessive sweating, nausea and vomiting, possibly due to toxic exposure to organophosphate. This patient should wait no more than 10 minutes for treatment."
+  },
+  {
+    "scenario_number": 105,
+    "description": "Hugh is a 54 -year-old man who was seen in the ED with a fractured right radius and ulna four days ago. He presents today because he says the cast is too loose and needs to be replaced. He has no pain, and his right hand is pink and warm.",
+    "category": 5,
+    "rationale": "This is a non-urgent problem. However, the plaster needs to be assessed as it was applied in the ED and if it is loose will not effectively immobilise the fracture."
+  },
+  {
+    "scenario_number": 106,
+    "description": "Joanne is a 34 -year-old woman who walks to the triage desk at 10.50am. When you ask her what is wrong, she says \u2018I can\u2019t go to the toilet\u2019. When questioned she says that she has not passed urine today but said she \u2018did last night and it was not painful\u2019 to void. Her pain is currently 4/10. Her respiratory rate is 16 breaths per minute, heart rate is 72 beats per minute and temperature is 36.2 \u00b0C.",
+    "category": 4,
+    "rationale": "Airway, breathing and circulation are intact. Acute urinary symptoms and discomfort with mild pain. The history is a little unclear; however, this patient should wait no longer than one hour."
+  },
+  {
+    "scenario_number": 107,
+    "description": "Mrs Zhang is assisted to the triage desk by her daughter around midday. She has limited English proficiency, so her daughter tells you her history. Last night Mrs Zhang had an episode of palpitations and complained of nausea and feeling lethargic. Today \u2018the palpitations are back\u2019. She has a history of coronary artery bypass grafts. When asked if she has chest pain, she says she is \u2018very sick\u2019. Her respiratory rate is 26 breaths per minute and her heart rate is 108 beats per minute. Her skin is pale, cool and moist to touch.",
+    "category": 2,
+    "rationale": "Airway is intact but she has palpitations/tachycardia with possible chest pains. History is suggestive of a cardiac event with some signs of increased sympathetic activity (pallor and diaphoresis). This patient should wait no longer than 10 minutes for treatment."
+  },
+  {
+    "scenario_number": 108,
+    "description": "Madhu is a 32 -year-old woman who presents via ambulance complaining of \u2018palpitations\u2019. She is 30 weeks pregnant (G3P1) and is normally well. She was doing the vacuuming when her palpitations started. She complains of mild chest pain that is dull in nature and mild shortness of breath. Her respiratory rate is 24 breaths per minute and SpO 2 is 98%. Her heart rate is 162 beats per minute. Her skin is pale, cool and dry. Her blood pressure is 90/R. Her GCS is 15/15. Her temperature is 36.3 \u00b0C.",
+    "category": 2,
+    "rationale": "Airway is intact. The patient has mild tachypnoea and haemodynamic compromise. This patient should wait no longer than 10 minutes for treatment."
+  },
+  {
+    "scenario_number": 109,
+    "description": "Kerry is a 36 -year-old woman who presents to the ED via ambulance with sudden onset of headache. She tells you that she is 31 weeks pregnant (G3P1) and has been \u2018keeping well\u2019. Her husband tells you she was making lunch when she suddenly complained of a severe occipital headache. Her respiratory rate is 20 breaths per minute and SpO 2 is 98%. Her heart rate is 124 beats per minute. Her skin is pale, cool and dry. Ambulance officers report a blood pressure of 160/100 mmHg and a GCS of 14/15 (eyes open to voice). Her temperature is 36.3 \u00b0C. When asked to score her level of pain out of 10, she tells you it is 9/10.",
+    "category": 2,
+    "rationale": "Airway and breathing are intact; hypertensive in the context of pregnancy with sudden severe onset of headache and altered conscious state. This patient should wait no longer than 10 minutes for treatment."
+  },
+  {
+    "scenario_number": 110,
+    "description": "At 5.30am a mother presents with her 18-month-old daughter, Jasmine, describing one or two days of cough. She had been seen at another ED earlier in the night but discharged home. The mother states that the child is \u2018an asthmatic\u2019 and that they have been giving her four -hourly salbutamol. The last dose was given at midnight. The child is leaning against her mother, but looking around, and her skin is pink. Her cough is moist, and she is showing moderate use of her accessory muscles. Her respiratory rate is 32 breaths per minute and on auscultation has an expiratory wheeze and decreased air entry to both bases. Her heart rate is 168 beats per minute and her SpO 2 is 92%.",
+    "category": 2,
+    "rationale": "Airway is intact. The patient is showing signs of severe respiratory distress. She should wait no longer than 10 minutes for treatment."
+  },
+  {
+    "scenario_number": 111,
+    "description": "Josie is 39 years of age. She walks to the triage desk complaining of pain in her legs. When asked, she says, \u2018my feet and legs are swollen and sore\u2019. She has a history of intravenous drug use, heavy alcohol intake and hepatitis C. Currently she is on no medications and is alert and orientated. Her respiratory rate is 18 breaths per minute, heart rate is 74 beats per minute and temperature is 36.7 \u00b0C.",
+    "category": 4,
+    "rationale": "Airway, breathing and circulation are intact. The patient has pain and no history of injury. She has significant co-morbid factors and should be seen within one hour."
+  },
+  {
+    "scenario_number": 112,
+    "description": "Manaaki is 28 years of age. He attends the ED with his partner at 5.30pm. He has abdominal pain radiating to his right loin, urinary frequency and dysuria. He saw his GP yesterday who said he \u2018might have kidney stones\u2019. The pain is worse now (7/10) and he noted some blood in his urine last time he voided. His respiratory rate is 16 breaths per minute and his heart rate is 102 beats per minute. His temperature is 37.2 \u00b0C.",
+    "category": 3,
+    "rationale": "Airway, breathing and circulation are intact. Pain is moderate to severe and the patient should receive treatment within 30 minutes."
+  },
+  {
+    "scenario_number": 113,
+    "description": "Dylan is a 20-year-old man who is brought to the ED in police custody. He has a history of intravenous drug use and hepatitis C. He presents with a two -day history of right upper quadrant pain. When asked about his pain he states that his liver is \u2018playing up.\u2019 His respiratory rate is 16 breaths per minute, heart rate is 82 beats per minute, temperature is 37.2 \u00b0C and pain is 2/10.",
+    "category": 4,
+    "rationale": "Airway, breathing and circulation are intact. Two-day history of mild pain. History increases risk factors. The patient should wait no longer than one hour for treatment."
+  },
+  {
+    "scenario_number": 114,
+    "description": "Police escort a 19-year-old distressed woman to the ED. The police tell you quietly that Helen has been repeatedly raped and bashed in a domestic dispute. Helen cannot speak to you as she is shaking and crying. She is sitting in a wheelchair with a blanket wrapped around her. She has bruising to her face and a large peri -orbital haematoma is evident to her left eye. You approach Helen to try to assess her but she starts screaming and hitting out.",
+    "category": 2,
+    "rationale": "Airway, breathing and circulation are intact. The patient experienced significant mechanism of injury and is visibly distressed. She should not wait longer than 10 minutes for assessment and treatment."
+  },
+  {
+    "scenario_number": 115,
+    "description": "A 5-year-old boy is rushed into your ED by his parents one hot summer day. He has been holidaying with his family in far north Queensland and was wading in the sea. He has a raised red welt on his right leg. He is in severe pain and is crying. He has a heart rate of 128 beats per minute and a blood pressure of 130/70 mmHg.",
+    "category": 2,
+    "rationale": "Possible marine envenomation. Rapid heart rate and elevated blood pressure associated with pain indicate that treatment should commence within 10 minutes."
+  },
+  {
+    "scenario_number": 116,
+    "description": "Aida, a 17-year-old girl, presents to the ED complaining of a sore throat. She has a hoarse voice and her friend states she also has muscular pain to her neck, shoulders and back. She has been unwell for a few days but has come to the ED today because she is having trouble swallowing. You ask her to open her mouth and note that her breath is foul smelling. Her tonsils appear to be covered in pus. Her respiratory rate is 22 breaths per minute, heart rate is 98 beats per minute, blood pressure is 116/78 mmHg and her temperature is 38.4 \u00b0C. She is speaking in full sentences and able to swallow, although it is painful.",
+    "category": 3,
+    "rationale": "Airway, breathing and circulation are intact. Moderately severe pain. The patient has signs of infection but is not septic. Treatment should commence within 30 minutes."
+  },
+  {
+    "scenario_number": 117,
+    "description": "Benny, a 52 -year-old, has recently received chemotherapy (two treatments), the last of which was two days ago, for small cell lung cancer. He was told to come straight back to hospital should he develop a fever. He now has a temperature of 38.7 \u00b0C and is pale and sweating. His respiratory rate is 28 breaths per minute and his heart rate is 98 beats per minute.",
+    "category": 2,
+    "rationale": "Airway is intact. Elevated respiratory rate with fever and recent chemotherapy would meet criteria for febrile neutropenia. He should wait no longer than 10 minutes for medical assessment and treatment."
+  },
+  {
+    "scenario_number": 118,
+    "description": "Reese, a 31-year-old, suffers from migraines. Today she has come to the ED with her sister. She has had an eight -hour history of a global headache, vomiting and visual disturbance, which she says is typical of her migraine pain. She has taken her usual medication (sumatriptan), but says it is \u2018not working\u2019. Her heart rate is 96 beats per minute and her respiratory rate is 28 breaths per minute. She is afebrile and rates her pain as 7/10.",
+    "category": 3,
+    "rationale": "Airway, breathing and circulation are intact. The patient is experiencing moderately severe pain and should wait no longer than 30 minutes for treatment."
+  },
+  {
+    "scenario_number": 119,
+    "description": "India is a 9-year-old girl who arrives to the ED via a taxi; she is accompanied by her mother. She fell while playing netball, injuring her right foot. She is transferred to the triage desk in a wheelchair as it is painful for her to weight bear. Her ankle is moderately swollen, but there is no deformity and her toes and pink and warm. She has no other injuries but agrees to a dose of paracetamol.",
+    "category": 4,
+    "rationale": "Airway, breathing and circulation are intact. Moderate pain will require investigation and treatment should commence within one hour."
+  },
+  {
+    "scenario_number": 120,
+    "description": "A mother presents with her 6 -month-old baby who she says won\u2019t wake up. The child is breathing, but is floppy, unrousable and has pin-point pupils.",
+    "category": 1,
+    "rationale": "Airway is unstable and cardiopulmonary arrest is imminent. The child requires immediate simultaneous assessment treatment."
+  },
+  {
+    "scenario_number": 121,
+    "description": "Paddy is a 32 -year-old man who presents to triage stating that he has vomited bright red blood twice in the last six hours. He describes dark bowel motions, for the last three days. He tells you that he normally drinks \u201812 stubbies of beer per day\u2019. His respiratory rate is 20 breaths per minute, heart rate is 108 beats per minute and his blood pressure is 106/68 mmHg. His skin is pale, warm and dry. He doesn\u2019t have any pain, but does complain of nausea.",
+    "category": 3,
+    "rationale": "While airway, breathing and circulation are currently within normal parameters, this patient is at significant risk of a sudden and large gastrointestinal blood loss. He should not wait longer than 30 minutes for medical assessment and treatment."
+  },
+  {
+    "scenario_number": 122,
+    "description": "Trinh is a 22-year-old woman who presents to the ED at 11pm complaining of a 24 -hour history of a sore throat and feeling generally unwell. She had been attending a party nearby and decided to call in to the hospital to get some antibiotics. She has no other symptoms, looks well and is afebrile. Her vital signs are within normal limits.",
+    "category": 5,
+    "rationale": "This is a non-urgent problem, and the patient can wait two hours to see a doctor."
+  },
+  {
+    "scenario_number": 123,
+    "description": "You are called to assist a young woman help her boyfriend out of the car that is pulled up in the ambulance bay. She tells you that Matt \u2018shot up\u2019 30 minutes ago. On examination, Matt appears to have vomited and is centrally cyanosed. He has irregular grunting respirations of six breaths per minute.",
+    "category": 1,
+    "rationale": "Grunting respirations and central cyanosis indicate that this patient has an airway obstruction and requires immediate assessment and treatment."
+  },
+  {
+    "scenario_number": 124,
+    "description": "Elliot is 27 years old. He injured his back yesterday lifting a heavy box at work. He has been managing his pain at home; however, today it is \u2018much worse\u2019. He was unable to get an appointment with his local doctor so has come to the ED. He rates his pain as 5/10 and has taken two paracetamol and two ibuprofen tablets in the last hour.",
+    "category": 4,
+    "rationale": "Airway, breathing and circulation are intact. The patient has mild to moderate pain. Adequate analgesia has been administered prior to arrival. This patient should wait no longer than one hour to see a doctor."
+  },
+  {
+    "scenario_number": 125,
+    "description": "Over the past four weeks Gregory, a 56 -year-old, has attended your ED 14 times. Today he says he has a problem with a tattoo that was applied \u2018by a mate\u2019 two weeks ago. The wound looks red and is oozing pus. Gregory has a history of intravenous drug and alcohol misuse, hepatitis C and type 2 diabetes. His vital signs are within normal limits.",
+    "category": 4,
+    "rationale": "Airway, breathing and circulation are intact. The patient has an infection of the skin and has several co-morbid conditions. He should commence treatment within one hour."
+  },
+  {
+    "scenario_number": 126,
+    "description": "Khee, 62 years, stubbed his right great toe on the corner of a fireplace. The nail has lifted off and the toe is now covered in a blood -soaked tea towel. He walks into the ED assisted by his son. He tells you that he takes warfarin, so \u2018thought it best to come to hospital rather than see the local doc\u2019. His son tells you that the tea-towel has not been changed since the injury, but there was \u2018blood all over the floor\u2019. His respiratory rate is 16 breaths per minute, heart rate is 88 beats per minute and blood pressure is 132/78 mmHg. He rates his pain as 4/10.",
+    "category": 4,
+    "rationale": "Airway, breathing and circulation are intact. There is moderate blood loss and a clean, firm dressing needs to be applied to the wound. The patient should wait no longer than one hour for treatment; however, close observation of the dressing needs to occur, and re-triage should be performed if the bleeding cannot be adequately controlled."
+  },
+  {
+    "scenario_number": 127,
+    "description": "Carole, a 48-year-old woman, is brought to the ED by her husband. She is vomiting and has severe epigastric pain. She ate at a local restaurant and told you she thinks that she has \u2018food poisoning\u2019. Her respiratory rate is 26 breaths per minute, her heart rate is 98 beats per minute and her temperature 37.8 \u00b0C. Her skin is pale and moist to touch. She says that the pain comes and goes, she rates it as 8/10 at the worst point, and 2/10 at the lowest point. She says that she has vomited semi-digested food more than six times in the last hour. Now the vomit is clear fluid.",
+    "category": 3,
+    "rationale": "Airway, breathing and circulation are intact. Pain is the problem, and it is reported to be severe. The patient should wait no longer than 30 minutes."
+  },
+  {
+    "scenario_number": 128,
+    "description": "Paramedics arrive without prior notice with a woman aged 26 years. She was a front seat passenger from a single motor vehicle crash that involved multiple rollovers. The paramedics state that the patient was walking around at the scene, intoxicated, abusive, complaining of abdominal pains and reluctant to come to hospital. On examination the patient is centrally cyanosed and not breathing.",
+    "category": 1,
+    "rationale": "Respiratory arrest requires immediate assessment and simultaneous treatment."
+  },
+  {
+    "scenario_number": 129,
+    "description": "Ron, the 50-year-old coach of a visiting interstate football team, presents to triage at 7pm on Saturday night. His anti -hypertensive medications have run out and his GP has previously warned him that it would be dangerous for him to stop his medications. Ron says that he realises that it is \u2018not completely appropriate\u2019 for him to attend the ED for a prescription but says he doesn\u2019t know any GPs in the city and is quite prepared to wait for his prescription. His GCS is 15/15. His skin is pink, warm and dry. He has no headache or pain elsewhere.",
+    "category": 5,
+    "rationale": "This is a non-urgent presentation and this patient can wait up to two hours to see a doctor."
+  },
+  {
+    "scenario_number": 130,
+    "description": "Noel, a 29-year-old man, is driven to the ED by friends following a fight at his cousin\u2019s party. You are called to retrieve Noel from the ambulance bay. While getting Noel out of the car you learn that he was stabbed in the left side of his chest with a carving knife and see a 2 cm laceration below his left nipple. His skin is cool, pale, and moist. He has a weak carotid pulse and a GCS of 9/15.",
+    "category": 1,
+    "rationale": "Cardiopulmonary arrest is imminent. Immediate assessment and resuscitation are required."
+  },
+  {
+    "scenario_number": 131,
+    "description": "Harriet, 90 years of age, presents to the ED via ambulance in an acutely confused state. She lives in a low -level care facility and is normally independent with activities of daily living. Today, the visiting nurse found her in another resident\u2019s room rummaging through their drawers. When she was approached, she hit out at the nurse, which \u2018is unlike her\u2019. She has a history of hypertension and mild dementia. She is mildly febrile (37.6 \u00b0C), her heart rate is 86 beats per minute and her respiratory rate 20 breaths per minute. She is picking at the sheets and seems agitated. Her GCS is 14/15.",
+    "category": 3,
+    "rationale": "Airway and breathing are intact. She has a new behavioural change and a low-grade fever. She should wait no longer than 30 minutes for treatment."
+  },
+  {
+    "scenario_number": 132,
+    "description": "An obviously pregnant woman presents to triage stating that she is in labour and that she thinks that there is something hanging down between her legs. On examination you see under her dress is what appears to be an umbilical cord.",
+    "category": 1,
+    "rationale": "Birth is imminent. The patient should receive immediate simultaneous assessment and treatment."
+  }
+]

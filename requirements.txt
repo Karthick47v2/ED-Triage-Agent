@@ -1,0 +1,9 @@
+chromadb
+langchain-openai
+langchain-core
+langchain-chroma
+langchain-community
+langgraph
+pydantic>=2.0.0
+python-dotenv
+pypdf
