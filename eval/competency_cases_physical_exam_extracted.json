@@ -1,0 +1,122 @@
+[
+  {
+    "scenario_number": 1,
+    "physical_exam": "The patient is found on the bathroom floor in his underwear and the toilet bowl is filled with maroon-colored stool."
+  },
+  {
+    "scenario_number": 2,
+    "physical_exam": "The child is sitting quietly next to his mother holding an emesis basin."
+  },
+  {
+    "scenario_number": 3,
+    "physical_exam": "The patient is cachectic and usually unresponsive."
+  },
+  {
+    "scenario_number": 4,
+    "physical_exam": "The toddler is very active and trying to get off his mother's lap, and he looks well hydrated."
+  },
+  {
+    "scenario_number": 5,
+    "physical_exam": "null"
+  },
+  {
+    "scenario_number": 6,
+    "physical_exam": "The patient has obvious chronic obstructive pulmonary disease (COPD) and increased work of breathing."
+  },
+  {
+    "scenario_number": 7,
+    "physical_exam": "The patient is disheveled, yelling, and has a 4-cm forehead laceration with blood oozing from it."
+  },
+  {
+    "scenario_number": 8,
+    "physical_exam": "The patient is bedridden."
+  },
+  {
+    "scenario_number": 9,
+    "physical_exam": "null"
+  },
+  {
+    "scenario_number": 10,
+    "physical_exam": "The patient ambulates into triage and has two wounds on his left leg."
+  },
+  {
+    "scenario_number": 11,
+    "physical_exam": "The patient is calm and cooperative."
+  },
+  {
+    "scenario_number": 12,
+    "physical_exam": "null"
+  },
+  {
+    "scenario_number": 13,
+    "physical_exam": "null"
+  },
+  {
+    "scenario_number": 14,
+    "physical_exam": "The patient's skin is cool and clammy."
+  },
+  {
+    "scenario_number": 15,
+    "physical_exam": "The patient has a laceration on her left hand and an abrasion on her left knee."
+  },
+  {
+    "scenario_number": 16,
+    "physical_exam": "null"
+  },
+  {
+    "scenario_number": 17,
+    "physical_exam": "The patient's hand is swollen and the cast is cutting into her fingers, with decreased circulation, sensation, and movement."
+  },
+  {
+    "scenario_number": 18,
+    "physical_exam": "The patient's right eye is reddened and tearing."
+  },
+  {
+    "scenario_number": 19,
+    "physical_exam": "The patient is alert and oriented with clear speech and equal hand grasps."
+  },
+  {
+    "scenario_number": 20,
+    "physical_exam": "null"
+  },
+  {
+    "scenario_number": 21,
+    "physical_exam": "null"
+  },
+  {
+    "scenario_number": 22,
+    "physical_exam": "The patient is unresponsive and intubated."
+  },
+  {
+    "scenario_number": 23,
+    "physical_exam": "null"
+  },
+  {
+    "scenario_number": 24,
+    "physical_exam": "The baby is alert and sucking on a pacifier."
+  },
+  {
+    "scenario_number": 25,
+    "physical_exam": "null"
+  },
+  {
+    "scenario_number": 26,
+    "physical_exam": "The patient is tearful."
+  },
+  {
+    "scenario_number": 27,
+    "physical_exam": "The patient has a three-centimeter laceration over his right knee."
+  },
+  {
+    "scenario_number": 28,
+    "physical_exam": "The patient walks into the emergency department with his right arm in a sling and has a two-centimeter laceration on his chin."
+  },
+  {
+    "scenario_number": 29,
+    "physical_exam": "null"
+  },
+  {
+    "scenario_number": 30,
+    "physical_exam": "The patient is lethargic and has multiple superficial lacerations to both wrists."
+  }
+]

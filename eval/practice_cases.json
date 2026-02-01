@@ -1,0 +1,182 @@
+[
+  {
+    "scenario_number": 1,
+    "description": "\"I just turned my back for a minute,\" cried the mother of a 4-year-old. The child was pulled out of the family pool by a neighbor who immediately administered mouth-to-mouth resuscitation. The child is now breathing spontaneously but continues to be unresponsive. On arrival in the emergency department (ED) vital signs (VS) were: heart rate (HR) 126, respiratory rate (RR), 28, blood pressure (BP) 80/64, SpO2 96% on a non- rebreather.",
+    "category": 1,
+    "rationale": "unresponsive. This 4-year-old continues to be unresponsive. The patient will require immediate life-saving interventions to address airway, breathing, and circulation."
+  },
+  {
+    "scenario_number": 2,
+    "description": "A 28-year-old male presents to the ED requesting to be checked. He has a severe shellfish allergy and mistakenly ate a dip that contained shrimp. He immediately felt his throat start to close so he used his EpiPen®. He tells you he feels okay. No wheezes or rash noted. VS: BP 136/84, HR 108, RR 20, SpO2 97%, temperature (T) 97º F.",
+    "category": 2,
+    "rationale": "high-risk situation for allergic reaction. The patient has used his EpiPen but still requires additional medications and close monitoring."
+  },
+  {
+    "scenario_number": 3,
+    "description": "\"He was running after his brother, fell and cut his lip on the corner of the coffee table. There was blood everywhere,\" recalls the mother of a healthy 19-month-old. \"He'll never stay still for the doctor.\" You notice that the baby has a 2- cm lip laceration that extends through the vermillion border. Vital signs are within normal limits for age.",
+    "category": 3,
+    "rationale": "two or more resources. A laceration through the vermillion border requires the physician to line up the edges exactly. Misalignment can be noticeable. A healthy 19-month-old will probably not cooperate. In most settings he will require conscious sedation, which counts as two resources. The toddler's vital signs are within normal limits for age, so there is no reason to up-triage to ESI level 2."
+  },
+  {
+    "scenario_number": 4,
+    "description": "A 44-year-old female is retching continuously into a large basin as her son wheels her into the triage area. Her son tells you that his diabetic mother has been vomiting for the past 5 hours and now it is \"just this yellow stuff.\" \"She hasn't eaten or taken her insulin,\" he tells you. No known drug allergies (NKDA). VS: BP 148/70, P 126, RR 24.",
+    "category": 2,
+    "rationale": "high risk. A 44-year-old diabetic with continuous vomiting is at risk for diabetic ketoacidosis. The patient's vital signs are a concern as her heart rate and respiratory rate are both elevated. It is not safe for this patient to wait for an extended period of time in the waiting room."
+  },
+  {
+    "scenario_number": 5,
+    "description": "\"I have this infection in my cuticle,\" reports a 26-year-old healthy female. \"It started hurting 2 days ago and today I noticed the pus.\" The patient has a small paronychia on her right 2nd finger. NKDA, T 98.8º F, RR 14, HR 62, BP 108/70.",
+    "category": 4,
+    "rationale": "one resource. This young lady needs to have an incision and drainage of her paronychia. She will require no other resources."
+  },
+  {
+    "scenario_number": 6,
+    "description": "A 17-year-old handcuffed male walks into the ED accompanied by the police. The parents called 911 because their son was out of control: verbally and physically acting out and threatening to kill the family. He is cooperative at triage and answers your questions appropriately. He has no past medical history (PMH), allergies, and is currently taking no medications. Vital signs are within normal limits.",
+    "category": 2,
+    "rationale": "high-risk situation. Homicidal ideation is a clear high-risk situation. This patient needs to be placed in a safe, secure environment, even though he is calm and cooperative at triage."
+  },
+  {
+    "scenario_number": 7,
+    "description": "\"I should have paid more attention to what I was doing,\" states a 37-year-old carpenter who presents to the ED with a 3-cm laceration to his right thumb. The thumb is wrapped in a clean rag. \"I know I need a tetanus shot,\" he tells you. BP 142/76, P 88, RR 16, T 98.6° F.",
+    "category": 4,
+    "rationale": "one resource. This patient will require a laceration repair. A tetanus booster is not a resource."
+  },
+  {
+    "scenario_number": 8,
+    "description": "\"My mother is just not acting herself,\" reports the daughter of a 72-year-old female. \"She is sleeping more than usual and complains that it hurts to pee.\" VS: T 100.8° F, HR 98, RR 22, BP 122/80. The patient responds to verbal stimuli but is disoriented to time and place.",
+    "category": 2,
+    "rationale": "new onset confusion, lethargy, or disorientation. The daughter reports that her mother has a change in level of consciousness. The reason for her change in mental status may be a urinary tract infection that has advanced to bacteremia. She has an acute change in mental status and is therefore high risk."
+  },
+  {
+    "scenario_number": 9,
+    "description": "EMS arrives with a 75-year-old male with a self- inflicted 6-cm laceration to his neck. Bleeding is currently controlled. With tears in his eyes, the patient tells you that his wife of 56 years died last week. Healthy, NKDA, baby ASA per day, BP 136/82, HR 74. RR 18, SpO2 96% RA.",
+    "category": 2,
+    "rationale": "high risk. This 75-year-old male tried to kill himself by cutting his throat. Because of the anatomy of the neck, this type of laceration has the potential to cause airway, breathing, and/or circulation problems. At the same time, he is suicidal and the ED needs to ensure that he does not leave or attempt to harm himself further."
+  },
+  {
+    "scenario_number": 10,
+    "description": "\"My dentist can't see me until Monday and my tooth is killing me. Can't you give me something for the pain?\" a 38-year-old healthy male asks the triage nurse. He tells you the pain started yesterday and he rates his pain as 10/10. No obvious facial swelling is noted. Allergic to Penicillin. VS: T 99.8° F, HR 78, RR 16, BP 128/74.",
+    "category": 5,
+    "rationale": "no resources. No resources should be necessary. He will require a physical exam but, without signs of an abscess or cellulites, this patient will be referred to a dentist. In the ED he may be given oral medications and prescriptions for antibiotics and/or pain medication. He is not an ESI level 2, even though he rates his pain as 10/10. Based on the triage assessment, he would not be given the last open bed."
+  },
+  {
+    "scenario_number": 11,
+    "description": "\"My doctor told me to come to the ED. He thinks my hand is infected,\" a 76-year-old female with arthritis, chronic renal failure, and diabetes tells you. She has an open area on the palm of her left hand that is red, tender, and swollen. She hands you a list of medications and reports she has no allergies. She is afebrile. VS: HR 72, RR 16, BP 102/60.",
+    "category": 3,
+    "rationale": "two or more resources. This patient has a complex medical history and presented with an infected hand. At a minimum she will need labs, an IV, and IV antibiotics to address her presenting complaint. Her vital signs are normal so there is no reason to up-triage her to ESI level 2."
+  },
+  {
+    "scenario_number": 12,
+    "description": "A 76-year-old male is brought to the ED because of severe abdominal pain. He tells you \"it feels like someone is ripping me apart.\" The pain began about 30 minutes prior to admission and he rates the intensity as 20/10. He has hypertension for which he takes a diuretic. No allergies. The patient is sitting in a wheelchair moaning in pain. His skin is cool and diaphoretic. VS: HR 122, BP 88/68, RR 24, SpO2 94%.",
+    "category": 1,
+    "rationale": "requires immediate life- saving intervention. The patient is presenting with signs of shock-hypotensive, tachycardic, with decreased peripheral perfusion. He has a history of hypertension and is presenting with signs and symptoms that could be attributed to a dissecting aortic abdominal aneurysm. He needs immediate IV access, aggressive fluid resuscitation, and perhaps blood prior to surgery."
+  },
+  {
+    "scenario_number": 13,
+    "description": "A 16-year-old male wearing a swimsuit walks into the ED. He explains that he dove into a pool and his face struck the bottom. You notice an abrasion on his forehead and nose as he tells you that he needs to see a doctor because of tingling in both hands.",
+    "category": 2,
+    "rationale": "high risk. Because of the mechanism on injury and his complaints of tingling in both hands, this patient should be assigned ESI level 2. He has a cervical spine injury until proven otherwise. He is not an ESI level 1 in that he does not require immediate aggressive intervention to prevent death. At triage he needs to be appropriately immobilized."
+  },
+  {
+    "scenario_number": 14,
+    "description": "\"I have a fever and a sore throat. I have finals this week and I am scared this is strep,\" reports a 19-year-old college student. She is sitting at triage drinking bottled water. No PMH, medications: birth control pills, no allergies to medications. VS: T 100.6° F, HR 88, RR 18, BP 112/76.",
+    "category": 4,
+    "rationale": "one resource. In most EDs, this patient will have a rapid strep screen sent to the lab; one resource. She is able to drink fluids and will be able to swallow pills if indicated."
+  },
+  {
+    "scenario_number": 15,
+    "description": "\"I think he has another ear infection,\" the mother of an otherwise healthy 2-year-old tells you. \"He's pulling on his right ear.\" The child has a tympanic temperature of 100.2º F and is trying to grab your stethoscope. He has a history of frequent ear infections and is currently taking no medications. He has a normal appetite and urine output according to the mother.",
+    "category": 5,
+    "rationale": "no resources. This child has had previous ear infections and is presenting today with the same type of symptoms. He is not ill appearing and his vital signs are within normal limits. The child requires a physical exam and should be discharged with a prescription."
+  },
+  {
+    "scenario_number": 16,
+    "description": "A 76-year-old male requests to see a doctor because his toenails are hard. Upon further questioning the triage nurse ascertains that the patient is unable to cut his own toenails. He denies any breaks in the skin or signs of infection. He has a history of chronic obstructive pulmonary disease (COPD) and uses several metered dose inhalers. His vital signs are normal for his age.",
+    "category": 5,
+    "rationale": "no resources. This elderly gentleman has such brittle toenails that he is no longer able to clip them himself. He requires only a brief exam and an outpatient referral to a podiatrist."
+  },
+  {
+    "scenario_number": 17,
+    "description": "\"I am so embarrassed!\" An 18-year-old tells you that she had unprotected sex last night. \"My girlfriend told me to come to the hospital because there is a pill I can take to prevent pregnancy.\" The patient is healthy, takes no medications, and has no allergies. VS: T 97º F, HR 78, RR 16, BP 118/80.",
+    "category": 5,
+    "rationale": "no resources. This patient will need a bedside pregnancy test prior to receiving medication. She may be an ESI level 4, if your institution routinely sends pregnancy tests to the lab."
+  },
+  {
+    "scenario_number": 18,
+    "description": "Concerned parents arrive in the ED with their 4-day-old baby girl who is sleeping peacefully in the mother's arms. \"I went to change her diaper,\" reports the father, \"and I noticed a little blood on it. Is something wrong with our daughter?\" The mother tells you that the baby is nursing well and weighed 7 lbs 2 oz at birth.",
+    "category": 5,
+    "rationale": "no resources. The parents of this 4-day-old need to be reassured that a spot of blood on their baby girl's diaper is not uncommon. The baby is nursing and looks healthy."
+  },
+  {
+    "scenario_number": 19,
+    "description": "\"I suddenly started bleeding and passing clots the size of oranges,\" reports a pale 34-year-old who is 10 days post partum. \"I never did this with my other two pregnancies. Can I lie down before I pass out?\" VS: BP 86/40, HR 132, RR 22, SpO2 98%.",
+    "category": 1,
+    "rationale": "requires immediate life- saving intervention. This patient is presenting with signs and symptoms of a post- partum hemorrhage. She tells you she is going to pass out and her vital signs reflect her fluid volume deficit. The patient needs immediate IV access and aggressive fluid resuscitation."
+  },
+  {
+    "scenario_number": 20,
+    "description": "A 26-year-old female is transported by EMS to the ED because she experienced the sudden onset of a severe headache that began after moving her bowels. She is 28 weeks pregnant. Her husband tells you that she is healthy, takes only prenatal vitamins, and has no allergies. On arrival in the ED the patient is moaning and does not respond to voice. EMT's tell you that she vomited about 5 minutes ago.",
+    "category": 1,
+    "rationale": "requires immediate life- saving intervention. From the history it sounds like this patient has suffered some type of head bleed. She is currently unresponsive to voice and could be showing signs of increased intracranial pressure. She may not be able to protect her own airway and may need to be emergently intubated."
+  },
+  {
+    "scenario_number": 21,
+    "description": "A 68-year-old female presents to the ED with her right arm in a sling. She was walking out to the mailbox and slipped on the ice. \"I put my arm out to break my fall. I was lucky I didn't hit my head.\" Right arm with good circulation, sensation, and movement, obvious deformity noted. PMH: arthritis, medications: ibuprofen, NKDA. Vital signs within normal limits. She rates her pain as 6/10.",
+    "category": 3,
+    "rationale": "two or more resources. It looks like this patient has a displaced fracture and will need to have a closed reduction prior to casting or splinting. At a minimum, she needs x-rays and an orthopedic consult. Her vital signs are stable, so there is no need to up-triage her to an ESI level 2. Her pain is currently a 6/10. If she rated her pain as 9/10 and she is tearful, would you up-triage her to an ESI level 2? Probably not, given the many nursing interventions you could initiate to decrease her pain, such as ice, elevation, and appropriate immobilization."
+  },
+  {
+    "scenario_number": 22,
+    "description": "\"I have this rash in my groin area,\" reports a 20-year-old healthy male. \"I think its jock rot but I can't get rid of it.\" Using OTC spray, NKDA. VS: T 98º F, HR 58, RR 16, BP 112/70.",
+    "category": 5,
+    "rationale": "no resources. Following a physical exam, this patient will be sent home with prescriptions and appropriate discharge instructions."
+  },
+  {
+    "scenario_number": 23,
+    "description": "EMS arrives with a 17-year-old restrained driver involved in a high-speed motor vehicle crash. The patient is immobilized on a backboard and is complaining of abdominal pain. He has multiple lacerations on his left arm. Vital signs prior to arrival: BP 102/60, HR 86, RR 28, SpO2 96%.",
+    "category": 2,
+    "rationale": "high-risk situation. The mechanism of injury is significant and this patient has the potential for serious injuries. He needs to be evaluated by the trauma team and should be considered high risk. If his BP was 70/palp and his HR was 128 he would be an ESI level 1; requires immediate life-saving intervention."
+  },
+  {
+    "scenario_number": 24,
+    "description": "\"The smoke was so bad; I just couldn't breathe,\" reports a 26-year-old female who entered her burning apartment building to try and rescue her cat. She is hoarse and complaining of a sore throat and a cough. You notice that she is working hard at breathing. History of asthma, uses inhalers when needed, NKDA. VS: T 98º F, RR 40, HR 114, BP 108/74.",
+    "category": 1,
+    "rationale": "requires immediate life- saving intervention. From the history and presentation, this patient appears to have a significant airway injury and will require immediate intubation. Her respiratory rate is 40 and she is in respiratory distress."
+  },
+  {
+    "scenario_number": 25,
+    "description": "Paramedics arrive with a 78-year-old male whose wife heard him fall in the bathroom. He tells you he got a little dizzy when he got up to go to the bathroom. He has a history of prostate cancer and hypertension that is controlled by a diuretic. His skin is cool and moist. NKDA. VS: HR 178 and irregular, RR 24, BP 84/66.",
+    "category": 1,
+    "rationale": "requires immediate life- saving intervention. This elderly gentleman is not tolerating a heart rate of 178. His blood pressure is currently in the 80s and his skin is cool and moist. He requires immediate IV access, medication administration, and possibly cardioversion."
+  },
+  {
+    "scenario_number": 26,
+    "description": "A 4-year-old female is transported to the ED following a fall off the jungle gym at a preschool. A witness reports that the child hit her head and was unconscious for a couple of minutes. On arrival you notice that the child's left arm is splinted and that she is very sleepy. VS: HR 162, RR 38.",
+    "category": 2,
+    "rationale": "high-risk situation. This 4-year- old had a witnessed loss of consciousness and presents to the ED with a change in level of consciousness. She needs to be rapidly evaluated and closely monitored."
+  },
+  {
+    "scenario_number": 27,
+    "description": "A 52-year-old female requests to see a doctor for a possible urinary tract infection. She is complaining of dysuria and frequency. She denies abdominal pain or vaginal discharge. No allergies, takes vitamins, and has no significant PMH. VS: T 97.4º F, HR 78, RR 14, BP 142/70.",
+    "category": 4,
+    "rationale": "one resource. She will need one resource-lab, which will include a urinalysis and urine culture. She most likely has a urinary tract infection that will be treated with oral medications."
+  },
+  {
+    "scenario_number": 28,
+    "description": "\"I think I have food poisoning,\" reports an otherwise healthy 33-year-old female. \"I have been vomiting all night and now I have diarrhea.\" The patient admits to abdominal cramping that she rates as 5/10. She denies fever or chills. VS: T 96.8º F, HR 96, RR 16, BP 116/74.",
+    "category": 3,
+    "rationale": "two or more resources. Lab studies, IV fluid, and an IV antiemetic are three of the resources that this patient will require. The patient is not high risk or in severe pain or distress."
+  },
+  {
+    "scenario_number": 29,
+    "description": "EMS arrives with a 32-year-old female who fell off a stepladder while cleaning her first floor gutters. She has an obvious open fracture of her right lower leg. She has +2 pedal pulse. Her toes are warm and she is able to wiggle them. Denies PMH, medications, or allergies. Vital signs are within normal limits for her age.",
+    "category": 3,
+    "rationale": "two or more resources. An obvious open fracture will necessitate this patient going to the operating room. At a minimum she will need the following resources: x-ray, lab, IV antibiotics, and IV pain medication."
+  },
+  {
+    "scenario_number": 30,
+    "description": "A 27-year-old female wants to be checked by a doctor. She has been experiencing low abdominal pain (6/10) for about 4 days. This morning she began spotting. She denies nausea, vomiting, diarrhea, or urinary symptoms. Her last menstrual period was 7 weeks ago. PMH: previous ectopic pregnancy. VS: T. 98º F, HR 66, RR 14, BP 106/68.",
+    "category": 3,
+    "rationale": "two or more resources. Based on her history, this patient will require two or more resources-lab and an ultrasound. She may in fact be pregnant. Ectopic pregnancy is on the differential diagnosis list, but this patient is currently hemodynamically stable and her pain is generalized across her lower abdomen."
+  }
+]

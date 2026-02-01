@@ -30,22 +30,42 @@ All commands are run from the **repository root**. Scenario data and extracted v
 
 Run all scenarios and save results + summary:
 
+**Practice Cases (30 scenarios):**
+
 ```bash
-python eval/run_evaluation.py --scenarios-file eval/scenarios_with_answers.json --output results/phase1_results.json --all
+python eval/run_evaluation.py --scenarios-file eval/practice_cases.json --output results/phase1_practice_case_results.json --all
 ```
 
-Summary and metrics are written to `results/phase1_results_summary.json`. Optional flags: `--verbose`, `--limit N`, `--scenario N` (single scenario).
+**Competency Cases (30 scenarios):**
+
+```bash
+python eval/run_evaluation.py --scenarios-file eval/competency_cases.json --output results/phase1_competency_case_results.json --all
+```
+
+Summary and metrics are written to `results/phase1_*_results_summary.json`. Optional flags: `--verbose`, `--limit N`, `--scenario N` (single scenario).
 
 ### Phase 2 (CRA Phase 2 -> TCA)
 
-Requires Phase 1 results and the provided `eval/vital_signs_extracted.json` and `eval/physical_exam_extracted.json`.
+Requires Phase 1 results and the corresponding vital signs/physical exam files.
+
+**Practice Cases:**
 
 ```bash
 python eval/run_phase2_evaluation.py \
-  --phase1-results results/phase1_results.json \
-  --vital-signs eval/vital_signs_extracted.json \
-  --physical-exam eval/physical_exam_extracted.json \
-  --output results/phase2_results.json
+  --phase1-results results/phase1_practice_case_results.json \
+  --vital-signs eval/practice_cases_vital_signs_extracted.json \
+  --physical-exam eval/practice_cases_physical_exam_extracted.json \
+  --output results/phase2_practice_case_results.json
+```
+
+**Competency Cases:**
+
+```bash
+python eval/run_phase2_evaluation.py \
+  --phase1-results results/phase1_competency_case_results.json \
+  --vital-signs eval/competency_cases_vital_signs_extracted.json \
+  --physical-exam eval/competency_cases_physical_exam_extracted.json \
+  --output results/phase2_competency_case_results.json
 ```
 
 Phase 2 prints ESI exact-match and within-±1 accuracy to the console. Use `-v` for verbose output or `--limit N` to run on a subset of scenarios.
@@ -65,8 +85,7 @@ IIA-only (intake interview + extraction):
 ```bash
 python -m ed_triage.iia.main
 ```
-
-<!-- ---
+<!-- 
 
 ## Citation
 
@@ -77,5 +96,4 @@ If you use this code or the paper in your work, please cite:
   title={ED-Triage-Agent: A Framework for Human-AI Collaborative Emergency Triage},
   author={...},
   year={2025}
-}
-``` -->
+} -->

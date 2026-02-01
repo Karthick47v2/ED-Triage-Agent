@@ -1,0 +1,122 @@
+[
+  {
+    "scenario_number": 1,
+    "physical_exam": "The child is unresponsive and breathing spontaneously."
+  },
+  {
+    "scenario_number": 2,
+    "physical_exam": "No wheezes or rash are noted."
+  },
+  {
+    "scenario_number": 3,
+    "physical_exam": "The baby has a 2-cm lip laceration that extends through the vermillion border."
+  },
+  {
+    "scenario_number": 4,
+    "physical_exam": "The patient is retching continuously into a large basin."
+  },
+  {
+    "scenario_number": 5,
+    "physical_exam": "The patient has a small paronychia on her right 2nd finger."
+  },
+  {
+    "scenario_number": 6,
+    "physical_exam": "The patient is cooperative and answers questions appropriately."
+  },
+  {
+    "scenario_number": 7,
+    "physical_exam": "The patient has a 3-cm laceration to his right thumb, which is wrapped in a clean rag."
+  },
+  {
+    "scenario_number": 8,
+    "physical_exam": "The patient responds to verbal stimuli but is disoriented to time and place."
+  },
+  {
+    "scenario_number": 9,
+    "physical_exam": "The patient has a 6-cm laceration to his neck with currently controlled bleeding and tears in his eyes."
+  },
+  {
+    "scenario_number": 10,
+    "physical_exam": "No obvious facial swelling is noted."
+  },
+  {
+    "scenario_number": 11,
+    "physical_exam": "The patient has an open area on the palm of her left hand that is red, tender, and swollen."
+  },
+  {
+    "scenario_number": 12,
+    "physical_exam": "The patient is sitting in a wheelchair moaning in pain with cool and diaphoretic skin."
+  },
+  {
+    "scenario_number": 13,
+    "physical_exam": "The patient is a 16-year-old male wearing a swimsuit, walking into the ED, with an abrasion on his forehead and nose."
+  },
+  {
+    "scenario_number": 14,
+    "physical_exam": "The patient is a 19-year-old college student, sitting at triage, drinking bottled water."
+  },
+  {
+    "scenario_number": 15,
+    "physical_exam": "The patient is a 2-year-old child, trying to grab the nurse's stethoscope."
+  },
+  {
+    "scenario_number": 16,
+    "physical_exam": "The patient is a 76-year-old male, requesting to see a doctor, unable to cut his own toenails."
+  },
+  {
+    "scenario_number": 17,
+    "physical_exam": "The patient is an 18-year-old, standing and communicating with the nurse."
+  },
+  {
+    "scenario_number": 18,
+    "physical_exam": "The patient is a 4-day-old baby girl, sleeping peacefully in her mother's arms."
+  },
+  {
+    "scenario_number": 19,
+    "physical_exam": "The patient is a pale 34-year-old, 10 days post partum, appearing unsteady and requesting to lie down."
+  },
+  {
+    "scenario_number": 20,
+    "physical_exam": "The patient is a 26-year-old female, moaning, unresponsive to voice, and was vomiting prior to arrival."
+  },
+  {
+    "scenario_number": 21,
+    "physical_exam": "The patient is a 68-year-old female, presenting with her right arm in a sling, with an obvious deformity noted, and good circulation, sensation, and movement in the affected arm."
+  },
+  {
+    "scenario_number": 22,
+    "physical_exam": "The patient is a 20-year-old male, standing and communicating with the nurse, with no visible rash observed in the groin area at this time."
+  },
+  {
+    "scenario_number": 23,
+    "physical_exam": "The patient is a 17-year-old male, immobilized on a backboard, with multiple lacerations on his left arm."
+  },
+  {
+    "scenario_number": 24,
+    "physical_exam": "The patient is a 26-year-old female, hoarse, working hard at breathing, with no other visible signs of distress or injury observed at this time."
+  },
+  {
+    "scenario_number": 25,
+    "physical_exam": "The patient's skin is cool and moist."
+  },
+  {
+    "scenario_number": 26,
+    "physical_exam": "The child's left arm is splinted and she is very sleepy."
+  },
+  {
+    "scenario_number": 27,
+    "physical_exam": "null"
+  },
+  {
+    "scenario_number": 28,
+    "physical_exam": "null"
+  },
+  {
+    "scenario_number": 29,
+    "physical_exam": "The patient has an obvious open fracture of her right lower leg, with a +2 pedal pulse, warm toes, and is able to wiggle them."
+  },
+  {
+    "scenario_number": 30,
+    "physical_exam": "null"
+  }
+]

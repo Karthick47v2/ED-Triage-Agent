@@ -496,7 +496,7 @@ def assess_vital_signs(
     age_group = determine_age_group(age_years, age_months)
     temp_celsius = parse_temperature(temperature)
     
-    hr_assessment = assess_heart_rate(heart_rate, age_group)(heart_rate, age_group)
+    hr_assessment = assess_heart_rate(heart_rate, age_group)
     rr_assessment = assess_respiratory_rate(respiratory_rate, age_group)
     sbp_assessment = assess_blood_pressure_systolic(blood_pressure_systolic, age_group)
     dbp_assessment = assess_blood_pressure_diastolic(blood_pressure_diastolic, age_group)

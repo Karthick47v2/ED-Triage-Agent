@@ -1,0 +1,182 @@
+[
+  {
+    "scenario_number": 1,
+    "description": "EMS arrives with a 76-year-old male found on the bathroom floor. The family called 911 when they heard a loud crash in the bathroom. The patient was found in his underwear and the toilet bowl was filled with maroon-colored stool. Vital signs (VS) on arrival: blood pressure (BP) 70/palp, heart rate (HR) 128, respiratory (RR) 40. His family tells you he has a history of atrial fibrillation and takes a \"little blue pill to thin his blood.\"",
+    "category": 1,
+    "rationale": "requires immediate life- saving intervention. This 76-year-old patient is in hemorrhagic shock from his GI bleed. His blood pressure is 70, his heart rate is 128 and his respiratory rate is 40, all indicating an attempt to compensate for his blood loss. He probably takes warfarin (Coumadin®) for his atrial fibrillation. This patient needs immediate IV access and the administration of fluid, blood, and medications."
+  },
+  {
+    "scenario_number": 2,
+    "description": "\"The pediatrician sent us to the emergency department (ED) because my son may have appendicitis,\" reports the mother of a healthy 7-year-old. The child is sitting quietly next to his mother holding an emesis basin. \"He woke me up this morning and told me his tummy hurt. Usually he gets up and runs downstairs to watch cartoons, but not today. The poor kid vomited all over the doctor's office.\" VS: temperature (T) 99.6° F, HR 94, RR 20, BP 88/62.",
+    "category": 3,
+    "rationale": "two or more resources. The child's pediatrician has already examined him and referred the family to the emergency department for further evaluation. At a minimum he will need labs, an IV with fluid, and other diagnostic tests in order to reach a disposition."
+  },
+  {
+    "scenario_number": 3,
+    "description": "A 63-year-old cachectic male is brought in from the local nursing home because his feeding tube fell out again. The patient is usually unresponsive. He has been in the nursing home since he suffered a massive stroke about 4 years ago.",
+    "category": 4,
+    "rationale": "one resource. This patient will be sent back to the nursing home after the feeding tube is reinserted. There is no acute change in his medical condition that warrants any further evaluation. Yes, he is unresponsive but that is the patient's baseline mental status so he is not an ESI level 1."
+  },
+  {
+    "scenario_number": 4,
+    "description": "You are trying to triage an 18-month-old whose mother brought him in for vomiting. The toddler is very active and trying to get off his mother's lap. To distract him the mother hands him a bottle of juice, which he immediately begins sucking on. The child looks well hydrated and is afebrile.",
+    "category": 5,
+    "rationale": "no resources. A physical exam and providing the mother with reassurance and education is what this 18-month-old will require. His activity level is appropriate and he is taking PO fluids."
+  },
+  {
+    "scenario_number": 5,
+    "description": "\"I think I need a tetanus shot,\" a 29-year-old female tells you. \"I stepped on a rusty nail this morning and I know I haven't had one for years.\" No past medical history (PMH), no known drug allergies (NKDA), no medications.",
+    "category": 5,
+    "rationale": "no resources. A tetanus immunization does not count as a resource. The patient will be seen by a physician or mid-level provider, receive a tetanus immunization, and discharge instructions. This patient will require no resources."
+  },
+  {
+    "scenario_number": 6,
+    "description": "A 72-year-old female with obvious chronic obstructive pulmonary disease (COPD) and increased work of breathing is wheeled into triage. Between breaths she tells you that she \"is having a hard time breathing and has had a fever since yesterday.\" The SpO2 monitor is alarming and displaying a saturation of 84 percent.",
+    "category": 1,
+    "rationale": "requires immediate life- saving intervention. Immediate aggressive airway management is what this patient requires. Her saturation is very low and she appears to be tiring. The triage nurse does not need the other vital signs in order to decide that this patient needs immediate care."
+  },
+  {
+    "scenario_number": 7,
+    "description": "\"Why the hell don't you just leave me alone?,\" yells a 73-year-old disheveled male who was brought to the ED by EMS. He was found sitting on the curb drinking a bottle of vodka with blood oozing from a 4-cm forehead laceration. He is oriented to person, place, and time and has a Glasgow Coma Scale (GCS) of 14.",
+    "category": 2,
+    "rationale": "high-risk situation. The history of events is unclear. How did this 73-year-old gentleman get the laceration on his forehead? Did he fall? Get hit? Because of his age, presentation, and presence of alcohol he is at risk for a number of complications."
+  },
+  {
+    "scenario_number": 8,
+    "description": "EMS arrives in the ED with a 57-year-old female with multiple sclerosis. She is bedridden and her family provides care in the home. The visiting nurse sent her to the ED because her Foley catheter came out this morning. No other complaints. Vital signs are within normal range, currently on antibiotics for a UTI.",
+    "category": 4,
+    "rationale": "one resource. The patient has been referred to the emergency department for a new Foley catheter-one resource. There are no other changes in her condition and she is already on antibiotics for a UTI so no further evaluation is needed."
+  },
+  {
+    "scenario_number": 9,
+    "description": "\"How long am I going to have to wait before I see the doctor?,\" asks a 27-year-old female with a migraine. The patient is well known to you and your department. She rates her pain as 20/10 and tells you that she has been like this for 2 days. She vomited twice this morning. PMH: migraines, no allergies, medications include fiorocet.",
+    "category": 3,
+    "rationale": "two or more resources. At a minimum this patient will require an IV with fluid, IV pain medication, and an antiemetic. Although she rates her pain as 20/10 she should not be assigned to ESI level 2. She has had the pain for 2 days and the triage nurse can't justify giving the last open bed to this patient. The triage nurse will need to address this patient's concerns about wait time."
+  },
+  {
+    "scenario_number": 10,
+    "description": "A young male ambulates into triage and tells you that he has been shot. As he rolls up the left leg of his shorts you notice two wounds. He tells you that he heard three shots. He is alert and responding appropriately to questions. Initial VS: T 98.2° F, HR 78, RR 16, BP 118/80.",
+    "category": 2,
+    "rationale": "high-risk situation. This patient has two obvious wounds but until he is thoroughly examined in the trauma room you can't rule out the possibility that he has another GSW. The wounds on his thigh look non-life- threatening but a bullet could have nicked a blood vessel or other structure; therefore, he meets ESI level-2 criteria. His vital signs are within normal limits so he does not meet ESI level 1 criteria."
+  },
+  {
+    "scenario_number": 11,
+    "description": "A 26-year-old female walks into the triage room and tells you that she needs to go into detox again. She has been clean for 18 months but started using heroin again 2 weeks ago when her boyfriend broke up with her. She had called several detox centers but was having no luck finding a bed. She denies suicidal or homicidal ideation. She is calm and cooperative.",
+    "category": 4,
+    "rationale": "one resource. This patient is seeking help finding a detoxification program that will help her. She is not a danger to her self or others. The social worker or psychiatric counselor should be consulted to assist her. Once a placement has been found she can be discharged from the emergency department and can get herself to the outpatient program. If your social worker or psychiatric counselor requires a urine toxicology or other lab work, the patient will require 2 or more resources and then meet ESI level-3 criteria."
+  },
+  {
+    "scenario_number": 12,
+    "description": "EMS radios in that they are in route with a 17- year-old with a single gun shot wound to the left chest. On scene the patient was alert, oriented and had a BP of 82/palp. Two large bore IV's were immediately inserted. Two minutes prior to arrival in the ED the patient's HR was 130 and BP was 78/palp.",
+    "category": 1,
+    "rationale": "requires immediate life- saving interventions. The trauma team needs to be in the trauma room and ready to aggressively manage this 17-year-old with a single GSW to the left chest. He will require airway management, fluid resuscitation and, depending on the injury, a chest tube or rapid transport to the operating room."
+  },
+  {
+    "scenario_number": 13,
+    "description": "\"My son needs a physical for camp,\" an anxious mother tells you. \"I called the clinic but they can't see him for two weeks and camp starts on Monday.\" Her son, a healthy 9-year- old will be attending a summer day camp.",
+    "category": 5,
+    "rationale": "no resources. Because the mother could not get an appointment with a primary care physician she brought her son to the emergency department for a routine physical exam. He will be examined and discharged."
+  },
+  {
+    "scenario_number": 14,
+    "description": "\"Nurse, I have this pressure in my chest that started about an hour ago. I was shoveling that wet snow and I may have over done it,\" reports an obese 52-year-old male. He tells you his pain is 10 out of 10 and that he is nauseous and short of breath. His skin is cool and clammy. VS: BP 86/50, HR 52 and irregular.",
+    "category": 1,
+    "rationale": "requires immediate life-saving intervention. The history combined with the signs and symptoms indicate that this patient is probably having an MI. The \"pressure\" started after shoveling wet snow and now he is nauseous, short of breath and his skin is cool and clammy. He needs immediate IV access, the administration of medications, and external pacing pads in place."
+  },
+  {
+    "scenario_number": 15,
+    "description": "This patient is the restrained driver of an SUV involved in a high-speed, multicar accident. Her only complaint is right thigh pain. She has a laceration on her left hand and an abrasion on her left knee. VS: BP 110/74, HR 72, RR 16, no medications, no allergies, no PMH.",
+    "category": 2,
+    "rationale": "high-risk situation. Based on mechanism of injury this patient will need rapid evaluation by the trauma team."
+  },
+  {
+    "scenario_number": 16,
+    "description": "\"My doctor told me to come to the ED. I had a gastric bypass 3 weeks ago and have been doing fine but today I started vomiting and having this belly pain.\" The patient, an obese 33-year-old female rates her pain as 6/10. VS: BP 126/70, HR 76, RR 14, T 98° F.",
+    "category": 3,
+    "rationale": "two or more resources. She will need two or more resources-laboratory tests, intravenous fluid, medication for her nausea, and probably a CT of her abdomen. This patient will be in your emergency department an extended period of time being evaluated. If her pain was 10/10 and she was tachycardic the patient would meet the ESI level-2 criteria."
+  },
+  {
+    "scenario_number": 17,
+    "description": "\"I was seen in the ED last night for my fractured wrist. The bone doctor put this cast on and told me to come back if I had any problems. As you can see my hand is really swollen and the cast is cutting into my fingers. The pain is just unbearable.\" Circulation, sensation, and movement are decreased.",
+    "category": 2,
+    "rationale": "high-risk situation. Again, this is a high-risk situation. The recent application of a cast along with swelling of the hand and pain that is unbearable justifies an ESI level-2 acuity level. He may have compartment syndrome."
+  },
+  {
+    "scenario_number": 18,
+    "description": "A 42-year-old male presents to triage with a chief complaint of \"something in his right eye.\" He was cutting tree limbs and thinks some sawdust went into his eye. No PMH, no allergies, no medications. On exam his right eye is reddened and tearing.",
+    "category": 4,
+    "rationale": "one resource. The only resource this patient will require is irrigation of his eyes. A slit lamp exam is not considered a resource but is part of the physical exam."
+  },
+  {
+    "scenario_number": 19,
+    "description": "An 88-year-old female is brought to the ED by EMS. This morning she had an episode of slurred speech and weakness of her left arm that lasted about 45 minutes. She has a history of a previous stroke and she takes an aspirin every day. She is alert and oriented with clear speech and equal hand grasps.",
+    "category": 2,
+    "rationale": "high-risk situation. The patient's history indicates that she may have had a transient ischemic attack this morning. This patient is high risk and it would not be safe for her to sit in the waiting room for an extended period of time."
+  },
+  {
+    "scenario_number": 20,
+    "description": "\"It hurts so much when I urinate,\" reports an otherwise healthy 25-year-old. She denies fever, chills, abdominal pain, or vaginal discharge. VS: T 98.2° F, HR 66, RR 14, BP 114/60.",
+    "category": 4,
+    "rationale": "one resource. This patient will require one resource-lab. A urinalysis and urine culture will be sent and depending on your institution, a urine pregnancy test. One or all of these tests count as one resource."
+  },
+  {
+    "scenario_number": 21,
+    "description": "\"I think my son has swimmer's ear. He spends half the day in the pool with his friends so I am not surprised,\" the mother of a 10-year-old boy tells you. The child has no complaints except painful, itchy ears. VS: T 97º F, HR 88, RR 18, BP 100/68.",
+    "category": 5,
+    "rationale": "no resources. This child needs a physical exam. Even if eardrops are administered in the emergency department, this does not count as a resource. The family will be sent home with instructions and a prescription."
+  },
+  {
+    "scenario_number": 22,
+    "description": "The medical helicopter is en route to your facility with a 16-year-old male who was downhill skiing and hit a tree. Bystanders report that he lost control and hit his head. He was intubated at the scene and remains unresponsive.",
+    "category": 1,
+    "rationale": "requires immediate life-saving intervention. Prehospital intubation is one of the criteria for ESI level 1. This patient has sustained a major head injury and will require an immediate trauma team evaluation."
+  },
+  {
+    "scenario_number": 23,
+    "description": "\"I have this aching pain in my left leg,\" reports an obese 52-year-old female. \"The whole ride home it just ached and ached.\" The patient tells you that she has been sitting in a car for the last two days. \"We drove my daughter to college and I thought it was the heat getting to me.\" She denies any other complaints. VS: BP 148/90, HR 86, RR 16, T 98° F.",
+    "category": 3,
+    "rationale": "two or more resources. At a minimum she will require labs and noninvasive vascular studies of her lower leg. She should be placed in a wheelchair with her leg elevated and instructed not to walk until the doctor has seen her."
+  },
+  {
+    "scenario_number": 24,
+    "description": "My baby has a temperature of 101 rectally. I called the pediatrician and he told me to come here,\" reports the mother of a 3-week-old. The baby is alert and sucking on a pacifier. Delivered vaginally, no complications. \"He's nursing fine. I just wonder if he has the bug my other kids had.",
+    "category": 2,
+    "rationale": "high-risk situation. Any neonate (day 1-28) with a fever over 100.4 rectally should be considered high risk regardless of how they look at triage. At this age they have limited ability to localize an infection."
+  },
+  {
+    "scenario_number": 25,
+    "description": "EMS arrives with a 45-year-old asthmatic who has had a cold for a week. She started wheezing a few days ago and then developed a cough and a fever of 103. VS: T 101.6° F, HR 92, RR 24, BP 148/86. SpO2 97%.",
+    "category": 3,
+    "rationale": "two or more resources. This history sounds more like pneumonia. Because the patient is not in acute respiratory distress he or she doesn't meet ESI level-2 criteria. This patient will require labs, a chest x-ray, and perhaps IV antibiotics."
+  },
+  {
+    "scenario_number": 26,
+    "description": "\"My right breast is so sore, my nipples are cracked, and now I have a fever. Do you think I will have to stop nursing my baby?,\" asks a tearful 34-year-old female. She is 3 months post partum and has recently returned to work part time. VS: T 102.8º F, HR 90, RR 18, BP 108/60, pain 5/10. No PMH, taking multivitamins, allergic to penicillin.",
+    "category": 3,
+    "rationale": "two or more resources. At a minimum she will require labs and IV antibiotics."
+  },
+  {
+    "scenario_number": 27,
+    "description": "A six-year-old male tells you that he was running across the playground and fell. He presents with three-centimeter laceration over his right knee. Healthy, no medications and no allergies, immunizations are up to date.",
+    "category": 4,
+    "rationale": "one resource. The laceration will need to be sutured-one resource."
+  },
+  {
+    "scenario_number": 28,
+    "description": "A 41-year-old male involved in a bicycle accident walks into the emergency department with his right arm in a sling. He tells you that he fell off his bike and landed on his right arm. He is complaining of pain in the wrist area and has a two-centimeter laceration on his chin. \"My helmet saved me.\"",
+    "category": 3,
+    "rationale": "two or more resources. At a minimum this patient will require an x-ray of his right arm and suturing of his chin laceration."
+  },
+  {
+    "scenario_number": 29,
+    "description": "\"I ran out of my blood pressure medicine and my doctor is on vacation. Can someone here write me a prescription?\" requests a 56-year-old male with a history of hypertension. VS: BP 128/84, HR 76, RR 16, T 97º F.",
+    "category": 5,
+    "rationale": "no resources. The patient needs a prescription refill and has no other medical complaints. His blood pressure is controlled with his current medication. If at triage his blood pressure was 188/124, and he complained of a headache then he would meet the criteria for a high-risk situation and be assigned to ESI level 2. If this patient's BP was elevated and the patient had no complaints, he or she would still remain an ESI level 5. The blood pressure would be repeated and would most likely not be treated in the ED or treated with PO medications."
+  },
+  {
+    "scenario_number": 30,
+    "description": "EMS presents to the ED with an 18-year-old female with a suspected medication overdose. Her college roommates found her lethargic and \"not acting right\" so they called 911. The patient has a history of depression. On exam you notice multiple superficial lacerations to both wrists. Her respiratory rate is 10 and her SpO2 on room air is 86 percent.",
+    "category": 1,
+    "rationale": "requires immediate life-saving intervention. The patient's respiratory rate, oxygen saturation, and inability to protect her own airway indicate the need for immediate endotracheal intubation."
+  }
+]
