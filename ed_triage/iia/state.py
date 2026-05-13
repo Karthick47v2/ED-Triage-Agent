@@ -6,6 +6,7 @@ from ed_triage.iia.schema import IntakeSummary
 from ed_triage.cra.schema import CRAResult
 from ed_triage.paa.schema import PriorityAssessment
 
+
 class AgentState(TypedDict):
     messages: Annotated[List[BaseMessage], add_messages]
     intake_data: Optional[IntakeSummary]

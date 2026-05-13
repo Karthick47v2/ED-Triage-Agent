@@ -1,0 +1,290 @@
+[
+  {
+    "scenario_number": 1,
+    "physical_exam": "The infant is wrapped in a blanket, eyes are open, appears listless, skin is hot and moist, the fontanel is sunken, and respirations are regular and non‑labored."
+  },
+  {
+    "scenario_number": 2,
+    "physical_exam": "The child is somnolent, appears pale, and respirations are non‑labored."
+  },
+  {
+    "scenario_number": 3,
+    "physical_exam": "The patient is awake, alert, and moves all extremities while immobilized on a back board with a cervical collar in place."
+  },
+  {
+    "scenario_number": 4,
+    "physical_exam": "The patient has an obvious deformity of the right lower leg; pedal pulses are +2 bilaterally, toes are warm and dry, and he is able to wiggle his toes."
+  },
+  {
+    "scenario_number": 5,
+    "physical_exam": "The right thumb has a 2 cm superficial laceration."
+  },
+  {
+    "scenario_number": 6,
+    "physical_exam": "The patient is unresponsive on arrival."
+  },
+  {
+    "scenario_number": 7,
+    "physical_exam": "The patient is cooperative and answers questions calmly."
+  },
+  {
+    "scenario_number": 8,
+    "physical_exam": null
+  },
+  {
+    "scenario_number": 9,
+    "physical_exam": "The child is laughing and playing with her younger sister."
+  },
+  {
+    "scenario_number": 10,
+    "physical_exam": "The patient is cooperative and pleasant."
+  },
+  {
+    "scenario_number": 11,
+    "physical_exam": "The left arm is obviously deformed and is immobilized with a splint; a good distal pulse is palpable."
+  },
+  {
+    "scenario_number": 12,
+    "physical_exam": "A large hematoma is present around the left neck wound."
+  },
+  {
+    "scenario_number": 13,
+    "physical_exam": "He is alert, oriented, and ambulatory, running around the waiting room and asking his mother for a snack. He appears cooperative, with normal skin color and temperature, no visible respiratory distress, cough, nasal discharge, or injuries."
+  },
+  {
+    "scenario_number": 14,
+    "physical_exam": "He is alert, oriented, and answers questions appropriately. He appears cooperative, with normal skin color and temperature, and no visible signs of distress, dehydration, or injury."
+  },
+  {
+    "scenario_number": 15,
+    "physical_exam": "He is awake, alert, and quiet while in his mother’s arms. His lips are dry and cracked, indicating possible dehydration. Skin appears normal elsewhere, and no visible injuries or respiratory distress are noted."
+  },
+  {
+    "scenario_number": 16,
+    "physical_exam": "He is alert and looking around. A large amount of dried mucus is visible around both nares. No other abnormal findings are observed; skin color and temperature appear normal."
+  },
+  {
+    "scenario_number": 17,
+    "physical_exam": "She is sleepy but responds to verbal stimuli. She appears mildly drowsy, with normal skin color and temperature, and no visible signs of vomiting, rash, or injury."
+  },
+  {
+    "scenario_number": 18,
+    "physical_exam": null
+  },
+  {
+    "scenario_number": 19,
+    "physical_exam": "He is wearing a ski helmet, is alert, oriented, and aware. His left femur appears broken with obvious deformity, and the left thigh is swollen. No active external bleeding is seen, and his skin color and temperature appear normal."
+  },
+  {
+    "scenario_number": 20,
+    "physical_exam": "She is listless and her skin is mottled, suggesting poor perfusion. No other visible abnormalities are noted."
+  },
+  {
+    "scenario_number": 21,
+    "physical_exam": "He has a rash on his face and chest composed of numerous pinpoint purplish spots consistent with petechiae. No swelling, bruising, or other lesions are observed, and skin temperature appears normal."
+  },
+  {
+    "scenario_number": 22,
+    "physical_exam": "She is crying and refuses to move her left arm, holding it close to her body. No obvious swelling, bruising, or deformity of the left arm is noted, and her skin appears normal."
+  },
+  {
+    "scenario_number": 23,
+    "physical_exam": "He has a 2‑centimeter laceration on his arm with no active bleeding noted. The surrounding skin is intact, and no other injuries are apparent."
+  },
+  {
+    "scenario_number": 24,
+    "physical_exam": "She is tearful and appears distressed, but no visible injuries, rash, or abnormal findings are noted on examination."
+  },
+  {
+    "scenario_number": 25,
+    "physical_exam": "The nurse notes swelling of the patient’s hand with tenderness to palpation."
+  },
+  {
+    "scenario_number": 26,
+    "physical_exam": null
+  },
+  {
+    "scenario_number": 27,
+    "physical_exam": null
+  },
+  {
+    "scenario_number": 28,
+    "physical_exam": "The nurse observes that the patient is intubated with an endotracheal tube in place."
+  },
+  {
+    "scenario_number": 29,
+    "physical_exam": null
+  },
+  {
+    "scenario_number": 30,
+    "physical_exam": null
+  },
+  {
+    "scenario_number": 31,
+    "physical_exam": "The nurse observes redness of the right eye accompanied by tearing."
+  },
+  {
+    "scenario_number": 32,
+    "physical_exam": "The nurse notes that the wrist shows no obvious deformity."
+  },
+  {
+    "scenario_number": 33,
+    "physical_exam": "The nurse notes that the child is crying, appears distressed, and has a splinted left arm."
+  },
+  {
+    "scenario_number": 34,
+    "physical_exam": null
+  },
+  {
+    "scenario_number": 35,
+    "physical_exam": null
+  },
+  {
+    "scenario_number": 36,
+    "physical_exam": "The nurse notes that there is no obvious swelling of the right lower jaw."
+  },
+  {
+    "scenario_number": 37,
+    "physical_exam": "Multiple superficial lacerations are present on both wrists without active bleeding."
+  },
+  {
+    "scenario_number": 38,
+    "physical_exam": "A 2‑cm laceration is visible on the left first finger; bleeding is controlled and no active hemorrhage is observed."
+  },
+  {
+    "scenario_number": 39,
+    "physical_exam": "A rash is noted in the groin region."
+  },
+  {
+    "scenario_number": 40,
+    "physical_exam": "Patient remains immobilized on a backboard; multiple lacerations are observed on the left arm."
+  },
+  {
+    "scenario_number": 41,
+    "physical_exam": "The patient is unresponsive and has a single self‑inflicted gunshot wound to the head, which is visible."
+  },
+  {
+    "scenario_number": 42,
+    "physical_exam": "The patient is intubated and remains unresponsive."
+  },
+  {
+    "scenario_number": 43,
+    "physical_exam": "The left hand is wrapped in a bloody cloth with visible blood on the dressing."
+  },
+  {
+    "scenario_number": 44,
+    "physical_exam": null
+  },
+  {
+    "scenario_number": 45,
+    "physical_exam": "The patient’s skin is cool and diaphoretic."
+  },
+  {
+    "scenario_number": 46,
+    "physical_exam": "The infant is sleeping peacefully in the mother’s arms with no visible external bleeding or distress."
+  },
+  {
+    "scenario_number": 47,
+    "physical_exam": null
+  },
+  {
+    "scenario_number": 48,
+    "physical_exam": null
+  },
+  {
+    "scenario_number": 49,
+    "physical_exam": "The infant appears healthy and well‑appearing."
+  },
+  {
+    "scenario_number": 50,
+    "physical_exam": "The hand is visibly swollen, and the cast is cutting into the fingers; distal circulation, sensation, and movement are decreased."
+  },
+  {
+    "scenario_number": 51,
+    "physical_exam": null
+  },
+  {
+    "scenario_number": 52,
+    "physical_exam": "A laceration is present on the left hand and an abrasion is noted on the left knee."
+  },
+  {
+    "scenario_number": 53,
+    "physical_exam": "The child is pulling on the right ear."
+  },
+  {
+    "scenario_number": 54,
+    "physical_exam": null
+  },
+  {
+    "scenario_number": 55,
+    "physical_exam": null
+  },
+  {
+    "scenario_number": 56,
+    "physical_exam": null
+  },
+  {
+    "scenario_number": 57,
+    "physical_exam": "There is an abrasion on the forehead and an abrasion on the nose."
+  },
+  {
+    "scenario_number": 58,
+    "physical_exam": null
+  },
+  {
+    "scenario_number": 59,
+    "physical_exam": "The child is unresponsive but breathing spontaneously."
+  },
+  {
+    "scenario_number": 60,
+    "physical_exam": null
+  },
+  {
+    "scenario_number": 61,
+    "physical_exam": "You note a disheveled 23-year-old male who is handcuffed and appears uncooperative, refusing to answer questions or permit assessment; no visible injuries, bleeding, or abnormal skin findings are observed."
+  },
+  {
+    "scenario_number": 62,
+    "physical_exam": "You observe a 7-year-old male who is actively vomiting; he appears distressed but otherwise has no visible injuries, bleeding, or abnormal skin findings."
+  },
+  {
+    "scenario_number": 63,
+    "physical_exam": null
+  },
+  {
+    "scenario_number": 64,
+    "physical_exam": "You note erythema, swelling, and purulent drainage from the umbilical piercing site."
+  },
+  {
+    "scenario_number": 65,
+    "physical_exam": "You observe a 3-centimeter laceration over the right knee."
+  },
+  {
+    "scenario_number": 66,
+    "physical_exam": "You note a small paronychia on the right second finger with visible swelling and purulent discharge."
+  },
+  {
+    "scenario_number": 67,
+    "physical_exam": "You observe an obvious left shoulder dislocation with deformity; the extremity appears neurovascularly intact."
+  },
+  {
+    "scenario_number": 68,
+    "physical_exam": "You note a cooperative 17-year-old male who is handcuffed; no visible injuries, bleeding, or abnormal skin findings are present."
+  },
+  {
+    "scenario_number": 69,
+    "physical_exam": "You observe an active 18-month-old who is drinking juice, appears well hydrated, and shows no signs of distress or abnormal findings."
+  },
+  {
+    "scenario_number": 70,
+    "physical_exam": "You note a 2-centimeter lip laceration extending through the vermilion border with associated blood."
+  },
+  {
+    "scenario_number": 71,
+    "physical_exam": "You observe a conscious 12-year-old male who is alert and oriented, with no visible injuries or external signs of trauma."
+  },
+  {
+    "scenario_number": 72,
+    "physical_exam": null
+  }
+]

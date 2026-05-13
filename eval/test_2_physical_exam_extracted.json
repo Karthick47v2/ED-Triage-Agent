@@ -1,0 +1,290 @@
+[
+  {
+    "scenario_number": 1,
+    "physical_exam": "The nurse notes the child is somnolent, appears pale, and respirations are non‑labored."
+  },
+  {
+    "scenario_number": 2,
+    "physical_exam": "The nurse observes the adolescent is awake, alert, and moves all extremities; she is immobilized on a backboard with a cervical collar in place."
+  },
+  {
+    "scenario_number": 3,
+    "physical_exam": "The nurse sees an obvious deformity of the right lower leg; pedal pulses are strong bilaterally (+2), the toes are warm and dry, and he is able to wiggle his toes. No head or neck injuries are evident."
+  },
+  {
+    "scenario_number": 4,
+    "physical_exam": "The nurse notes a superficial 2 cm laceration on the right thumb."
+  },
+  {
+    "scenario_number": 5,
+    "physical_exam": "The nurse finds the male patient unresponsive."
+  },
+  {
+    "scenario_number": 6,
+    "physical_exam": "The nurse observes the teenager is cooperative and answers questions calmly."
+  },
+  {
+    "scenario_number": 7,
+    "physical_exam": null
+  },
+  {
+    "scenario_number": 8,
+    "physical_exam": "The nurse sees the girl laughing and playing with her younger sister."
+  },
+  {
+    "scenario_number": 9,
+    "physical_exam": "The nurse notes the boy is cooperative and pleasant."
+  },
+  {
+    "scenario_number": 10,
+    "physical_exam": "The nurse notes the arm is obviously deformed, a splint is applied, and a good distal pulse is palpable."
+  },
+  {
+    "scenario_number": 11,
+    "physical_exam": "The nurse observes a large hematoma surrounding the left neck wound; the patient is moaning audibly."
+  },
+  {
+    "scenario_number": 12,
+    "physical_exam": "The nurse sees the child running around the waiting room, actively moving and requesting a snack."
+  },
+  {
+    "scenario_number": 13,
+    "physical_exam": "The child is alert and oriented, responding appropriately to questions."
+  },
+  {
+    "scenario_number": 14,
+    "physical_exam": "The toddler is awake, alert, and quiet while in the mother’s arms; his lips are dry and cracked."
+  },
+  {
+    "scenario_number": 15,
+    "physical_exam": "The infant is alert, looking around, with a large amount of dried mucus visible around both nares."
+  },
+  {
+    "scenario_number": 16,
+    "physical_exam": "The child appears sleepy but responds to verbal stimuli."
+  },
+  {
+    "scenario_number": 17,
+    "physical_exam": null
+  },
+  {
+    "scenario_number": 18,
+    "physical_exam": "The patient is alert, oriented, wearing a ski helmet, and his left femur appears fractured."
+  },
+  {
+    "scenario_number": 19,
+    "physical_exam": "The newborn appears listless and her skin is mottled."
+  },
+  {
+    "scenario_number": 20,
+    "physical_exam": "The child has a rash on the face and chest with numerous pinpoint purplish petechiae."
+  },
+  {
+    "scenario_number": 21,
+    "physical_exam": "The child is crying and does not move the left arm."
+  },
+  {
+    "scenario_number": 22,
+    "physical_exam": "The patient has a 2‑centimeter laceration on the arm."
+  },
+  {
+    "scenario_number": 23,
+    "physical_exam": "The girl appears tearful."
+  },
+  {
+    "scenario_number": 24,
+    "physical_exam": "The hand is swollen and tender to touch."
+  },
+  {
+    "scenario_number": 25,
+    "physical_exam": "The nurse observes the patient crying, appearing distressed and alert."
+  },
+  {
+    "scenario_number": 26,
+    "physical_exam": null
+  },
+  {
+    "scenario_number": 27,
+    "physical_exam": "The nurse notes the patient is intubated with an endotracheal tube in place, receiving mechanical ventilation, and is unresponsive."
+  },
+  {
+    "scenario_number": 28,
+    "physical_exam": null
+  },
+  {
+    "scenario_number": 29,
+    "physical_exam": null
+  },
+  {
+    "scenario_number": 30,
+    "physical_exam": "The nurse observes the patient’s right eye is red with tearing; the patient is wearing sunglasses."
+  },
+  {
+    "scenario_number": 31,
+    "physical_exam": "The nurse observes the patient’s wrist without any obvious deformity or swelling."
+  },
+  {
+    "scenario_number": 32,
+    "physical_exam": "The nurse observes the child crying, repeatedly calling for her mother, and notes a splinted left arm."
+  },
+  {
+    "scenario_number": 33,
+    "physical_exam": "The nurse observes the infant is alert, active, and behaving appropriately."
+  },
+  {
+    "scenario_number": 34,
+    "physical_exam": "The nurse observes the patient moaning and moving all extremities."
+  },
+  {
+    "scenario_number": 35,
+    "physical_exam": "The nurse observes no obvious swelling of the right lower jaw."
+  },
+  {
+    "scenario_number": 36,
+    "physical_exam": "The nurse observes multiple superficial lacerations on both wrists."
+  },
+  {
+    "scenario_number": 37,
+    "physical_exam": "The nurse observes a 2‑centimeter laceration on the patient’s left first finger with bleeding that is currently controlled."
+  },
+  {
+    "scenario_number": 38,
+    "physical_exam": null
+  },
+  {
+    "scenario_number": 39,
+    "physical_exam": "The patient is immobilized on a backboard and the nurse notes multiple lacerations on the left arm."
+  },
+  {
+    "scenario_number": 40,
+    "physical_exam": "The patient is unresponsive and the nurse sees a single gunshot wound to the head."
+  },
+  {
+    "scenario_number": 41,
+    "physical_exam": "The patient remains unresponsive and is noted to be intubated."
+  },
+  {
+    "scenario_number": 42,
+    "physical_exam": "The nurse notes the patient’s left hand is wrapped in a bloody cloth, with visible blood on the dressing."
+  },
+  {
+    "scenario_number": 43,
+    "physical_exam": null
+  },
+  {
+    "scenario_number": 44,
+    "physical_exam": "The patient’s skin is observed to be cool and diaphoretic."
+  },
+  {
+    "scenario_number": 45,
+    "physical_exam": "The infant is observed sleeping peacefully in the mother’s arms."
+  },
+  {
+    "scenario_number": 46,
+    "physical_exam": null
+  },
+  {
+    "scenario_number": 47,
+    "physical_exam": null
+  },
+  {
+    "scenario_number": 48,
+    "physical_exam": null
+  },
+  {
+    "scenario_number": 49,
+    "physical_exam": "The nurse notes a markedly swollen hand with the cast encroaching on the fingers; circulation, sensation, and movement in the hand appear decreased."
+  },
+  {
+    "scenario_number": 50,
+    "physical_exam": null
+  },
+  {
+    "scenario_number": 51,
+    "physical_exam": "The nurse observes a laceration on the patient’s left hand and an abrasion on the left knee."
+  },
+  {
+    "scenario_number": 52,
+    "physical_exam": null
+  },
+  {
+    "scenario_number": 53,
+    "physical_exam": null
+  },
+  {
+    "scenario_number": 54,
+    "physical_exam": null
+  },
+  {
+    "scenario_number": 55,
+    "physical_exam": null
+  },
+  {
+    "scenario_number": 56,
+    "physical_exam": "The nurse notes an abrasion on the patient’s forehead and a superficial abrasion on the nose."
+  },
+  {
+    "scenario_number": 57,
+    "physical_exam": null
+  },
+  {
+    "scenario_number": 58,
+    "physical_exam": "The nurse observes that the child is breathing spontaneously but remains unresponsive."
+  },
+  {
+    "scenario_number": 59,
+    "physical_exam": null
+  },
+  {
+    "scenario_number": 60,
+    "physical_exam": null
+  },
+  {
+    "scenario_number": 61,
+    "physical_exam": "The child is ambulatory and is observed vomiting at triage; no visible injuries or external bleeding are noted."
+  },
+  {
+    "scenario_number": 62,
+    "physical_exam": null
+  },
+  {
+    "scenario_number": 63,
+    "physical_exam": "The periumbilical area is visibly red, swollen, and pus is oozing from the site."
+  },
+  {
+    "scenario_number": 64,
+    "physical_exam": "A 3‑centimeter laceration is present over the right knee."
+  },
+  {
+    "scenario_number": 65,
+    "physical_exam": "A small paronychia is noted on the right second finger."
+  },
+  {
+    "scenario_number": 66,
+    "physical_exam": "An obvious left shoulder dislocation is observed; the neurovascular status of the left extremity appears intact."
+  },
+  {
+    "scenario_number": 67,
+    "physical_exam": "He is cooperative and answers questions appropriately; no visible injuries or abnormal findings are noted."
+  },
+  {
+    "scenario_number": 68,
+    "physical_exam": "The toddler is active, attempts to climb off the mother’s lap, is drinking juice, and appears well hydrated."
+  },
+  {
+    "scenario_number": 69,
+    "physical_exam": "A 2‑centimeter lip laceration extending through the vermilion border is observed."
+  },
+  {
+    "scenario_number": 70,
+    "physical_exam": "The infant’s eyes are open, the infant appears listless, the skin is hot and moist, and the fontanel is sunken; respirations are regular and not labored."
+  },
+  {
+    "scenario_number": 71,
+    "physical_exam": "The patient appears pale and is sweating profusely."
+  },
+  {
+    "scenario_number": 72,
+    "physical_exam": "She is alert and appears in moderate discomfort; no external signs of injury are evident."
+  }
+]

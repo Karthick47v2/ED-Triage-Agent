@@ -1,5 +1,1 @@
-"""
-ED-Triage-Agent: Emergency Department Triage System
-"""
-
-__all__ = []
+"""ED-Triage-Agent: human-AI collaborative emergency triage."""

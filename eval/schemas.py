@@ -6,7 +6,7 @@ from pydantic import BaseModel, Field
 from ed_triage.iia.schema import IntakeSummary
 from ed_triage.cra.schema import CRAResult
 from ed_triage.tca.schema import TCAResult
-from ed_triage.common.schemas import VitalSigns, PhysicalExam
+from ed_triage.common.schemas import PhysicalExam, VitalSigns
 
 
 class EvaluationScenario(BaseModel):
@@ -15,6 +15,14 @@ class EvaluationScenario(BaseModel):
     description: str
     category: int = Field(..., description="Ground truth ESI level (1-5)")
     rationale: str
+    age_years: Optional[float] = Field(
+        None, description="Structured age in years for Phase 2 vitals (optional).")
+    age_months: Optional[float] = Field(
+        None, description="Structured age in months for infants (optional)."
+    )
+    age_days: Optional[int] = Field(
+        None, description="Structured age in days for neonates (optional)."
+    )
 
 
 class EvaluationResult(BaseModel):
@@ -22,43 +30,42 @@ class EvaluationResult(BaseModel):
     scenario_number: int
     ground_truth_esi: int
     ground_truth_priority: Literal["HIGH", "LOW"]
-    
+
     # Phase 1: PAA Predictions
     predicted_esi: Optional[int] = None
     predicted_priority: Optional[Literal["HIGH", "LOW"]] = None
     confidence: Optional[float] = None
-    
+
     # IIA Outputs
     emergency_detected: bool = False
     chief_complaint: Optional[str] = None
     intake_data: Optional[IntakeSummary] = None
-    
+
     # CRA Outputs (Phase 1)
     cra_result: Optional[CRAResult] = None
-    
+
     # Phase 2: TCA Predictions
     phase2_predicted_esi: Optional[int] = None
     phase2_confidence: Optional[float] = None
     phase2_rationale: Optional[str] = None
     tca_result: Optional[TCAResult] = None
     cra_phase2_result: Optional[CRAResult] = None
-    
+
     # Phase 2: Input data
     vital_signs: Optional[VitalSigns] = None
     physical_exam: Optional[PhysicalExam] = None
-    
+
     # Timing
     phase1_latency_ms: float = 0.0
     phase2_latency_ms: float = 0.0
     interview_turns: int = 0
-    
+
     # Error tracking
     success: bool = True
     error_message: Optional[str] = None
-    
+
     # Conversation transcript (for debugging)
     transcript: Optional[List[dict]] = None
-
 
 
 class EvaluationSummary(BaseModel):
@@ -66,24 +73,27 @@ class EvaluationSummary(BaseModel):
     total_scenarios: int
     successful_runs: int
     failed_runs: int
-    
+
     # ESI Accuracy
     esi_exact_accuracy: float = Field(..., description="% exact match")
-    esi_within_one_accuracy: float = Field(..., description="% within ±1 level")
-    
+    esi_within_one_accuracy: float = Field(...,
+                                           description="% within ±1 level")
+
     # Priority Classification
     priority_accuracy: float
     high_priority_sensitivity: float = Field(..., description="TP / (TP + FN)")
     high_priority_specificity: float = Field(..., description="TN / (TN + FP)")
-    
+
     # Triage Safety
-    undertriage_rate: float = Field(..., description="% predicted ≥2 levels below")
-    overtriage_rate: float = Field(..., description="% predicted ≥2 levels above")
-    
+    undertriage_rate: float = Field(...,
+                                    description="% predicted ≥2 levels below")
+    overtriage_rate: float = Field(...,
+                                   description="% predicted ≥2 levels above")
+
     # Latency
     latency_mean_ms: float
     latency_median_ms: float
     latency_p95_ms: float
-    
+
     # Per-ESI breakdown
     per_esi_accuracy: Optional[dict] = None

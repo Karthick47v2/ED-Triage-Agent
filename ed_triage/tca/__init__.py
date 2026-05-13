@@ -1,11 +1,6 @@
-"""
-Triage Classification Agent (TCA)
-"""
-from ed_triage.tca.agent import create_tca_chain
-from ed_triage.tca.schema import TriageClassificationInput, TriageClassificationOutput
+"""Triage Classification Agent (TCA)."""
 
-__all__ = [
-    "create_tca_chain",
-    "TriageClassificationInput",
-    "TriageClassificationOutput"
-]
+from ed_triage.tca.agent import run_tca
+from ed_triage.tca.schema import TCAResult
+
+__all__ = ["run_tca", "TCAResult"]

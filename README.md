@@ -1,99 +1,77 @@
 # ED-Triage-Agent
 
-Official implementation for **ED-Triage-Agent: A Framework for Human-AI Collaborative Emergency Triage**.
+Implementation of **ED-Triage-Agent: A Framework for Human-AI Collaborative Emergency Triage**.
 
-This repository contains the code for the two-phase ED triage pipeline: **Phase 1** (symptom-based: IIA -> CRA -> PAA) and **Phase 2** (post-vital: CRA Phase 2 -> TCA) with deterministic vital-sign assessment and ESI-aligned classification.
+## Architecture
 
----
+The system is a two-phase pipeline of cooperating LLM agents:
 
-## Installation
+- **Phase 1 — Pre-vitals queue priority.** `IIA -> CRA -> PAA`
+  - IIA conducts an OLDCARTS intake interview and extracts a structured `IntakeSummary`.
+  - CRA reasons over the intake against ESI-handbook passages retrieved via RAG.
+  - PAA emits a tentative ESI level (1–5) and a HIGH/LOW queue priority.
+- **Phase 2 — Final ESI after vitals + exam.** `CRA(phase2) -> TCA`
+  - CRA re-runs with vital signs and physical exam findings.
+  - TCA produces the final ESI recommendation using a deterministic vital-signs
+    assessment plus age-aware ESI handbook thresholds (Tables 6-1, 6-2, Figure 6-1).
+
+## Setup
 
 ```bash
 pip install -r requirements.txt
+cp .env.example .env
 ```
 
-Copy `.env.example` to `.env` and set your Azure OpenAI credentials.
+Fill `.env` with Azure OpenAI credentials. By default the system uses GPT-4.1 for CRA/PAA/TCA and GPT-4.1-mini for the IIA and the simulated patient agent.
 
-**RAG (Phase 1):** Ingest the ESI Handbook into ChromaDB once:
+Build the CRA retrieval index once:
 
 ```bash
 python -m ed_triage.cra.rag_setup --pdf ESI_Handbook.pdf --reset
 ```
 
----
+## Interactive runs
 
-## Reproducing Results
-
-All commands are run from the **repository root**. Scenario data and extracted vitals/physical exam files are in `eval/`.
-
-### Phase 1 (IIA -> CRA -> PAA)
-
-Run all scenarios and save results + summary:
-
-**Practice Cases (30 scenarios):**
+Phase 1 triage loop:
 
 ```bash
-python eval/run_evaluation.py --scenarios-file eval/practice_cases.json --output results/phase1_practice_case_results.json --all
+python -m ed_triage.main
 ```
 
-**Competency Cases (30 scenarios):**
+## Reproducing the evaluation
+
+### Phase 1 (IIA -> CRA -> PAA, with simulated patient)
 
 ```bash
-python eval/run_evaluation.py --scenarios-file eval/competency_cases.json --output results/phase1_competency_case_results.json --all
+python -m eval.run_evaluation \
+  --scenarios-file eval/practice_cases.json \
+  --output results/phase1_practice_case_results.json \
+  --all --patient-profile 1
 ```
 
-Summary and metrics are written to `results/phase1_*_results_summary.json`. Optional flags: `--verbose`, `--limit N`, `--scenario N` (single scenario).
-
-### Phase 2 (CRA Phase 2 -> TCA)
-
-Requires Phase 1 results and the corresponding vital signs/physical exam files.
-
-**Practice Cases:**
+### Phase 2 (CRA Phase 2 -> TCA, with pre-extracted vitals + exam)
 
 ```bash
-python eval/run_phase2_evaluation.py \
+python -m eval.run_phase2_evaluation \
   --phase1-results results/phase1_practice_case_results.json \
   --vital-signs eval/practice_cases_vital_signs_extracted.json \
   --physical-exam eval/practice_cases_physical_exam_extracted.json \
   --output results/phase2_practice_case_results.json
 ```
 
-**Competency Cases:**
+### Metrics and figures
 
 ```bash
-python eval/run_phase2_evaluation.py \
-  --phase1-results results/phase1_competency_case_results.json \
-  --vital-signs eval/competency_cases_vital_signs_extracted.json \
-  --physical-exam eval/competency_cases_physical_exam_extracted.json \
-  --output results/phase2_competency_case_results.json
+# All Phase 1 metrics
+python -m eval.metrics results/phase1_practice_case_results.json --phase 1
+
+# All Phase 2 metrics, plus a confusion-matrix heatmap and JSON dump
+python -m eval.metrics results/phase2_practice_case_results.json --phase 2 \
+  --heatmap figures/cm_phase2.png \
+  --json-out results/phase2_metrics.json
+
+# Reliability diagram (calibration)
+python -m eval.plot_reliability_diagram \
+  --input results/phase1_practice_case_results.json \
+  --output figures/reliability_phase1
 ```
-
-Phase 2 prints ESI exact-match and within-±1 accuracy to the console. Use `-v` for verbose output or `--limit N` to run on a subset of scenarios.
-
----
-
-## Interactive Demo
-
-Full Phase 1 pipeline (IIA chat -> CRA -> PAA):
-
-```bash
-python -m ed_triage.main
-```
-
-IIA-only (intake interview + extraction):
-
-```bash
-python -m ed_triage.iia.main
-```
-<!-- 
-
-## Citation
-
-If you use this code or the paper in your work, please cite:
-
-```bibtex
-@article{edtriage2025,
-  title={ED-Triage-Agent: A Framework for Human-AI Collaborative Emergency Triage},
-  author={...},
-  year={2025}
-} -->

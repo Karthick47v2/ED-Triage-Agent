@@ -1,13 +1,20 @@
-"""
-Initial Information Agent (IIA)
-"""
-from ed_triage.iia.agent import create_iia_agent
-from ed_triage.iia.schema import InitialInformationInput, InitialInformationOutput
-from ed_triage.iia.state import IIAState
+"""Intake Interview Agent (IIA)."""
+
+from ed_triage.iia.agent import (
+    build_graph,
+    check_conversation_end,
+    extraction_node,
+    interview_node,
+)
+from ed_triage.iia.schema import IntakeSummary, Symptom
+from ed_triage.iia.state import AgentState
 
 __all__ = [
-    "create_iia_agent",
-    "InitialInformationInput",
-    "InitialInformationOutput",
-    "IIAState"
+    "AgentState",
+    "IntakeSummary",
+    "Symptom",
+    "build_graph",
+    "check_conversation_end",
+    "extraction_node",
+    "interview_node",
 ]
