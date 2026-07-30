@@ -21,3 +21,5 @@ chroma_db/
 # Evaluation artifacts
 results*/
 figures*/
+
+*.docx

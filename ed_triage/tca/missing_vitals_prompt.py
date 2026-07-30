@@ -1,35 +1,41 @@
 """Append explicit missing-vital fields to TCA prompt (Problem 4)."""
-from typing import List, Tuple
+from __future__ import annotations
 
 from ed_triage.common.schemas import VitalSigns
 
-# Keep in sync with VitalSigns schema field names.
-VITAL_SIGN_TRIAGE_FIELDS: Tuple[str, ...] = (
+# Keep in sync with VitalSigns schema field names (non-temperature).
+VITAL_SIGN_TRIAGE_FIELDS: tuple[str, ...] = (
     "heart_rate_bpm",
     "respiratory_rate_bpm",
-    "blood_pressure_systolic_mmHg",
-    "blood_pressure_diastolic_mmHg",
-    "temperature",
+    "blood_pressure_systolic_mmhg",
+    "blood_pressure_diastolic_mmhg",
     "oxygen_saturation_percent",
 )
 
 VITAL_FIELD_LABELS = {
     "heart_rate_bpm": "Heart rate (bpm)",
     "respiratory_rate_bpm": "Respiratory rate (breaths/min)",
-    "blood_pressure_systolic_mmHg": "Systolic blood pressure (mmHg)",
-    "blood_pressure_diastolic_mmHg": "Diastolic blood pressure (mmHg)",
+    "blood_pressure_systolic_mmhg": "Systolic blood pressure (mmHg)",
+    "blood_pressure_diastolic_mmhg": "Diastolic blood pressure (mmHg)",
     "temperature": "Temperature",
     "oxygen_saturation_percent": "Oxygen saturation (SpO2 %)",
 }
 
 
-def missing_vital_field_labels(vital_signs: VitalSigns) -> List[str]:
-    """Human-readable labels for VitalSigns fields that are None."""
-    return [
+def missing_vital_field_labels(vital_signs: VitalSigns) -> list[str]:
+    """Human-readable labels for VitalSigns fields that are missing or incomplete.
+
+    Temperature is missing when it cannot be converted to Celsius (value and unit
+    both required).
+    """
+    missing = [
         VITAL_FIELD_LABELS[f]
         for f in VITAL_SIGN_TRIAGE_FIELDS
         if getattr(vital_signs, f, None) is None
     ]
+    if vital_signs.temperature_celsius() is None:
+        missing.append(VITAL_FIELD_LABELS["temperature"])
+    return missing
 
 
 def format_missing_vitals_footer(vital_signs: VitalSigns) -> str:

@@ -7,11 +7,7 @@ from typing import Dict, Iterable, Sequence, Tuple
 
 
 def latency_stats(latencies: Sequence[float]) -> Tuple[float, float, float]:
-    """Return (mean, median, p95). Zero-valued latencies are ignored.
-
-    P95 falls back to the single available sample when only one positive
-    measurement is provided (matches the original metrics behaviour).
-    """
+    """Return (mean, median, p95); ignores zero latencies. Single sample → that value as p95."""
     positive = [ms for ms in latencies if ms > 0]
     if not positive:
         return 0.0, 0.0, 0.0

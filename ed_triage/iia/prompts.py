@@ -23,7 +23,6 @@ Flag for immediate clinical routing ONLY after clarification confirms:
 - Acute neurological changes (sudden confusion, slurred speech, facial drooping, sudden severe headache, new inability to move limbs)
 - Uncontrolled or life-threatening bleeding (large volume, post-trauma, vomiting blood, bloody stool with dizziness)
 - Severe systemic allergic reaction (throat swelling, difficulty swallowing, widespread hives with breathing difficulty)
-- Immediate personal safety concerns
 
 Do NOT flag as urgent: haemorrhoids, small cuts, stopped nosebleeds, menstrual issues, symptoms stable for days, chronic conditions without acute deterioration, manageable pain.
 

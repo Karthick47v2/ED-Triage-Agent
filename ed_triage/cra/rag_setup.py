@@ -1,13 +1,17 @@
+import argparse
 import os
 import shutil
-import argparse
+from pathlib import Path
 
 from langchain_chroma import Chroma
 from langchain_community.document_loaders import PyPDFLoader
-from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain_openai import AzureOpenAIEmbeddings
+from langchain_text_splitters import RecursiveCharacterTextSplitter
 
-DB_DIR = "ed_triage/chroma_db"
+DEFAULT_CHROMA_DIRECTORY = Path(__file__).resolve().parents[1] / "chroma_db"
+DB_DIR = str(
+    Path(os.getenv("CHROMA_DB_DIRECTORY", str(DEFAULT_CHROMA_DIRECTORY))).resolve()
+)
 
 
 def get_embeddings():

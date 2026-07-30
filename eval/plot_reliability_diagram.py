@@ -2,19 +2,11 @@
 from __future__ import annotations
 
 import argparse
-import json
 from pathlib import Path
 from typing import List, Tuple
 
 from eval.schemas import EvaluationResult
-
-
-def _load_results(path: Path) -> List[EvaluationResult]:
-    data = json.loads(path.read_text())
-    rows = data.get("results", data) if isinstance(data, dict) else data
-    if not isinstance(rows, list):
-        raise ValueError(f"Expected list or {{'results': [...]}} in {path}")
-    return [EvaluationResult.model_validate(r) for r in rows]
+from eval.shared.io import load_evaluation_results
 
 
 def _pairs_phase1(rows: List[EvaluationResult]) -> List[Tuple[float, float]]:
@@ -112,7 +104,7 @@ def main() -> None:
     args = parser.parse_args()
 
     inp = Path(args.input)
-    rows = _load_results(inp)
+    rows = load_evaluation_results(inp)
     if args.phase == 1:
         pairs = _pairs_phase1(rows)
         title = "Reliability (Phase 1, exact ESI)"

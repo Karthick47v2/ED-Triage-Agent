@@ -16,8 +16,8 @@ if __package__ in (None, ""):
 from dotenv import load_dotenv
 from langchain_core.messages import HumanMessage
 
-from ed_triage.common.message_sanitize import message_content_to_plain_text
 from ed_triage.cra.agent import run_cra
+from ed_triage.common.message_sanitize import message_content_to_plain_text
 from ed_triage.iia.agent import extraction_node
 from ed_triage.orchestration.phase1 import build_phase1_graph
 from ed_triage.paa.agent import run_paa
@@ -54,9 +54,12 @@ def _salvage_phase1_outputs(snapshot_values: dict) -> dict:
     if not state.get("intake_data"):
         state.update(extraction_node(state))
     if state.get("intake_data") and not state.get("cra_result"):
-        state["cra_result"] = run_cra(state["intake_data"])
+        state["cra_result"] = run_cra(intake_summary=state["intake_data"])
     if state.get("intake_data") and state.get("cra_result") and not state.get("paa_result"):
-        state["paa_result"] = run_paa(state["intake_data"], state["cra_result"])
+        state["paa_result"] = run_paa(
+            intake_summary=state["intake_data"],
+            cra_result=state["cra_result"],
+        )
     return state
 
 

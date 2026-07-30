@@ -19,6 +19,7 @@ from ed_triage.orchestration.phase2 import run_phase2_pipeline
 from eval.scenario_age import merge_intake_and_scenario_age
 from eval.schemas import EvaluationResult, EvaluationScenario
 from eval.shared.io import load_json_file, save_json_file
+from eval.shared.metric_utils import exact_and_within_one
 
 load_dotenv()
 logging.basicConfig(level=logging.WARNING)
@@ -89,7 +90,7 @@ def run_single_scenario_phase2(
             intake.age_years, intake.age_months, intake.age_days, scenario
         )
         tca_result = run_phase2_pipeline(
-            intake_data=intake,
+            intake_summary=intake,
             vital_signs=vital_signs,
             physical_exam=physical_exam,
             age_years=age_years,
@@ -168,12 +169,13 @@ def _print_quick_summary(results: List[EvaluationResult]) -> None:
     ]
     if not successful:
         return
-    exact = sum(1 for r in successful if r.phase2_predicted_esi == r.ground_truth_esi)
-    within = sum(1 for r in successful if abs(r.phase2_predicted_esi - r.ground_truth_esi) <= 1)
+    y_true = [r.ground_truth_esi for r in successful]
+    y_pred = [r.phase2_predicted_esi for r in successful]
+    exact, within = exact_and_within_one(y_true, y_pred)
     print(f"\n{'=' * 60}\nPHASE 2 EVALUATION SUMMARY\n{'=' * 60}")
     print(f"Scenarios: {len(successful)}/{len(results)} successful")
-    print(f"ESI Exact Match: {exact}/{len(successful)} ({100 * exact / len(successful):.1f}%)")
-    print(f"ESI Within +/-1: {within}/{len(successful)} ({100 * within / len(successful):.1f}%)")
+    print(f"ESI Exact Match: {exact:.1%}")
+    print(f"ESI Within +/-1: {within:.1%}")
 
 
 def main() -> None:

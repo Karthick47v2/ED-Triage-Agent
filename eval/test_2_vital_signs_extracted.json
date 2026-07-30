@@ -4,10 +4,11 @@
     "vital_signs": {
       "heart_rate_bpm": null,
       "respiratory_rate_bpm": null,
-      "blood_pressure_systolic_mmHg": null,
-      "blood_pressure_diastolic_mmHg": null,
-      "temperature": null,
-      "oxygen_saturation_percent": null
+      "oxygen_saturation_percent": null,
+      "blood_pressure_systolic_mmhg": null,
+      "blood_pressure_diastolic_mmhg": null,
+      "temperature_value": null,
+      "temperature_unit": null
     }
   },
   {
@@ -15,10 +16,11 @@
     "vital_signs": {
       "heart_rate_bpm": 76,
       "respiratory_rate_bpm": 14,
-      "blood_pressure_systolic_mmHg": 118,
-      "blood_pressure_diastolic_mmHg": 72,
-      "temperature": null,
-      "oxygen_saturation_percent": null
+      "oxygen_saturation_percent": null,
+      "blood_pressure_systolic_mmhg": 118,
+      "blood_pressure_diastolic_mmhg": 72,
+      "temperature_value": null,
+      "temperature_unit": null
     }
   },
   {
@@ -26,10 +28,11 @@
     "vital_signs": {
       "heart_rate_bpm": 76,
       "respiratory_rate_bpm": 14,
-      "blood_pressure_systolic_mmHg": 118,
-      "blood_pressure_diastolic_mmHg": 78,
-      "temperature": null,
-      "oxygen_saturation_percent": null
+      "oxygen_saturation_percent": null,
+      "blood_pressure_systolic_mmhg": 118,
+      "blood_pressure_diastolic_mmhg": 78,
+      "temperature_value": null,
+      "temperature_unit": null
     }
   },
   {
@@ -37,10 +40,11 @@
     "vital_signs": {
       "heart_rate_bpm": 72,
       "respiratory_rate_bpm": 14,
-      "blood_pressure_systolic_mmHg": 110,
-      "blood_pressure_diastolic_mmHg": 70,
-      "temperature": "98.0°F",
-      "oxygen_saturation_percent": null
+      "oxygen_saturation_percent": null,
+      "blood_pressure_systolic_mmhg": 110,
+      "blood_pressure_diastolic_mmhg": 70,
+      "temperature_value": 98.0,
+      "temperature_unit": "F"
     }
   },
   {
@@ -48,10 +52,11 @@
     "vital_signs": {
       "heart_rate_bpm": null,
       "respiratory_rate_bpm": null,
-      "blood_pressure_systolic_mmHg": null,
-      "blood_pressure_diastolic_mmHg": null,
-      "temperature": null,
-      "oxygen_saturation_percent": null
+      "oxygen_saturation_percent": null,
+      "blood_pressure_systolic_mmhg": null,
+      "blood_pressure_diastolic_mmhg": null,
+      "temperature_value": null,
+      "temperature_unit": null
     }
   },
   {
@@ -59,10 +64,11 @@
     "vital_signs": {
       "heart_rate_bpm": null,
       "respiratory_rate_bpm": null,
-      "blood_pressure_systolic_mmHg": null,
-      "blood_pressure_diastolic_mmHg": null,
-      "temperature": null,
-      "oxygen_saturation_percent": null
+      "oxygen_saturation_percent": null,
+      "blood_pressure_systolic_mmhg": null,
+      "blood_pressure_diastolic_mmhg": null,
+      "temperature_value": null,
+      "temperature_unit": null
     }
   },
   {
@@ -70,10 +76,11 @@
     "vital_signs": {
       "heart_rate_bpm": 100,
       "respiratory_rate_bpm": 16,
-      "blood_pressure_systolic_mmHg": 126,
-      "blood_pressure_diastolic_mmHg": 85,
-      "temperature": "98.7°F",
-      "oxygen_saturation_percent": null
+      "oxygen_saturation_percent": null,
+      "blood_pressure_systolic_mmhg": 126,
+      "blood_pressure_diastolic_mmhg": 85,
+      "temperature_value": 98.7,
+      "temperature_unit": "F"
     }
   },
   {
@@ -81,10 +88,11 @@
     "vital_signs": {
       "heart_rate_bpm": 82,
       "respiratory_rate_bpm": 22,
-      "blood_pressure_systolic_mmHg": 98,
-      "blood_pressure_diastolic_mmHg": 72,
-      "temperature": "98.2°F",
-      "oxygen_saturation_percent": null
+      "oxygen_saturation_percent": null,
+      "blood_pressure_systolic_mmhg": 98,
+      "blood_pressure_diastolic_mmhg": 72,
+      "temperature_value": 98.2,
+      "temperature_unit": "F"
     }
   },
   {
@@ -92,10 +100,11 @@
     "vital_signs": {
       "heart_rate_bpm": 78,
       "respiratory_rate_bpm": 14,
-      "blood_pressure_systolic_mmHg": 108,
-      "blood_pressure_diastolic_mmHg": 72,
-      "temperature": "98.6°F",
-      "oxygen_saturation_percent": null
+      "oxygen_saturation_percent": null,
+      "blood_pressure_systolic_mmhg": 108,
+      "blood_pressure_diastolic_mmhg": 72,
+      "temperature_value": 98.6,
+      "temperature_unit": "F"
     }
   },
   {
@@ -103,10 +112,11 @@
     "vital_signs": {
       "heart_rate_bpm": 90,
       "respiratory_rate_bpm": 26,
-      "blood_pressure_systolic_mmHg": null,
-      "blood_pressure_diastolic_mmHg": null,
-      "temperature": "98°F",
-      "oxygen_saturation_percent": 99
+      "oxygen_saturation_percent": 99,
+      "blood_pressure_systolic_mmhg": null,
+      "blood_pressure_diastolic_mmhg": null,
+      "temperature_value": 98.0,
+      "temperature_unit": "F"
     }
   },
   {
@@ -114,10 +124,11 @@
     "vital_signs": {
       "heart_rate_bpm": 110,
       "respiratory_rate_bpm": 36,
-      "blood_pressure_systolic_mmHg": null,
-      "blood_pressure_diastolic_mmHg": null,
-      "temperature": null,
-      "oxygen_saturation_percent": 89
+      "oxygen_saturation_percent": 89,
+      "blood_pressure_systolic_mmhg": null,
+      "blood_pressure_diastolic_mmhg": null,
+      "temperature_value": null,
+      "temperature_unit": null
     }
   },
   {
@@ -125,10 +136,11 @@
     "vital_signs": {
       "heart_rate_bpm": null,
       "respiratory_rate_bpm": null,
-      "blood_pressure_systolic_mmHg": null,
-      "blood_pressure_diastolic_mmHg": null,
-      "temperature": null,
-      "oxygen_saturation_percent": null
+      "oxygen_saturation_percent": null,
+      "blood_pressure_systolic_mmhg": null,
+      "blood_pressure_diastolic_mmhg": null,
+      "temperature_value": null,
+      "temperature_unit": null
     }
   },
   {
@@ -136,10 +148,11 @@
     "vital_signs": {
       "heart_rate_bpm": 98,
       "respiratory_rate_bpm": 30,
-      "blood_pressure_systolic_mmHg": 92,
-      "blood_pressure_diastolic_mmHg": 78,
-      "temperature": "98.6°F",
-      "oxygen_saturation_percent": 98
+      "oxygen_saturation_percent": 98,
+      "blood_pressure_systolic_mmhg": 92,
+      "blood_pressure_diastolic_mmhg": 78,
+      "temperature_value": 98.6,
+      "temperature_unit": "F"
     }
   },
   {
@@ -147,10 +160,11 @@
     "vital_signs": {
       "heart_rate_bpm": 130,
       "respiratory_rate_bpm": 30,
-      "blood_pressure_systolic_mmHg": null,
-      "blood_pressure_diastolic_mmHg": null,
-      "temperature": "99°F",
-      "oxygen_saturation_percent": 100
+      "oxygen_saturation_percent": 100,
+      "blood_pressure_systolic_mmhg": null,
+      "blood_pressure_diastolic_mmhg": null,
+      "temperature_value": 99.0,
+      "temperature_unit": "F"
     }
   },
   {
@@ -158,10 +172,11 @@
     "vital_signs": {
       "heart_rate_bpm": 132,
       "respiratory_rate_bpm": 40,
-      "blood_pressure_systolic_mmHg": null,
-      "blood_pressure_diastolic_mmHg": null,
-      "temperature": "98°F",
-      "oxygen_saturation_percent": 99
+      "oxygen_saturation_percent": 99,
+      "blood_pressure_systolic_mmhg": null,
+      "blood_pressure_diastolic_mmhg": null,
+      "temperature_value": 98.0,
+      "temperature_unit": "F"
     }
   },
   {
@@ -169,10 +184,11 @@
     "vital_signs": {
       "heart_rate_bpm": 120,
       "respiratory_rate_bpm": 22,
-      "blood_pressure_systolic_mmHg": 94,
-      "blood_pressure_diastolic_mmHg": 76,
-      "temperature": "98.6°F",
-      "oxygen_saturation_percent": 99
+      "oxygen_saturation_percent": 99,
+      "blood_pressure_systolic_mmhg": 94,
+      "blood_pressure_diastolic_mmhg": 76,
+      "temperature_value": 98.6,
+      "temperature_unit": "F"
     }
   },
   {
@@ -180,10 +196,11 @@
     "vital_signs": {
       "heart_rate_bpm": null,
       "respiratory_rate_bpm": null,
-      "blood_pressure_systolic_mmHg": null,
-      "blood_pressure_diastolic_mmHg": null,
-      "temperature": null,
-      "oxygen_saturation_percent": null
+      "oxygen_saturation_percent": null,
+      "blood_pressure_systolic_mmhg": null,
+      "blood_pressure_diastolic_mmhg": null,
+      "temperature_value": null,
+      "temperature_unit": null
     }
   },
   {
@@ -191,10 +208,11 @@
     "vital_signs": {
       "heart_rate_bpm": 86,
       "respiratory_rate_bpm": 14,
-      "blood_pressure_systolic_mmHg": 112,
-      "blood_pressure_diastolic_mmHg": 80,
-      "temperature": "normal",
-      "oxygen_saturation_percent": 98
+      "oxygen_saturation_percent": 98,
+      "blood_pressure_systolic_mmhg": 112,
+      "blood_pressure_diastolic_mmhg": 80,
+      "temperature_value": null,
+      "temperature_unit": null
     }
   },
   {
@@ -202,10 +220,11 @@
     "vital_signs": {
       "heart_rate_bpm": null,
       "respiratory_rate_bpm": null,
-      "blood_pressure_systolic_mmHg": null,
-      "blood_pressure_diastolic_mmHg": null,
-      "temperature": null,
-      "oxygen_saturation_percent": null
+      "oxygen_saturation_percent": null,
+      "blood_pressure_systolic_mmhg": null,
+      "blood_pressure_diastolic_mmhg": null,
+      "temperature_value": null,
+      "temperature_unit": null
     }
   },
   {
@@ -213,10 +232,11 @@
     "vital_signs": {
       "heart_rate_bpm": null,
       "respiratory_rate_bpm": null,
-      "blood_pressure_systolic_mmHg": null,
-      "blood_pressure_diastolic_mmHg": null,
-      "temperature": null,
-      "oxygen_saturation_percent": null
+      "oxygen_saturation_percent": null,
+      "blood_pressure_systolic_mmhg": null,
+      "blood_pressure_diastolic_mmhg": null,
+      "temperature_value": null,
+      "temperature_unit": null
     }
   },
   {
@@ -224,10 +244,11 @@
     "vital_signs": {
       "heart_rate_bpm": null,
       "respiratory_rate_bpm": null,
-      "blood_pressure_systolic_mmHg": null,
-      "blood_pressure_diastolic_mmHg": null,
-      "temperature": null,
-      "oxygen_saturation_percent": null
+      "oxygen_saturation_percent": null,
+      "blood_pressure_systolic_mmhg": null,
+      "blood_pressure_diastolic_mmhg": null,
+      "temperature_value": null,
+      "temperature_unit": null
     }
   },
   {
@@ -235,10 +256,11 @@
     "vital_signs": {
       "heart_rate_bpm": 62,
       "respiratory_rate_bpm": 18,
-      "blood_pressure_systolic_mmHg": 122,
-      "blood_pressure_diastolic_mmHg": 70,
-      "temperature": "97.4°F",
-      "oxygen_saturation_percent": 100
+      "oxygen_saturation_percent": 100,
+      "blood_pressure_systolic_mmhg": 122,
+      "blood_pressure_diastolic_mmhg": 70,
+      "temperature_value": 97.4,
+      "temperature_unit": "F"
     }
   },
   {
@@ -246,10 +268,11 @@
     "vital_signs": {
       "heart_rate_bpm": null,
       "respiratory_rate_bpm": null,
-      "blood_pressure_systolic_mmHg": null,
-      "blood_pressure_diastolic_mmHg": null,
-      "temperature": null,
-      "oxygen_saturation_percent": null
+      "oxygen_saturation_percent": null,
+      "blood_pressure_systolic_mmhg": null,
+      "blood_pressure_diastolic_mmhg": null,
+      "temperature_value": null,
+      "temperature_unit": null
     }
   },
   {
@@ -257,10 +280,11 @@
     "vital_signs": {
       "heart_rate_bpm": 58,
       "respiratory_rate_bpm": 16,
-      "blood_pressure_systolic_mmHg": 106,
-      "blood_pressure_diastolic_mmHg": 80,
-      "temperature": "97°F",
-      "oxygen_saturation_percent": 100
+      "oxygen_saturation_percent": 100,
+      "blood_pressure_systolic_mmhg": 106,
+      "blood_pressure_diastolic_mmhg": 80,
+      "temperature_value": 97.0,
+      "temperature_unit": "F"
     }
   },
   {
@@ -268,10 +292,11 @@
     "vital_signs": {
       "heart_rate_bpm": null,
       "respiratory_rate_bpm": null,
-      "blood_pressure_systolic_mmHg": null,
-      "blood_pressure_diastolic_mmHg": null,
-      "temperature": null,
-      "oxygen_saturation_percent": null
+      "oxygen_saturation_percent": null,
+      "blood_pressure_systolic_mmhg": null,
+      "blood_pressure_diastolic_mmhg": null,
+      "temperature_value": null,
+      "temperature_unit": null
     }
   },
   {
@@ -279,10 +304,11 @@
     "vital_signs": {
       "heart_rate_bpm": 75,
       "respiratory_rate_bpm": 20,
-      "blood_pressure_systolic_mmHg": 107,
-      "blood_pressure_diastolic_mmHg": 66,
-      "temperature": "98.6°F",
-      "oxygen_saturation_percent": 99
+      "oxygen_saturation_percent": 99,
+      "blood_pressure_systolic_mmhg": 107,
+      "blood_pressure_diastolic_mmhg": 66,
+      "temperature_value": 98.6,
+      "temperature_unit": "F"
     }
   },
   {
@@ -290,10 +316,11 @@
     "vital_signs": {
       "heart_rate_bpm": null,
       "respiratory_rate_bpm": null,
-      "blood_pressure_systolic_mmHg": null,
-      "blood_pressure_diastolic_mmHg": null,
-      "temperature": null,
-      "oxygen_saturation_percent": null
+      "oxygen_saturation_percent": null,
+      "blood_pressure_systolic_mmhg": null,
+      "blood_pressure_diastolic_mmhg": null,
+      "temperature_value": null,
+      "temperature_unit": null
     }
   },
   {
@@ -301,10 +328,11 @@
     "vital_signs": {
       "heart_rate_bpm": null,
       "respiratory_rate_bpm": null,
-      "blood_pressure_systolic_mmHg": null,
-      "blood_pressure_diastolic_mmHg": null,
-      "temperature": null,
-      "oxygen_saturation_percent": null
+      "oxygen_saturation_percent": null,
+      "blood_pressure_systolic_mmhg": null,
+      "blood_pressure_diastolic_mmhg": null,
+      "temperature_value": null,
+      "temperature_unit": null
     }
   },
   {
@@ -312,10 +340,11 @@
     "vital_signs": {
       "heart_rate_bpm": null,
       "respiratory_rate_bpm": null,
-      "blood_pressure_systolic_mmHg": null,
-      "blood_pressure_diastolic_mmHg": null,
-      "temperature": null,
-      "oxygen_saturation_percent": null
+      "oxygen_saturation_percent": null,
+      "blood_pressure_systolic_mmhg": null,
+      "blood_pressure_diastolic_mmhg": null,
+      "temperature_value": null,
+      "temperature_unit": null
     }
   },
   {
@@ -323,10 +352,11 @@
     "vital_signs": {
       "heart_rate_bpm": null,
       "respiratory_rate_bpm": null,
-      "blood_pressure_systolic_mmHg": null,
-      "blood_pressure_diastolic_mmHg": null,
-      "temperature": null,
-      "oxygen_saturation_percent": null
+      "oxygen_saturation_percent": null,
+      "blood_pressure_systolic_mmhg": null,
+      "blood_pressure_diastolic_mmhg": null,
+      "temperature_value": null,
+      "temperature_unit": null
     }
   },
   {
@@ -334,10 +364,11 @@
     "vital_signs": {
       "heart_rate_bpm": null,
       "respiratory_rate_bpm": null,
-      "blood_pressure_systolic_mmHg": null,
-      "blood_pressure_diastolic_mmHg": null,
-      "temperature": null,
-      "oxygen_saturation_percent": null
+      "oxygen_saturation_percent": null,
+      "blood_pressure_systolic_mmhg": null,
+      "blood_pressure_diastolic_mmhg": null,
+      "temperature_value": null,
+      "temperature_unit": null
     }
   },
   {
@@ -345,10 +376,11 @@
     "vital_signs": {
       "heart_rate_bpm": 162,
       "respiratory_rate_bpm": 38,
-      "blood_pressure_systolic_mmHg": null,
-      "blood_pressure_diastolic_mmHg": null,
-      "temperature": null,
-      "oxygen_saturation_percent": null
+      "oxygen_saturation_percent": null,
+      "blood_pressure_systolic_mmhg": null,
+      "blood_pressure_diastolic_mmhg": null,
+      "temperature_value": null,
+      "temperature_unit": null
     }
   },
   {
@@ -356,10 +388,11 @@
     "vital_signs": {
       "heart_rate_bpm": 154,
       "respiratory_rate_bpm": 42,
-      "blood_pressure_systolic_mmHg": null,
-      "blood_pressure_diastolic_mmHg": null,
-      "temperature": "101˚F",
-      "oxygen_saturation_percent": 100
+      "oxygen_saturation_percent": 100,
+      "blood_pressure_systolic_mmhg": null,
+      "blood_pressure_diastolic_mmhg": null,
+      "temperature_value": 101.0,
+      "temperature_unit": "F"
     }
   },
   {
@@ -367,10 +400,11 @@
     "vital_signs": {
       "heart_rate_bpm": 132,
       "respiratory_rate_bpm": 36,
-      "blood_pressure_systolic_mmHg": 74,
-      "blood_pressure_diastolic_mmHg": 50,
-      "temperature": "98.6˚F",
-      "oxygen_saturation_percent": 99
+      "oxygen_saturation_percent": 99,
+      "blood_pressure_systolic_mmhg": 74,
+      "blood_pressure_diastolic_mmhg": 50,
+      "temperature_value": 98.6,
+      "temperature_unit": "F"
     }
   },
   {
@@ -378,10 +412,11 @@
     "vital_signs": {
       "heart_rate_bpm": null,
       "respiratory_rate_bpm": null,
-      "blood_pressure_systolic_mmHg": null,
-      "blood_pressure_diastolic_mmHg": null,
-      "temperature": null,
-      "oxygen_saturation_percent": null
+      "oxygen_saturation_percent": null,
+      "blood_pressure_systolic_mmhg": null,
+      "blood_pressure_diastolic_mmhg": null,
+      "temperature_value": null,
+      "temperature_unit": null
     }
   },
   {
@@ -389,10 +424,11 @@
     "vital_signs": {
       "heart_rate_bpm": null,
       "respiratory_rate_bpm": 10,
-      "blood_pressure_systolic_mmHg": null,
-      "blood_pressure_diastolic_mmHg": null,
-      "temperature": null,
-      "oxygen_saturation_percent": 86
+      "oxygen_saturation_percent": 86,
+      "blood_pressure_systolic_mmhg": null,
+      "blood_pressure_diastolic_mmhg": null,
+      "temperature_value": null,
+      "temperature_unit": null
     }
   },
   {
@@ -400,10 +436,11 @@
     "vital_signs": {
       "heart_rate_bpm": null,
       "respiratory_rate_bpm": null,
-      "blood_pressure_systolic_mmHg": null,
-      "blood_pressure_diastolic_mmHg": null,
-      "temperature": null,
-      "oxygen_saturation_percent": null
+      "oxygen_saturation_percent": null,
+      "blood_pressure_systolic_mmhg": null,
+      "blood_pressure_diastolic_mmhg": null,
+      "temperature_value": null,
+      "temperature_unit": null
     }
   },
   {
@@ -411,10 +448,11 @@
     "vital_signs": {
       "heart_rate_bpm": 58,
       "respiratory_rate_bpm": 16,
-      "blood_pressure_systolic_mmHg": 112,
-      "blood_pressure_diastolic_mmHg": 70,
-      "temperature": "98˚F",
-      "oxygen_saturation_percent": null
+      "oxygen_saturation_percent": null,
+      "blood_pressure_systolic_mmhg": 112,
+      "blood_pressure_diastolic_mmhg": 70,
+      "temperature_value": 98.0,
+      "temperature_unit": "F"
     }
   },
   {
@@ -422,10 +460,11 @@
     "vital_signs": {
       "heart_rate_bpm": 86,
       "respiratory_rate_bpm": 28,
-      "blood_pressure_systolic_mmHg": 102,
-      "blood_pressure_diastolic_mmHg": 60,
-      "temperature": null,
-      "oxygen_saturation_percent": 96
+      "oxygen_saturation_percent": 96,
+      "blood_pressure_systolic_mmhg": 102,
+      "blood_pressure_diastolic_mmhg": 60,
+      "temperature_value": null,
+      "temperature_unit": null
     }
   },
   {
@@ -433,10 +472,11 @@
     "vital_signs": {
       "heart_rate_bpm": null,
       "respiratory_rate_bpm": null,
-      "blood_pressure_systolic_mmHg": null,
-      "blood_pressure_diastolic_mmHg": null,
-      "temperature": null,
-      "oxygen_saturation_percent": null
+      "oxygen_saturation_percent": null,
+      "blood_pressure_systolic_mmhg": null,
+      "blood_pressure_diastolic_mmhg": null,
+      "temperature_value": null,
+      "temperature_unit": null
     }
   },
   {
@@ -444,10 +484,11 @@
     "vital_signs": {
       "heart_rate_bpm": null,
       "respiratory_rate_bpm": null,
-      "blood_pressure_systolic_mmHg": null,
-      "blood_pressure_diastolic_mmHg": null,
-      "temperature": null,
-      "oxygen_saturation_percent": null
+      "oxygen_saturation_percent": null,
+      "blood_pressure_systolic_mmhg": null,
+      "blood_pressure_diastolic_mmhg": null,
+      "temperature_value": null,
+      "temperature_unit": null
     }
   },
   {
@@ -455,10 +496,11 @@
     "vital_signs": {
       "heart_rate_bpm": null,
       "respiratory_rate_bpm": null,
-      "blood_pressure_systolic_mmHg": null,
-      "blood_pressure_diastolic_mmHg": null,
-      "temperature": null,
-      "oxygen_saturation_percent": null
+      "oxygen_saturation_percent": null,
+      "blood_pressure_systolic_mmhg": null,
+      "blood_pressure_diastolic_mmhg": null,
+      "temperature_value": null,
+      "temperature_unit": null
     }
   },
   {
@@ -466,10 +508,11 @@
     "vital_signs": {
       "heart_rate_bpm": 88,
       "respiratory_rate_bpm": 18,
-      "blood_pressure_systolic_mmHg": 100,
-      "blood_pressure_diastolic_mmHg": 68,
-      "temperature": "97˚F",
-      "oxygen_saturation_percent": null
+      "oxygen_saturation_percent": null,
+      "blood_pressure_systolic_mmhg": 100,
+      "blood_pressure_diastolic_mmhg": 68,
+      "temperature_value": 97.0,
+      "temperature_unit": "F"
     }
   },
   {
@@ -477,10 +520,11 @@
     "vital_signs": {
       "heart_rate_bpm": 178,
       "respiratory_rate_bpm": 32,
-      "blood_pressure_systolic_mmHg": 82,
-      "blood_pressure_diastolic_mmHg": 60,
-      "temperature": null,
-      "oxygen_saturation_percent": null
+      "oxygen_saturation_percent": null,
+      "blood_pressure_systolic_mmhg": 82,
+      "blood_pressure_diastolic_mmhg": 60,
+      "temperature_value": null,
+      "temperature_unit": null
     }
   },
   {
@@ -488,10 +532,11 @@
     "vital_signs": {
       "heart_rate_bpm": null,
       "respiratory_rate_bpm": null,
-      "blood_pressure_systolic_mmHg": null,
-      "blood_pressure_diastolic_mmHg": null,
-      "temperature": null,
-      "oxygen_saturation_percent": null
+      "oxygen_saturation_percent": null,
+      "blood_pressure_systolic_mmhg": null,
+      "blood_pressure_diastolic_mmhg": null,
+      "temperature_value": null,
+      "temperature_unit": null
     }
   },
   {
@@ -499,10 +544,11 @@
     "vital_signs": {
       "heart_rate_bpm": null,
       "respiratory_rate_bpm": null,
-      "blood_pressure_systolic_mmHg": null,
-      "blood_pressure_diastolic_mmHg": null,
-      "temperature": null,
-      "oxygen_saturation_percent": null
+      "oxygen_saturation_percent": null,
+      "blood_pressure_systolic_mmhg": null,
+      "blood_pressure_diastolic_mmhg": null,
+      "temperature_value": null,
+      "temperature_unit": null
     }
   },
   {
@@ -510,10 +556,11 @@
     "vital_signs": {
       "heart_rate_bpm": 102,
       "respiratory_rate_bpm": 36,
-      "blood_pressure_systolic_mmHg": 128,
-      "blood_pressure_diastolic_mmHg": 76,
-      "temperature": "98˚F",
-      "oxygen_saturation_percent": 92
+      "oxygen_saturation_percent": 92,
+      "blood_pressure_systolic_mmhg": 128,
+      "blood_pressure_diastolic_mmhg": 76,
+      "temperature_value": 98.0,
+      "temperature_unit": "F"
     }
   },
   {
@@ -521,10 +568,11 @@
     "vital_signs": {
       "heart_rate_bpm": null,
       "respiratory_rate_bpm": null,
-      "blood_pressure_systolic_mmHg": null,
-      "blood_pressure_diastolic_mmHg": null,
-      "temperature": null,
-      "oxygen_saturation_percent": null
+      "oxygen_saturation_percent": null,
+      "blood_pressure_systolic_mmhg": null,
+      "blood_pressure_diastolic_mmhg": null,
+      "temperature_value": null,
+      "temperature_unit": null
     }
   },
   {
@@ -532,10 +580,11 @@
     "vital_signs": {
       "heart_rate_bpm": null,
       "respiratory_rate_bpm": null,
-      "blood_pressure_systolic_mmHg": null,
-      "blood_pressure_diastolic_mmHg": null,
-      "temperature": null,
-      "oxygen_saturation_percent": null
+      "oxygen_saturation_percent": null,
+      "blood_pressure_systolic_mmhg": null,
+      "blood_pressure_diastolic_mmhg": null,
+      "temperature_value": null,
+      "temperature_unit": null
     }
   },
   {
@@ -543,10 +592,11 @@
     "vital_signs": {
       "heart_rate_bpm": 78,
       "respiratory_rate_bpm": 16,
-      "blood_pressure_systolic_mmHg": 118,
-      "blood_pressure_diastolic_mmHg": 80,
-      "temperature": "97˚F",
-      "oxygen_saturation_percent": null
+      "oxygen_saturation_percent": null,
+      "blood_pressure_systolic_mmhg": 118,
+      "blood_pressure_diastolic_mmhg": 80,
+      "temperature_value": 97.0,
+      "temperature_unit": "F"
     }
   },
   {
@@ -554,10 +604,11 @@
     "vital_signs": {
       "heart_rate_bpm": 72,
       "respiratory_rate_bpm": 16,
-      "blood_pressure_systolic_mmHg": 110,
-      "blood_pressure_diastolic_mmHg": 74,
-      "temperature": null,
-      "oxygen_saturation_percent": null
+      "oxygen_saturation_percent": null,
+      "blood_pressure_systolic_mmhg": 110,
+      "blood_pressure_diastolic_mmhg": 74,
+      "temperature_value": null,
+      "temperature_unit": null
     }
   },
   {
@@ -565,10 +616,11 @@
     "vital_signs": {
       "heart_rate_bpm": null,
       "respiratory_rate_bpm": null,
-      "blood_pressure_systolic_mmHg": null,
-      "blood_pressure_diastolic_mmHg": null,
-      "temperature": "100.2˚F",
-      "oxygen_saturation_percent": null
+      "oxygen_saturation_percent": null,
+      "blood_pressure_systolic_mmhg": null,
+      "blood_pressure_diastolic_mmhg": null,
+      "temperature_value": 100.2,
+      "temperature_unit": "F"
     }
   },
   {
@@ -576,10 +628,11 @@
     "vital_signs": {
       "heart_rate_bpm": null,
       "respiratory_rate_bpm": null,
-      "blood_pressure_systolic_mmHg": null,
-      "blood_pressure_diastolic_mmHg": null,
-      "temperature": null,
-      "oxygen_saturation_percent": null
+      "oxygen_saturation_percent": null,
+      "blood_pressure_systolic_mmhg": null,
+      "blood_pressure_diastolic_mmhg": null,
+      "temperature_value": null,
+      "temperature_unit": null
     }
   },
   {
@@ -587,10 +640,11 @@
     "vital_signs": {
       "heart_rate_bpm": null,
       "respiratory_rate_bpm": null,
-      "blood_pressure_systolic_mmHg": null,
-      "blood_pressure_diastolic_mmHg": null,
-      "temperature": null,
-      "oxygen_saturation_percent": null
+      "oxygen_saturation_percent": null,
+      "blood_pressure_systolic_mmhg": null,
+      "blood_pressure_diastolic_mmhg": null,
+      "temperature_value": null,
+      "temperature_unit": null
     }
   },
   {
@@ -598,10 +652,11 @@
     "vital_signs": {
       "heart_rate_bpm": 88,
       "respiratory_rate_bpm": 18,
-      "blood_pressure_systolic_mmHg": 112,
-      "blood_pressure_diastolic_mmHg": 76,
-      "temperature": "100.6˚F",
-      "oxygen_saturation_percent": null
+      "oxygen_saturation_percent": null,
+      "blood_pressure_systolic_mmhg": 112,
+      "blood_pressure_diastolic_mmhg": 76,
+      "temperature_value": 100.6,
+      "temperature_unit": "F"
     }
   },
   {
@@ -609,10 +664,11 @@
     "vital_signs": {
       "heart_rate_bpm": null,
       "respiratory_rate_bpm": null,
-      "blood_pressure_systolic_mmHg": null,
-      "blood_pressure_diastolic_mmHg": null,
-      "temperature": null,
-      "oxygen_saturation_percent": null
+      "oxygen_saturation_percent": null,
+      "blood_pressure_systolic_mmhg": null,
+      "blood_pressure_diastolic_mmhg": null,
+      "temperature_value": null,
+      "temperature_unit": null
     }
   },
   {
@@ -620,10 +676,11 @@
     "vital_signs": {
       "heart_rate_bpm": 130,
       "respiratory_rate_bpm": null,
-      "blood_pressure_systolic_mmHg": 78,
-      "blood_pressure_diastolic_mmHg": 40,
-      "temperature": null,
-      "oxygen_saturation_percent": null
+      "oxygen_saturation_percent": null,
+      "blood_pressure_systolic_mmhg": 78,
+      "blood_pressure_diastolic_mmhg": 40,
+      "temperature_value": null,
+      "temperature_unit": null
     }
   },
   {
@@ -631,10 +688,11 @@
     "vital_signs": {
       "heart_rate_bpm": 126,
       "respiratory_rate_bpm": 28,
-      "blood_pressure_systolic_mmHg": 80,
-      "blood_pressure_diastolic_mmHg": 64,
-      "temperature": null,
-      "oxygen_saturation_percent": 96
+      "oxygen_saturation_percent": 96,
+      "blood_pressure_systolic_mmhg": 80,
+      "blood_pressure_diastolic_mmhg": 64,
+      "temperature_value": null,
+      "temperature_unit": null
     }
   },
   {
@@ -642,10 +700,11 @@
     "vital_signs": {
       "heart_rate_bpm": 92,
       "respiratory_rate_bpm": 24,
-      "blood_pressure_systolic_mmHg": 122,
-      "blood_pressure_diastolic_mmHg": 80,
-      "temperature": "101.6˚F",
-      "oxygen_saturation_percent": 100
+      "oxygen_saturation_percent": 100,
+      "blood_pressure_systolic_mmhg": 122,
+      "blood_pressure_diastolic_mmhg": 80,
+      "temperature_value": 101.6,
+      "temperature_unit": "F"
     }
   },
   {
@@ -653,10 +712,11 @@
     "vital_signs": {
       "heart_rate_bpm": null,
       "respiratory_rate_bpm": null,
-      "blood_pressure_systolic_mmHg": null,
-      "blood_pressure_diastolic_mmHg": null,
-      "temperature": null,
-      "oxygen_saturation_percent": null
+      "oxygen_saturation_percent": null,
+      "blood_pressure_systolic_mmhg": null,
+      "blood_pressure_diastolic_mmhg": null,
+      "temperature_value": null,
+      "temperature_unit": null
     }
   },
   {
@@ -664,10 +724,11 @@
     "vital_signs": {
       "heart_rate_bpm": 88,
       "respiratory_rate_bpm": 22,
-      "blood_pressure_systolic_mmHg": 84,
-      "blood_pressure_diastolic_mmHg": 60,
-      "temperature": "100.4˚F",
-      "oxygen_saturation_percent": 100
+      "oxygen_saturation_percent": 100,
+      "blood_pressure_systolic_mmhg": 84,
+      "blood_pressure_diastolic_mmhg": 60,
+      "temperature_value": 100.4,
+      "temperature_unit": "F"
     }
   },
   {
@@ -675,10 +736,11 @@
     "vital_signs": {
       "heart_rate_bpm": null,
       "respiratory_rate_bpm": null,
-      "blood_pressure_systolic_mmHg": null,
-      "blood_pressure_diastolic_mmHg": null,
-      "temperature": null,
-      "oxygen_saturation_percent": null
+      "oxygen_saturation_percent": null,
+      "blood_pressure_systolic_mmhg": null,
+      "blood_pressure_diastolic_mmhg": null,
+      "temperature_value": null,
+      "temperature_unit": null
     }
   },
   {
@@ -686,10 +748,11 @@
     "vital_signs": {
       "heart_rate_bpm": 74,
       "respiratory_rate_bpm": 18,
-      "blood_pressure_systolic_mmHg": 102,
-      "blood_pressure_diastolic_mmHg": 70,
-      "temperature": "100˚F",
-      "oxygen_saturation_percent": 100
+      "oxygen_saturation_percent": 100,
+      "blood_pressure_systolic_mmhg": 102,
+      "blood_pressure_diastolic_mmhg": 70,
+      "temperature_value": 100.0,
+      "temperature_unit": "F"
     }
   },
   {
@@ -697,10 +760,11 @@
     "vital_signs": {
       "heart_rate_bpm": null,
       "respiratory_rate_bpm": null,
-      "blood_pressure_systolic_mmHg": null,
-      "blood_pressure_diastolic_mmHg": null,
-      "temperature": null,
-      "oxygen_saturation_percent": null
+      "oxygen_saturation_percent": null,
+      "blood_pressure_systolic_mmhg": null,
+      "blood_pressure_diastolic_mmhg": null,
+      "temperature_value": null,
+      "temperature_unit": null
     }
   },
   {
@@ -708,10 +772,11 @@
     "vital_signs": {
       "heart_rate_bpm": 62,
       "respiratory_rate_bpm": 14,
-      "blood_pressure_systolic_mmHg": 108,
-      "blood_pressure_diastolic_mmHg": 70,
-      "temperature": "98.8˚F",
-      "oxygen_saturation_percent": null
+      "oxygen_saturation_percent": null,
+      "blood_pressure_systolic_mmhg": 108,
+      "blood_pressure_diastolic_mmhg": 70,
+      "temperature_value": 98.8,
+      "temperature_unit": "F"
     }
   },
   {
@@ -719,10 +784,11 @@
     "vital_signs": {
       "heart_rate_bpm": null,
       "respiratory_rate_bpm": null,
-      "blood_pressure_systolic_mmHg": null,
-      "blood_pressure_diastolic_mmHg": null,
-      "temperature": null,
-      "oxygen_saturation_percent": null
+      "oxygen_saturation_percent": null,
+      "blood_pressure_systolic_mmhg": null,
+      "blood_pressure_diastolic_mmhg": null,
+      "temperature_value": null,
+      "temperature_unit": null
     }
   },
   {
@@ -730,10 +796,11 @@
     "vital_signs": {
       "heart_rate_bpm": null,
       "respiratory_rate_bpm": null,
-      "blood_pressure_systolic_mmHg": null,
-      "blood_pressure_diastolic_mmHg": null,
-      "temperature": null,
-      "oxygen_saturation_percent": null
+      "oxygen_saturation_percent": null,
+      "blood_pressure_systolic_mmhg": null,
+      "blood_pressure_diastolic_mmhg": null,
+      "temperature_value": null,
+      "temperature_unit": null
     }
   },
   {
@@ -741,10 +808,11 @@
     "vital_signs": {
       "heart_rate_bpm": null,
       "respiratory_rate_bpm": null,
-      "blood_pressure_systolic_mmHg": null,
-      "blood_pressure_diastolic_mmHg": null,
-      "temperature": null,
-      "oxygen_saturation_percent": null
+      "oxygen_saturation_percent": null,
+      "blood_pressure_systolic_mmhg": null,
+      "blood_pressure_diastolic_mmhg": null,
+      "temperature_value": null,
+      "temperature_unit": null
     }
   },
   {
@@ -752,10 +820,11 @@
     "vital_signs": {
       "heart_rate_bpm": null,
       "respiratory_rate_bpm": null,
-      "blood_pressure_systolic_mmHg": null,
-      "blood_pressure_diastolic_mmHg": null,
-      "temperature": null,
-      "oxygen_saturation_percent": null
+      "oxygen_saturation_percent": null,
+      "blood_pressure_systolic_mmhg": null,
+      "blood_pressure_diastolic_mmhg": null,
+      "temperature_value": null,
+      "temperature_unit": null
     }
   },
   {
@@ -763,10 +832,11 @@
     "vital_signs": {
       "heart_rate_bpm": null,
       "respiratory_rate_bpm": null,
-      "blood_pressure_systolic_mmHg": null,
-      "blood_pressure_diastolic_mmHg": null,
-      "temperature": null,
-      "oxygen_saturation_percent": null
+      "oxygen_saturation_percent": null,
+      "blood_pressure_systolic_mmhg": null,
+      "blood_pressure_diastolic_mmhg": null,
+      "temperature_value": null,
+      "temperature_unit": null
     }
   },
   {
@@ -774,10 +844,11 @@
     "vital_signs": {
       "heart_rate_bpm": 130,
       "respiratory_rate_bpm": 28,
-      "blood_pressure_systolic_mmHg": 90,
-      "blood_pressure_diastolic_mmHg": 60,
-      "temperature": null,
-      "oxygen_saturation_percent": 92
+      "oxygen_saturation_percent": 92,
+      "blood_pressure_systolic_mmhg": 90,
+      "blood_pressure_diastolic_mmhg": 60,
+      "temperature_value": null,
+      "temperature_unit": null
     }
   },
   {
@@ -785,10 +856,11 @@
     "vital_signs": {
       "heart_rate_bpm": 88,
       "respiratory_rate_bpm": 18,
-      "blood_pressure_systolic_mmHg": 120,
-      "blood_pressure_diastolic_mmHg": 80,
-      "temperature": "98.7°F",
-      "oxygen_saturation_percent": null
+      "oxygen_saturation_percent": null,
+      "blood_pressure_systolic_mmhg": 120,
+      "blood_pressure_diastolic_mmhg": 80,
+      "temperature_value": 98.7,
+      "temperature_unit": "F"
     }
   }
 ]
